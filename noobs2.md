@@ -337,13 +337,13 @@ When you are done, you will most likely want to save your creation. If there's o
 
 When you need to export a bitmap image, for example to upload to a website which doesn't accept vector images, you should use **`File -> Export to PNG`**. The dialog which now opens allows you to set a large range of options, but in most cases, you will only need to use the `Page` tab or the `Selection` tab to either export the page or only the selected objects. There you can set an image size or a resolution (choose at least 300dpi for printing, 600 is better), and select where you want to save your file to. Don't forget to click on **Export** when you've made all your settings!
 
-Inkscape does **not export to [JPG]{.caps}**. As [JPG]{.caps} files mean that you loose quality and get some artifacts in exchange for it, this is a deliberate decision made by the Inkscape developers.
+Inkscape does **not export to JPG**. As JPG files mean that you loose quality and get some artifacts in exchange for it, this is a deliberate decision made by the Inkscape developers.
 
 > Inkscape also has an <strong>autosave feature</strong>, which can save a copy of your drawing in regular intervals. Use it! In some rare cases, Inkscape may crash without saving a backup file, and if you’ve been working on something really important, the autosaved files can ‘save your life’ ;-) (Activate this at <code>Edit -&gt; Preferences -&gt; Input/Output -&gt; Autosave</code>).
 
 ## Where can I find more info? 
 
-A great source of info is the **official [Inkscape website](https://inkscape.org)**. There you will not only find an **[FAQ]{.caps}**, a **keyboard shortcut reference**, links to the **manuals** and the **latest news about the Inkscape project**, but also lots of links to **user forums**, to the **chat**, to the **mailing lists** and to **many different tutorials**.
+A great source of info is the **official [Inkscape website](https://inkscape.org)**. There you will not only find an **FAQ**, a **keyboard shortcut reference**, links to the **manuals** and the **latest news about the Inkscape project**, but also lots of links to **user forums**, to the **chat**, to the **mailing lists** and to **many different tutorials**.
 
 You can also meet people who know how to use Inkscape in the user groups on Facebook, Google+ and in other social networks.
 
@@ -356,7 +356,7 @@ There are quite a few **books** about Inkscape, too, not only in English, but al
 <strong>under the same license</strong> and give <strong>appropriate credit</strong>.</p>
   <p><a href="https://inkscape.org/support-us/donate/"><img src="http://vektorrascheln.de/theme/images/icons/inkscape-donate-icon-64.png" alt="Small heart with inkscape logo, CC-By-SA Golden Ribbon, Martin Owens
 and Andy
-Fitzsimon" title="Support the Inkscape Project and Donate (Logo: CC-By-SA Golden Ribbon, Martin Owens and Andy Fitzsimon)"></a>{.supportimage}
+Fitzsimon" title="Support the Inkscape Project and Donate (Logo: CC-By-SA Golden Ribbon, Martin Owens and Andy Fitzsimon)"></a>
 If you like to use <strong>Inkscape</strong> and want to support program development,
 consider <a href="https://inkscape.org/contribute/">to become an active member</a>
 of the Inkscape community or <a href="https://inkscape.org/support-us/">to make a
