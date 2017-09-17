@@ -19,8 +19,7 @@ viewport: 'width=device-width, initial-scale=1.0'
 
 ## Intro
 
-[![A penguin who likes to
-draw](/photos/inkscape_einsteiger_teil_ii/painter-a.jpg "This penguin uses Inkscape! (Click to enlarge)")](/photos/inkscape_einsteiger_teil_ii/painter-o.jpg){.imagelink}
+![A penguin who likes to draw](/media/painter-a.jpg)
 
 _This is part two of the Inkscape workshop for noobs. If you can't yet make sense of the terms "vector graphics", "SVG", "open source", "path" and "community", it is recommended that you first take a look at [part I of this workshop](http://vektorrascheln.de/posts/2015/Dec/inkscape-fuer-einsteiger-teil-i-grundlagen-en.html), to learn more about the basic principles of vector graphics._
 
@@ -42,8 +41,7 @@ When you **click on the images**, you can look at a **larger** version – and i
 
 After you have opened the file, you should be seeing something like this (minus the docked dialog on the right side, as you haven't opened any yet):
 
-[![Overview about the Inkscape
-window](/photos/inkscape_einsteiger_teil_ii/inkscape-arbeitsflaeche-en-a.jpg "The Inkscape window with all its different areas. The area in the center, that's the canvas. (Click to enlarge)")](/photos/inkscape_einsteiger_teil_ii/inkscape-arbeitsflaeche-en-o.jpg){.imagelink}
+[![Overview about the Inkscape window](/photos/inkscape_einsteiger_teil_ii/inkscape-arbeitsflaeche-en-a.jpg "The Inkscape window with all its different areas. The area in the center, that's the canvas. (Click to enlarge)")](/photos/inkscape_einsteiger_teil_ii/inkscape-arbeitsflaeche-en-o.jpg){.imagelink}
 
 At the very top of the window, there are the different **menus**, which give you access to a tremendous amount of different functions and dialogs. **Take your time to take a look around**, so you can get a rough first impression of all the possibilities Inkscape has to offer. **Don't be afraid**, even if at first, all these terms you will see may seem confusing!
 
@@ -108,9 +106,7 @@ Don't believe that it will be enough to just read through it all and look at the
 
 ### The Selection Tool 
 
-[![The selection
-tool](/photos/inkscape_einsteiger_teil_ii/selector_tool-snap.gif "The selection tool in action (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/selector_tool-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 With the **selection tool**, you can **select** objects (obviously ;-) ). Hold `Shift` to **add more objects to the selection**.
 
@@ -125,9 +121,7 @@ Now try to move, rotate and scale the red rectangle to make it fit into the dash
 
 ### The Node Tool 
 
-[![The node
-tool](/photos/inkscape_einsteiger_teil_ii/node_tool-snap.gif "The node tool in action (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/node_tool-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 You can use the node tool to **edit paths**. **Click** with it on the rectangle at the top to select it. Now **drag** the bottom right node to change the shape of the rectangular path to fit the dashed shape.
 
@@ -137,9 +131,7 @@ On the last rectangle, experiment with **automatic rounding**. In order to do so
 
 ### The Rectangle Tool 
 
-[![The rectangle
-tool](/photos/inkscape_einsteiger_teil_ii/rectangle_tool-snap.gif "The rectangle tool in action (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/rectangle_tool-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 Use the **The rectangle tool** to create **squares and rectangles**, optionally with rounded corners. Just **click** with it on the canvas and **drag** with the mouse to create a rectangle.
 
@@ -153,9 +145,7 @@ The **square-shaped handles** allow you to change the size of the rectangle.
 
 ### The Ellipse Tool
 
-[![The ellipse
-tool](/photos/inkscape_einsteiger_teil_ii/ellipse_tool-snap.gif "The ellipse tool in action (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/ellipse_tool-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 The ellipse tool creates **circles, ellipses, arcs and circle segments**. It almost works in the same way as the rectangle tool.
 
@@ -167,9 +157,7 @@ The **square-shaped** handles will, again, change the size.
 
 ### Stars and Polygons 
 
-[![The star
-tool](/photos/inkscape_einsteiger_teil_ii/star_tool-snap.gif "The star tool in action (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/star_tool-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 The **star tool** mostly does one thing: It's fun! :-)
 
@@ -181,9 +169,7 @@ Now **play around with the tool** – drag on **all handles** that you can find 
 
 ### Bézier curves and lines 
 
-[![The Bézier
-tool](/photos/inkscape_einsteiger_teil_ii/bezier_tool-snap.gif "The Bézier tool in action (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/bezier_tool-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 Use the **Bézier tool** to draw very exact **Paths** (that is, arbitrary shapes, which consist of [Bézier curves](https://en.wikipedia.org/wiki/B%C3%A9zier_curve)). If you just click with it on the canvas, you create a single **node**. A second click creates another node and a straight line between the two nodes. Try it! A **right-click** will finish the path. Or, you can click on the **start node** to **close** the path.
 
@@ -199,17 +185,13 @@ After they are finished by right-clicking, all paths you create with this tool c
 
 ### Pencil tool 
 
-[![The pencil
-tool](/photos/inkscape_einsteiger_teil_ii/pencil_tool-snap.gif "The pencil tool in action (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/pencil_tool-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 The **pencil tool** also draws paths. It is best used with a graphics tablet. If you are using a mouse, you should set the **smoothing** to a higher value in the tool bar, so your drawing will look less 'scrawly'. **Click and drag** to draw – and that's (almost) all there is :-)\ Play with the different smoothing values to find out what they do.
 
 ### Text Tool 
 
-[![The text
-tool](/photos/inkscape_einsteiger_teil_ii/text_tool-snap.gif "The text tool in action (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/text_tool-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 With the **text tool** you can – mmmh, what could it be? – write texts! But watch out: it can create two different kinds of texts. Create **normal texts** by clicking on the canvas and starting to type. These texts can be viewed in any browser.
 
@@ -221,21 +203,12 @@ Now type something nice :-)
 
 ## Important techniques 
 
-<div class="admonition info">
-
-Note:
-
-All of the mentioned techniques will <strong>always</strong> work when the selection
-tool is active.\
-If a different tool is used, some techniques will work, sometimes
-nothing will happen at all, or something very different will happen.
+> All of the mentioned techniques will <strong>always</strong> work when the selection tool is active. If a different tool is used, some techniques will work, sometimes nothing will happen at all, or something very different will happen.
 
 
 ### Copy, Stamp, Duplicate 
 
-[![Copy, stamp,
-duplicate](/photos/inkscape_einsteiger_teil_ii/copy_duplicate_stamp-snap.gif "Copy, stamp, duplicate (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/copy_duplicate_stamp-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 **Copy** works in Inkscape as it does everywhere else: with `Ctrl + C`.\ **Paste** will also work as usual with `Ctrl + V`.
 
@@ -249,9 +222,7 @@ Whenever you want to **get rid** of an object, **select it**, and then either us
 
 ### Pasting Styles
 
-[![Pasting
-styles](/photos/inkscape_einsteiger_teil_ii/paste_style-snap.gif "Pasting styles (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/paste_style-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 This feature is **enormously useful**, so really make a mental note of this keyboard shortcut!\ After you have **copied** an object using `Ctrl + C`, you can **select** a different object and then paste **just the styling** (colors, stroke width, font, font size) of the first object to the second object: **press `Ctrl + Shift + V`**.
 
@@ -263,9 +234,7 @@ To **change the fill color**, you can just click on one of the color fields in t
 
 See that red circle in the workshop file? Make it blue on the inside, and orange on the outside!
 
-[![Dialog for editing fill and
-stroke](/photos/inkscape_einsteiger_teil_ii/fill_and_stroke-snap.gif "Dialog for editing fill and stroke (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/fill_and_stroke-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 When you need to adjust a color **more precisely**, or when you would like to change the style of the stroke (width, dashes), you can use the **'Fill and Stroke'** dialog for this.
 
@@ -281,9 +250,7 @@ And finally, try to find out how to make the stroke wider (in the third tab). Yo
 
 ### Turning Objects into Paths 
 
-[![Turning objects into
-paths](/photos/inkscape_einsteiger_teil_ii/object_to_path-snap.gif "Turning objects into paths (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/object_to_path-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 There are a few features in Inkscape, which will **only ever work with paths** – e.g. most path effects and some extensions. But a **text**, a **rectangle** or an **ellipse** are **not paths**, unfortunately, which can lead to a situation in which you really would like to do something, but nothing happens...
 
@@ -295,8 +262,7 @@ Now try this with a rectangle and a text. Before you convert, try to edit them w
 
 ### Group Objects together and Ungroup Them 
 
-[![Groups](/photos/inkscape_einsteiger_teil_ii/groups-snap.gif "Groups (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/groups-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 Groups are **immensely useful**, but sometimes, they have the habit of being confusing. When multiple objects are **grouped together**, they behave **like a single object**. It is not possible to select one of them directly by just clicking on it, as all you will get is **the whole group at once**.
 
 This can be used to **order** your drawing, or to **fix the positional relationship between objects**. In a drawing which contains a face, this would help you to prevent you from accidentally moving the mouth out of the face, when both are grouped together. You would still be able to move the whole head, or to rotate it.
@@ -313,9 +279,7 @@ With `Ctrl + click` you can **always** select any object, no matter if it is in 
 
 ### Changing the Stacking Order (Z-Order) 
 
-[![Stacking
-order](/photos/inkscape_einsteiger_teil_ii/stacking-snap.gif "Stacking order (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/stacking-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 The stacking order was already explained in [Part I of this workshop](http://vektorrascheln.de/posts/2015/Dec/inkscape-fuer-einsteiger-teil-i-grundlagen-en.html##stacking-order). Now you will learn how you can change it.
 
@@ -323,9 +287,7 @@ Actually, this is pretty easy: Select an object, then press `PgUp` or `PgDown` o
 
 ### Aligning and Distributing 
 
-[![Aligning and
-distributing](/photos/inkscape_einsteiger_teil_ii/align_distribute-snap.gif "Aligning and distributing (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/align_distribute-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 You will really need this dialog whenever you would like to **neatly align objects to each other**.
 
@@ -341,37 +303,31 @@ These operations allow to turn multiple paths into a single one, or to break one
 
 ### Combine
 
-[![Combine](/photos/inkscape_einsteiger_teil_ii/combine-snap.gif "Combine (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/combine-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 When you **combine** objects, all nodes and paths of all selected paths will be **preserved** and become part of the newly created path.
 
 ### Union
 
-[![Union](/photos/inkscape_einsteiger_teil_ii/union-snap.gif "Union (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/union-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 When you **union** objects using `Ctrl + +` (in the gif animation, you can only see that the Ctrl key is being pressed), the new path will be created from the **common outline** of the selected paths.
 
 ### Difference
 
-[![Difference](/photos/inkscape_einsteiger_teil_ii/subtract-snap.gif "Difference (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/subtract-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 **Difference** punches **holes** that have the shape of the top path into the bottom path. This is why this operation only works (as of Inkscape 0.91) with exactly 2 selected paths.
 
 ### Intersection
 
-[![Intersection](/photos/inkscape_einsteiger_teil_ii/intersection-snap.gif "Intersection (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/intersection-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 After using **intersection**, only those areas are left that have been covered by each one of the selected paths.
 
 ### Exclusion, Division, Cut Path, Break Apart 
 
-[![Exclusion, division, cut path, break
-apart](/photos/inkscape_einsteiger_teil_ii/ex_div_cut_break-snap.gif "Exclusion, division, cut path, break apart (Click to play animation)")](/photos/inkscape_einsteiger_teil_ii/ex_div_cut_break-animated.gif){.imagelink .playable}
-
+_ANIMATION HERE ################################_
 
 **Exclusion** will only keep those areas that **do not overlap**. **Division** will cut a path along the borders of the top path, and creates **closed** paths. **Cut path** cuts the bottom path's outline in those places, where it **intersects the top path**. **Break apart** will break a path up into its **subpaths**, where each subpath will become a new object. The keyboard shortcuts for these operations might not work with some international keyboard layouts.
 
@@ -383,16 +339,7 @@ When you need to export a bitmap image, for example to upload to a website which
 
 Inkscape does **not export to [JPG]{.caps}**. As [JPG]{.caps} files mean that you loose quality and get some artifacts in exchange for it, this is a deliberate decision made by the Inkscape developers.
 
-<div class="admonition info">
-
-Hint:
-
-Inkscape also has an <strong>autosave feature</strong>, which can save a copy of your
-drawing in regular intervals. Use it! In some rare cases, Inkscape may
-crash without saving a backup file, and if you’ve been working on
-something really important, the autosaved files can ‘save your life’ ;-)
-(Activate this at <code>Edit -&gt; Preferences -&gt; Input/Output -&gt; Autosave</code>)
-
+> Inkscape also has an <strong>autosave feature</strong>, which can save a copy of your drawing in regular intervals. Use it! In some rare cases, Inkscape may crash without saving a backup file, and if you’ve been working on something really important, the autosaved files can ‘save your life’ ;-) (Activate this at <code>Edit -&gt; Preferences -&gt; Input/Output -&gt; Autosave</code>).
 
 ## Where can I find more info? 
 
