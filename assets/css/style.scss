@@ -1,14 +1,8 @@
 ---
 ---
 
-<<<<<<< HEAD
-@import 'jekyll-theme-cayman';
-
-=======
 @import "{{ site.theme }}";
-@media screen
-style.css?v=65b…ffd2847f61fb:1
->>>>>>> parent of be57319... hardcode theme name cyman in scss
+
 .page-header {
     background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
     padding: 3rem 1rem !important;
