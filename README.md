@@ -1,6 +1,6 @@
 # Colophon*
 
-_\* A statement usually at the end of a book, giving information about its authorship and printing._
+_\* A statement, usually at the end of a book, giving information about its authorship and printing._
 
 ## Welcome
 
@@ -21,45 +21,3 @@ This means you may **share** and **adapt** the contents, as long as you publish 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
 
 The DAO (Inkscape) portion of the guide is an extension and modification (fork if you will) of the brilliant [Inkscape for Noobs](http://vektorrascheln.de/posts/2015/Dec/inkscape-fuer-einsteiger-teil-i-grundlagen-en.html) tutorial by [Maren aka Moini](http://vektorrascheln.de/pages/about.html). Inscape for Noobs is likewise licenced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licence. 
-
-
-## placeholders
-
-### video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pg_qAN0PAcM" frameborder="0" allowfullscreen></iframe>
-
-### external gif
-imgur test 1
-
-![](https://i.imgur.com/8dxtctk.gif)
-
-### text padding
-
-this is the index. 
-this is the index. 
-this is the index. 
-
-this is the index. 
-this is the index. 
-
-this is the index. 
-this is the index. 
-
-this is the index. 
-this is the index. 
-
-### and the end
-
-
-this is the index. 
-this is the index. 
-this is the index. 
-
-this is the index. 
-this is the index. 
-this is the index. 
-
-this is the index. 
-this is the index. 
-this is the index. 
