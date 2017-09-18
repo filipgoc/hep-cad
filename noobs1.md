@@ -49,7 +49,7 @@ center and the size of its radius. For curved lines, specific properties
 are saved which describe the position of certain points on them and the
 curvature of the lines which connect these points to each other.
 
-![](/media/noob-imgs/stars.jpg){:width="650px"}
+![](/assets/media/noob-imgs/stars.jpg){:width="650px"}
 
 Objects in a vector graphic all have a well-defined **set of attributes**, each of which can easily be modified. This allows you to
 change the color of the fill or the contour line with a single click to
@@ -66,7 +66,7 @@ of the path.
 
 ### Always Crisp
 
-![](/media/noob-imgs/crisp_vs_pixelated.jpg){:width="650px"}
+![](/assets/media/noob-imgs/crisp_vs_pixelated.jpg){:width="650px"}
 
 A vector graphic behaves **very differently from, for example, a photo**, that was taken with a digital camera. Digital photos are
 **raster graphics**, and thus consist of a large number of colored dots,
@@ -88,7 +88,7 @@ for every zoom level. This is why a vector graphic is **always crisp**
 
 ### Easy to change
 
-![](/media/noob-imgs/change.jpg){:width="650px"}
+![](/assets/media/noob-imgs/change.jpg){:width="650px"}
 
 In comparison to raster graphics, it’s very easy to **radically change**
 the appearance of a vector graphic by changing only very few of its
@@ -115,7 +115,7 @@ vector images for displaying them on a monitor.
 Raster and vector graphics are each used for different purposes which
 **complement each other**.
 
-![](/media/noob-imgs/photo_raster_und_vektor-o.jpg){:width="650px"}
+![](/assets/media/noob-imgs/photo_raster_und_vektor-o.jpg){:width="650px"}
 
 **Raster images** are used for images with **a large amount of irregular, differently colored contents**, so mainly for **photos**. If
 we wanted to save those in a vector format, trying to render them on a
@@ -164,7 +164,7 @@ interests and helps improving the SVG standard even further.
 
 ### Basic elements
 
-![](/media/noob-imgs/elements.jpg){:width="650px"}
+![](/assets/media/noob-imgs/elements.jpg){:width="650px"}
 
 The SVG file format supports a number of **basic elements**,
 from which images can be constructed. These are (among others)
@@ -206,7 +206,7 @@ And what does an SVG image look like now?
 
 Like this:
 
-![](/media/noob-imgs/svgcode-rect.svg){:width="650px"}
+![](/assets/media/noob-imgs/svgcode-rect.svg){:width="650px"}
 
 Or, in a text editor, the same image will look like this:
 
@@ -264,15 +264,15 @@ To give you a small impression of what kind of images are possible with Inkscape
 
 ### Simple Objects
 
-![](/media/noob-imgs/things.jpg){:width="650px"}
+![](/assets/media/noob-imgs/things.jpg){:width="650px"}
 
 ### Buttons and Icons with Color Gradients
 
-![](/media/noob-imgs/things2.jpg){:width="650px"}
+![](/assets/media/noob-imgs/things2.jpg){:width="650px"}
 
 ### Complex Drawings with mostly natural-looking Shading
 
-![](/media/noob-imgs/things4.jpg){:width="650px"}
+![](/assets/media/noob-imgs/things4.jpg){:width="650px"}
 
 
 ### Animations

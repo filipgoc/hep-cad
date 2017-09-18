@@ -24,7 +24,7 @@ Were you looking for [Inkscape for Noobs Part I: INTRO][286023fa] instead? `¯\_
 
 <iframe width="950px" height="950px" src="https://screencast.autodesk.com/Embed/Timeline/047c1786-4a9d-4ea9-a7bf-63139d9c40eb" frameborder="0" allowfullscreen webkitallowfullscreen></iframe>
 
-  ![A penguin who likes to draw](/media/painter-a.jpg)
+  ![A penguin who likes to draw](/assets/media/painter-a.jpg)
 
   _This is part two of the Inkscape workshop for noobs. If you can't yet make sense of the terms "vector graphics", "SVG", or "path", you may need to take another look at [part I of this workshop](noobs1.md), to learn more about the basic principles of vector graphics._
 

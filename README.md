@@ -10,7 +10,7 @@ In French, there are two terms that translate CAD: DAO for 2D drawing and CAO fo
 
 This site houses the supportive information and files for ACPR 2.1 and ACPR 3.1 courses that are part of the PIRACEF continuous education program at HEP.
 
-To get started, click on DAO or CAO menu button...
+**To get started, click on DAO or CAO menu button...** ☝️
 
 ## Licence
 
