@@ -5,8 +5,12 @@ title: "Inkscape for Noobs – Part II: Practice"
 viewport: 'width=device-width, initial-scale=1.0'
 ---
 
-# DAO - Dessin Assisté par Ordinateur II
+# DAO - Inkscape for Noobs part II
   {:.no_toc}
+  
+Were you looking for [Inkscape for Noobs Part I: INTRO][286023fa] instead? `¯\_(ツ)_/¯`
+
+[286023fa]: noobs1.md
 
 ## Table of Contents
   {:.no_toc}
@@ -17,6 +21,8 @@ viewport: 'width=device-width, initial-scale=1.0'
   ---
 
 ## Intro
+
+<iframe width="950px" height="950px" src="https://screencast.autodesk.com/Embed/Timeline/047c1786-4a9d-4ea9-a7bf-63139d9c40eb" frameborder="0" allowfullscreen webkitallowfullscreen></iframe>
 
   ![A penguin who likes to draw](/media/painter-a.jpg)
 
@@ -30,7 +36,15 @@ viewport: 'width=device-width, initial-scale=1.0'
    
    If you have a large monitor, I recommend setting the browser to about 1/3 of the screen on a side, and fill the rest with Inkscape.
    
-   ![](https://i.imgur.com/UMkGBn3.jpg)
+   
+
+   [![](https://i.imgur.com/UMkGBn3.jpg)](https://i.imgur.com/UMkGBn3.jpg)
+   
+   ---
+   
+   [![display][display]][display]
+   
+   [display]: https://i.imgur.com/UMkGBn3.jpg  
    
   If you have a small display, use the keyboard shortcut `cm+tab` to quickly cycle between Inkscape and your browser.
   
@@ -66,7 +80,7 @@ viewport: 'width=device-width, initial-scale=1.0'
 
   After you have opened the file, you should be seeing something like this (minus the docked dialog on the right side, as you haven't opened any yet):
 
-  [![Overview about the Inkscape window](/photos/inkscape_einsteiger_teil_ii/inkscape-arbeitsflaeche-en-a.jpg "The Inkscape window with all its different areas. The area in the center, that's the canvas. (Click to enlarge)")](/photos/inkscape_einsteiger_teil_ii/inkscape-arbeitsflaeche-en-o.jpg){.imagelink}
+  [Overview about the Inkscape window](photo)
 
   At the very top of the window, there are the different **menus**, which give you access to a tremendous amount of different functions and dialogs. **Take your time to take a look around**, so you can get a rough first impression of all the possibilities Inkscape has to offer. **Don't be afraid**, even if at first, all these terms you will see may seem confusing!
 
@@ -98,8 +112,8 @@ viewport: 'width=device-width, initial-scale=1.0'
 
   - use the **scroll bars**
   - move the **mouse wheel** (hold `Shift` for going sideways)
-  - hold **`Ctrl` and press the `arrow keys`**
-  - hold down the **`space bar`** and move the mouse
+  - hold `Ctrl` and press the `arrow keys`
+  - hold down the `space bar` and move the mouse
 
   Now try all these different variants yourself – maybe you already know which one will be your favourite method?
 
