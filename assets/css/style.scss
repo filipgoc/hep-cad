@@ -1,6 +1,20 @@
 ---
 ---
 
+// Breakpoints
+$large-breakpoint: 68em;
+$medium-breakpoint: 46em;
+
+// Text
+$section-headings-color: #f87b0f;
+$body-text-color: #393939;
+$body-link-color: #1e6bb8;
+$blockquote-text-color: #393939;
+
+// Code
+$code-bg-color: #f3f6fa;
+$code-text-color: #ef307e;
+
 @import "{{ site.theme }}";
 
 .page-header {
@@ -12,14 +26,40 @@ h1 {
   text-transform: uppercase;
 }
 
-.main-content h1,
-.main-content h2,
-.main-content h3,
-.main-content h4,
-.main-content h5,
-.main-content h6 {
-  color: #f87b0f !important;
+img {
+  max-width: 100%; }
+  
+.main-content blockquote {
+  padding: 1.5rem 2rem;
+  margin-left: 0;
+  border-left: 1rem solid #f3f6fa;
 }
+
+.main-content pre code {
+  color: #717681;  
+}
+
+.main-content pre {
+  margin-right: 40px;
+  white-space: pre-wrap;       /* css-3 */
+ white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+ white-space: -pre-wrap;      /* Opera 4-6 */
+ white-space: -o-pre-wrap;    /* Opera 7 */
+ word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+// ANIMATION START
+
+.path {
+  animation: draw 3.5s infinite;
+}
+ 
+ @keyframes draw {
+  50% {
+    stroke-dashoffset: 0;
+  }
+}
+
+// ANIMATION END
 
 #markdown-toc {
   /* Chrome, Safari, Opera */
