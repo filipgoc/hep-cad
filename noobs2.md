@@ -1,19 +1,18 @@
 ---
 copyright: CC-By-SA 4.0
 robots: 'index, follow'
-title: "Inkscape for Noobs – Part II:\_Practice"
+title: "Inkscape for Noobs – Part II: Practice"
 viewport: 'width=device-width, initial-scale=1.0'
 ---
 
 # DAO - Dessin Assisté par Ordinateur II
-
 {:.no_toc}
 
 ## Table of Contents
-
 {:.no_toc}
 
-- TOC {:toc}
+* Toc
+TOC {:toc}
 
 ---
 
