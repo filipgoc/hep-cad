@@ -5,27 +5,6 @@ title: 'Inkscape for Noobs – Part I: The Basics'
 viewport: 'width=device-width, initial-scale=1.0'
 ---
 
--   [What is Inkscape?](#what-is-inkscape)
--   [What is a Vector Graphic?](#what-is-a-vector-graphic)
--   [A Comparison: Vector Graphic vs. Raster
-    Graphic](#a-comparison-vector-graphic-vs-raster-graphic)
-    -   [Always Crisp](#always-crisp)
-    -   [Easy to change](#easy-to-change)
-    -   [Smaller file sizes – more computational work](#smaller-file-sizes-more-computational-work)
-    -   [Different types of images for different purposes](#different-types-of-images-for-different-purposes)
--   [What is SVG](#what-is-svg)
-    -   [Basic elements](#basic-elements)
-    -   [Stacking order](#stacking-order)
-    -   [Groups](#groups)
-    -   [Plain Text / Tree Structure](#plain-text-tree-structure)
--   [Examples](#examples)
-    -   [Simple Objects](#simple-objects)
-    -   [Buttons and Icons with Color Gradients](#buttons-and-icons-with-color-gradients)
-    -   [Complex Drawings with mostly natural-looking Shading](#complex-drawings-with-mostly-natural-looking-shading)
-    -   [Vectorized Drawings which can now be resized indefinitely](#vectorized-drawings-which-can-now-be-resized-indefinitely)
-    -   [Animations](#animations)
-    -   [Plotters, Cutters and Co](#plotters-cutters-and-co)
--   [And can we finally start now?](#and-can-we-finally-start-now)
 
 
 ## What is Inkscape?
@@ -53,8 +32,7 @@ Everyone who contributes to this project becomes part of the
 
 ## What is a Vector Graphic?
 
-[![Variations of a vector
-star](/photos/inkscape_einsteiger_teil_i/was_ist_eine_vektorgrafik-a.jpg "Several variations of a vector star (Click to enlarge)")](/photos/inkscape_einsteiger_teil_i/was_ist_eine_vektorgrafik-o.jpg){.imagelink}
+<iframe width="400" height="500" src="https://www.youtube.com/embed/N-ANjOoCbTY?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Vector graphics consist of separate **objects**. These are defined by
 their **geometric properties**, e.g. a circle by the position of its
