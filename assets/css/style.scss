@@ -4,14 +4,46 @@
 @import "{{ site.theme }}";
 
 .page-header {
-    background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
-    padding: 3rem 1rem !important;
+  background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
+  padding: 3rem 1rem !important;
 }
 
 h1 {
   text-transform: uppercase;
 }
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
   color: #f87b0f !important;
+}
+
+#markdown-toc {
+  /* Chrome, Safari, Opera */
+  -webkit-columns: 2 250px;
+  -webkit-column-gap: 40px;
+  -webkit-column-rule: 3px dotted #eff0f1;
+  /* Firefox */
+  -moz-columns: 2 250px;
+  -moz-column-gap: 40px;
+  -moz-column-rule: 3px dotted #eff0f1;
+  /* Rest */
+  column-gap: 40px;
+  columns: 2 250px;
+  column-rule: 2px dashed #eff0f1;
+}
+
+#markdown-toc {
+  margin-left: -3em;
+}
+
+#markdown-toc li {
+  margin-left: 3em;
+}
+
+#markdown-toc li ul {
+  margin-left: -3em;
 }

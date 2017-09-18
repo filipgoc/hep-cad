@@ -18,13 +18,7 @@ viewport: 'width=device-width, initial-scale=1.0'
 
 ## Intro
 
-animation: union 
 
-<iframe width="400" height="500" src="https://www.youtube.com/embed/nrRPebYLy1I?rel=0" frameborder="0" allowfullscreen></iframe>
-
-animation: text tool 
-
-<iframe width="400" height="500" src="https://www.youtube.com/embed/SfkduZ39gsk?rel=0" frameborder="0" allowfullscreen></iframe>
 
 animation: subtract 
 
@@ -277,7 +271,7 @@ The **pencil tool** also draws paths. It is best used with a graphics tablet. If
 
 ### Text Tool 
 
-_ANIMATION HERE ################################_
+<iframe width="400" height="500" src="https://www.youtube.com/embed/SfkduZ39gsk?rel=0" frameborder="0" allowfullscreen></iframe>
 
 With the **text tool** you can – mmmh, what could it be? – write texts! But watch out: it can create two different kinds of texts. Create **normal texts** by clicking on the canvas and starting to type. These texts can be viewed in any browser.
 
@@ -394,8 +388,7 @@ _ANIMATION HERE ################################_
 When you **combine** objects, all nodes and paths of all selected paths will be **preserved** and become part of the newly created path.
 
 ### Union
-
-_ANIMATION HERE ################################_
+sl width="400" height="500" src="https://www.youtube.com/embed/nrRPebYLy1I?rel=0" frameborder="0" allowfullscreen></iframe>
 
 When you **union** objects using `Ctrl + +` (in the gif animation, you can only see that the Ctrl key is being pressed), the new path will be created from the **common outline** of the selected paths.
 
