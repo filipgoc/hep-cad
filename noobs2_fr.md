@@ -88,9 +88,7 @@ Il y a une astuce que vous devez faire:
 </tbody>
 </table>
 
-``` highlight
-<iframe> width="500" height="600" style="padding-top:2rem;" src="https://www.youtube.com/embed/vO8kt8geo2k?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="600" style="padding-top:2rem;" src="https://www.youtube.com/embed/vO8kt8geo2k?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## La fenêtre Inkscape
 
@@ -159,9 +157,7 @@ Ne cliquez pas simplement sur l'outil pour l'activer. Si vous ne pouvez pas vous
 
 ### L'outil de sélection
 
-``` highlight
-<iframe> width="500" height="600" src="https://www.youtube.com/embed/vO8kt8geo2k?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="600" src="https://www.youtube.com/embed/vO8kt8geo2k?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Avec l' **outil de sélection** , vous pouvez **sélectionner des** objets (évidemment ;-)).
 
@@ -182,9 +178,7 @@ Essayez maintenant de déplacer, de faire pivoter et d'étaler le rectangle roug
 
 ### L'outil Node
 
-``` highlight
-<iframe> width="500" height="700" src="https://www.youtube.com/embed/zUyhMp0PcEQ?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="700" src="https://www.youtube.com/embed/zUyhMp0PcEQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Vous pouvez utiliser l'outil nœud pour **modifier les chemins** . **Cliquez** avec le bouton sur le rectangle en haut pour le sélectionner. Maintenant, **faites glisser** le nœud inférieur droit pour changer la forme du chemin rectangulaire pour s'adapter à la forme pointillée.
 
@@ -194,9 +188,7 @@ Sur le dernier rectangle, expérimentez **l'arrondi automatique** . Pour ce fair
 
 ### L'outil Rectangle
 
-``` highlight
-<iframe> width="500" height="500" src="https://www.youtube.com/embed/GmQgo3-MEcM?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="500" src="https://www.youtube.com/embed/GmQgo3-MEcM?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Utilisez l' **outil rectangle** pour créer des **carrés et des rectangles** , éventuellement avec des coins arrondis. **Cliquez** simplement sur le lien sur la toile et **faites** -la **glisser** avec la souris pour créer un rectangle.
 
@@ -210,9 +202,7 @@ Les **poignées en forme de carré** vous permettent de changer la taille du rec
 
 ### L'outil Ellipse
 
-``` highlight
-<iframe> width="500" height="600" src="https://www.youtube.com/embed/48GVM8GdbGs?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="600" src="https://www.youtube.com/embed/48GVM8GdbGs?rel=0" frameborder="0" allowfullscreen></iframe>
 
 L'outil ellipse crée des **cercles, des ellipses, des arcs et des segments circulaires** . Il fonctionne presque de la même manière que l'outil rectangle.
 
@@ -224,9 +214,7 @@ Les poignées en **forme de carré** modifieront encore la taille.
 
 ### Étoiles et polygones
 
-``` highlight
-<iframe> width="500" height="600" src="https://www.youtube.com/embed/AN4PSoPGkY0?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="600" src="https://www.youtube.com/embed/AN4PSoPGkY0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 L' **outil étoile** est utile pour les **polygones.**
 
@@ -238,9 +226,7 @@ Maintenant, **jouez avec l'outil** - faites glisser **toutes les poignées** que
 
 ### Courbes et lignes de Bézier
 
-``` highlight
-<iframe> width="500" height="700" src="https://www.youtube.com/embed/otE3HppQPLE?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="700" src="https://www.youtube.com/embed/otE3HppQPLE?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Utilisez l' **outil Bézier** pour dessiner des **chemins** très exacts (c'est-à-dire des formes arbitraires, qui comportent des [courbes](https://en.wikipedia.org/wiki/B%C3%A9zier_curve) de [Bézier](https://en.wikipedia.org/wiki/B%C3%A9zier_curve) ). Si vous cliquez simplement sur le lien sur le lien, vous créez un seul **nœud** . Un deuxième clic crée un autre nœud et une ligne droite entre les deux noeuds. Essayez-le! Un **clic droit** va terminer le chemin. Ou, vous pouvez cliquer sur le **nœud de départ** pour **fermer** le chemin.
 
@@ -256,17 +242,13 @@ Après avoir terminé en cliquant avec le bouton droit de la souris, tous les ch
 
 ### Outil crayon
 
-``` highlight
-<iframe> width="500" height="700" src="https://www.youtube.com/embed/B71Yp-AY3Xk?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="700" src="https://www.youtube.com/embed/B71Yp-AY3Xk?rel=0" frameborder="0" allowfullscreen></iframe>
 
 L' **outil crayon** dessine aussi des chemins. Il est préférable d'utiliser une tablette graphique. Si vous utilisez une souris, vous devez définir le **lissage** à une valeur supérieure dans la barre d'outils, de sorte que votre dessin sera moins «scrawly». **Cliquez et faites glisser** pour dessiner - et c'est (presque) tout ce qu'il y a: -) \\ Jouez avec les différentes valeurs de lissage pour savoir ce qu'ils font.
 
 ### Outil de texte
 
-``` highlight
-<iframe> width="500" height="600" src="https://www.youtube.com/embed/SfkduZ39gsk?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="600" src="https://www.youtube.com/embed/SfkduZ39gsk?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Avec l' **outil de texte,** vous pouvez - mmmh, que pourrait-il être? - Écrivez des textes! Mais attention: il peut créer deux types de textes différents. Créez **des textes normaux** en cliquant sur le canevas et en commençant à taper. Ces textes peuvent être visualisés sur n'importe quel navigateur.
 
@@ -278,9 +260,7 @@ Maintenant tapez quelque chose de gentil :-)
 
 ### Copier, Tampon, Dupliquer
 
-``` highlight
-<iframe> width="500" height="600" src="https://www.youtube.com/embed/RhvU-8Edy10?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="600" src="https://www.youtube.com/embed/RhvU-8Edy10?rel=0" frameborder="0" allowfullscreen></iframe>
 
 **Copier** fonctionne dans Inkscape comme il le fait partout ailleurs: avec `Ctrl + C`. \\ **Paste** fonctionnera aussi comme d'habitude avec `Ctrl + V`.
 
@@ -294,9 +274,7 @@ Chaque fois que vous voulez **vous débarrasser** d'un objet, **sélectionnez-le
 
 ### Collant des styles
 
-``` highlight
-<iframe> width="500" height="750" src="https://www.youtube.com/embed/puco6jg_V7w?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="750" src="https://www.youtube.com/embed/puco6jg_V7w?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Cette fonctionnalité est **extrêmement utile** , alors faites-en vraiment une note mentale sur ce raccourci clavier! \\ Après avoir **copié** un objet en utilisant `Ctrl + C`, vous pouvez **sélectionner** un objet différent, puis coller **juste le style** (couleurs, largeur de traits, police, taille de police) de le premier objet sur le second objet: \*\* appuyez sur `Ctrl + Shift + V`.
 
@@ -308,9 +286,7 @@ Pour **modifier la couleur de remplissage** , vous pouvez simplement sélectionn
 
 Lorsque vous avez besoin d'ajuster une couleur **plus précisément** , ou lorsque vous souhaitez modifier le style du trait (largeur, tirets), vous pouvez utiliser la boîte de dialogue **«Remplir et tracer»** pour cela.
 
-``` highlight
-<iframe> width="800" height="600" src="https://www.youtube.com/embed/lLm8qngqpMw?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="800" height="600" src="https://www.youtube.com/embed/lLm8qngqpMw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Ouvrez la boîte de dialogue maintenant. Tout est gris ennuyeux quand il n'y a rien sélectionné - alors mieux aussi sélectionner un objet!
 
@@ -324,9 +300,7 @@ Et enfin, essayez de savoir comment rendre le trait plus large (dans le troisiè
 
 ### Transformer des objets en chemins
 
-``` highlight
-<iframe> width="500" height="600" src="https://www.youtube.com/embed/tb906EL44ow?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="600" src="https://www.youtube.com/embed/tb906EL44ow?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Certaines caractéristiques de Inkscape, qui **ne fonctionneront qu'avec des chemins** , par exemple la plupart des effets de cheminement et des extensions. Mais un **texte** , un **rectangle** ou une **ellipse** **ne** sont **pas des chemins** , malheureusement, ce qui peut conduire à une situation dans laquelle vous aimeriez vraiment faire quelque chose, mais rien ne se passe ...
 
@@ -338,9 +312,7 @@ Essayez maintenant avec un rectangle et un texte. Avant de vous convertir, essay
 
 ### Grouper les objets ensemble et les désagréger
 
-``` highlight
-<iframe> width="500" height="600" src="https://www.youtube.com/embed/Po0EKgwCvb8?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="600" src="https://www.youtube.com/embed/Po0EKgwCvb8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Les groupes sont **immensément utiles** , mais parfois, ils ont l'habitude d'être confus. Lorsque plusieurs objets sont **regroupés** , ils se comportent **comme un seul objet** . Il n'est pas possible de sélectionner l'un d'entre eux directement en cliquant simplement dessus, car tout ce que vous obtiendrez est **tout le groupe à la fois** .
 
@@ -358,9 +330,7 @@ Avec `Ctrl + click`vous pouvez **toujours** sélectionner un objet, peu importe 
 
 ### Modification de l'ordre d'empilement (commande Z)
 
-``` highlight
-<iframe> width="500" height="600" src="https://www.youtube.com/embed/CIk9EBEpRj0?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="600" src="https://www.youtube.com/embed/CIk9EBEpRj0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 L'ordre d'empilement a déjà été expliqué dans la [partie I de cet atelier](http://vektorrascheln.de/posts/2015/Dec/inkscape-fuer-einsteiger-teil-i-grundlagen-en.html##stacking-order) . Maintenant, vous apprendrez comment vous pouvez le changer.
 
@@ -368,9 +338,7 @@ En fait, c'est assez simple: sélectionnez un objet, puis appuyez sur `PgUp`ou `
 
 ### Alignement et distribution
 
-``` highlight
-<iframe> width="800" height="600" src="https://www.youtube.com/embed/kKFdWsUoebk?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="800" height="600" src="https://www.youtube.com/embed/kKFdWsUoebk?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Vous aurez vraiment besoin de cette boîte de dialogue chaque fois que vous souhaitez **bien aligner les objets les uns avec les autres** .
 
@@ -386,41 +354,31 @@ Ces opérations permettent de transformer plusieurs chemins en une seule, ou de 
 
 ### Combiner
 
-``` highlight
-<iframe> width="500" height="600" src="https://www.youtube.com/embed/Uu9hLZdHq_k?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="600" src="https://www.youtube.com/embed/Uu9hLZdHq_k?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Lorsque vous **combinez des** objets, tous les nœuds et tous les chemins de tous les chemins sélectionnés seront **conservés** et feront partie du chemin nouvellement créé.
 
 ### syndicat
 
-``` highlight
-<iframe> width="500" height="600" src="https://www.youtube.com/embed/nrRPebYLy1I?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="600" src="https://www.youtube.com/embed/nrRPebYLy1I?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Lorsque vous **unissez des** objets en utilisant `Ctrl + +`(dans l'animation gif, vous pouvez seulement voir que la touche Ctrl est pressée), le nouveau chemin sera créé à partir **des contours communs** des chemins sélectionnés.
 
 ### Différence
 
-``` highlight
-<iframe> width="500" height="600" src="https://www.youtube.com/embed/N-ANjOoCbTY?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="600" src="https://www.youtube.com/embed/N-ANjOoCbTY?rel=0" frameborder="0" allowfullscreen></iframe>
 
 **La différence** frappe les **trous** qui ont la forme du chemin supérieur dans le chemin inférieur. **C'est pourquoi cette opération ne fonctionne que (Inkscape 0.91) avec exactement 2 chemins sélectionnés.**
 
 ### Intersection
 
-``` highlight
-<iframe> width="500" height="600" src="https://www.youtube.com/embed/AkfMx1aTNBU?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="500" height="600" src="https://www.youtube.com/embed/AkfMx1aTNBU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Après avoir utilisé l' **intersection** , seules les zones ont été couvertes par chacun des chemins sélectionnés.
 
 ### Exclusion, Division, Cut Path, Break Apart
 
-``` highlight
-<iframe> width="600" height="650" src="https://www.youtube.com/embed/oWoY7PTVuOw?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+<iframe width="600" height="650" src="https://www.youtube.com/embed/oWoY7PTVuOw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 **L'exclusion** ne gardera que les zones qui **ne se chevauchent pas** . **Division** va couper un chemin le long des limites du chemin supérieur, et crée **des** chemins **fermés** . **Le chemin de** coupe coupe le contour du chemin inférieur dans ces endroits, où il **coupe le chemin supérieur** . **La rupture s'écroulera** dans ses sous- **chemins** , où chaque sous-chemin deviendra un nouvel objet. **Les raccourcis clavier pour ces opérations peuvent ne pas fonctionner avec certaines configurations de clavier internationales.**
 
