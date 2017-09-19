@@ -3840,7 +3840,7 @@ t </tspan> ,
          sodipodi:role="line"
          id="tspan7189-0"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-create a simple text by just clicking, 
+créez un texte simple en cliquant simplement,
 
 </tspan><tspan
          y="34030.18"
@@ -3848,7 +3848,7 @@ create a simple text by just clicking,
          sodipodi:role="line"
          id="tspan7380"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-create a flow text by click-dragging with the mouse (not web browser compatible!),
+créez un flux de texte en faisant un clic-glisser avec la souris (pas compatible avec le navigateur compatible!),
 
 </tspan><tspan
          y="34056.617"
@@ -3856,7 +3856,7 @@ create a flow text by click-dragging with the mouse (not web browser compatible!
          sodipodi:role="line"
          id="tspan7378"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-settings can be changed in the tool controls bar at the top)
+les réglages peuvent être modifiés dans la barre de contrôle de l&#39;outil en haut)
 
 </tspan></text>
     <text
@@ -3870,7 +3870,7 @@ settings can be changed in the tool controls bar at the top)
          x="2613.6077"
          y="34123.934"
          style="font-size:33.01138687px;line-height:1.25;stroke-width:3.13662362">
-Write something here!
+Écrivez quelque chose ici!
 
 </tspan></text>
     <text
@@ -3884,7 +3884,7 @@ Write something here!
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">
-Turn Objects to Paths
+Transformer les objets en chemins
 
 </tspan><tspan
          id="tspan6175-1"
@@ -3900,7 +3900,7 @@ Turn Objects to Paths
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-Select object(s), then Path - Object to Path or
+Sélectionnez l&#39;objet (s), puis le chemin d&#39;accès - Objet vers le chemin ou
 
 </tspan><tspan
          y="36118.18"
@@ -3930,7 +3930,7 @@ Select object(s), then Path - Object to Path or
          id="tspan6137-6"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">
-Delete Objects
+Supprimer des objets
 
 </tspan><tspan
          id="tspan6139-0"
@@ -3958,7 +3958,7 @@ Ctrl + X
 </tspan>   ,  <tspan
    style="font-weight:bold"
    id="tspan4108">
-Backspace</tspan>  or using the right-click context menu
+Retour arrière (backspace)</tspan>  ou en utilisant le menu contextuel du clic droit
 
 </tspan></text>
     <text
@@ -3972,7 +3972,7 @@ Backspace</tspan>  or using the right-click context menu
          y="38015.453"
          x="2597.6643"
          sodipodi:role="line">
-Boolean Operations
+Opérations booléennes
 
 </tspan></text>
     <text
@@ -4000,7 +4000,7 @@ Boolean Operations
            style="line-height:100%" /></flowRegion><flowPara
          id="flowPara4094"
          style="font-size:26.66666603px;line-height:100%">
-practice random commands here. 
+pratiquez des commandes aléatoires ici.
 
 </flowPara></flowRoot>    <flowRoot
        transform="translate(2544.1751,28899.331)"
@@ -4017,7 +4017,7 @@ practice random commands here.
            id="rect4110" /></flowRegion><flowPara
          style="font-size:40px;line-height:100%"
          id="flowPara4114">
-Guided practice.
+Pratique guidée.
 
 </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -4034,7 +4034,7 @@ Guided practice.
            style="font-size:40px;line-height:100%" /></flowRegion><flowPara
          id="flowPara4138"
          style="font-size:40px;line-height:100%">
-Scratchpad
+Bloc-note
 
 </flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#729fcf;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 8;stroke-dashoffset:0;stroke-opacity:1"
