@@ -1,44 +1,22 @@
+---
+copyright: CC-By-SA 4.0
+robots: 'index, follow'
+title: "Inkscape for Noobs – Part II: Practice"
+viewport: 'width=device-width, initial-scale=1.0'
+---
+
 # DAO - Inkscape pour Noobs partie II
+{:.no_toc}
 
-Étiez-vous à la recherche d' [Inkscape pour Noobs Part I: INTRO à la](/noobs1.html) place?`¯\_(ツ)_/¯`
+Étiez-vous à la recherche d' [Inkscape pour Noobs Part I: INTRO à la](noobs1_fr.md) place?`¯\_(ツ)_/¯`
 
-## Table des matières
+## Table of Contents
+  {:.no_toc}
 
--   <a href="#download-the-workshop-file" id="markdown-toc-download-the-workshop-file"><strong></strong></a>**[Téléchargez le dossier de l'atelier](#)**
--   <a href="#howto-properly-use-the-the-animations-screencasts" id="markdown-toc-howto-properly-use-the-the-animations-screencasts">POUR utiliser correctement les animations / Screencast</a>
--   <a href="#the-inkscape-window" id="markdown-toc-the-inkscape-window">La fenêtre Inkscape</a>
--   <a href="#saving-your-drawing" id="markdown-toc-saving-your-drawing">Enregistrement de votre dessin</a>
--   <a href="#moving-around-the-document" id="markdown-toc-moving-around-the-document">Déplacement du document</a>
-    -   <a href="#scrolling" id="markdown-toc-scrolling">Défilement</a>
-    -   <a href="#zooming" id="markdown-toc-zooming">Zoom</a>
--   <a href="#self-work-start" id="markdown-toc-self-work-start">DEMARRAGE AUTOMATIQUE</a>
--   <a href="#shortcuts" id="markdown-toc-shortcuts">Raccourcis</a>
-    -   <a href="#the-selection-tool" id="markdown-toc-the-selection-tool">L'outil de sélection</a>
-    -   <a href="#the-node-tool" id="markdown-toc-the-node-tool">L'outil Node</a>
-    -   <a href="#the-rectangle-tool" id="markdown-toc-the-rectangle-tool">L'outil Rectangle</a>
-    -   <a href="#the-ellipse-tool" id="markdown-toc-the-ellipse-tool">L'outil Ellipse</a>
-    -   <a href="#stars-and-polygons" id="markdown-toc-stars-and-polygons">Étoiles et polygones</a>
-    -   <a href="#bézier-curves-and-lines" id="markdown-toc-bézier-curves-and-lines">Courbes et lignes de Bézier</a>
-    -   <a href="#pencil-tool" id="markdown-toc-pencil-tool">Outil crayon</a>
-    -   <a href="#text-tool" id="markdown-toc-text-tool">Outil de texte</a>
-    -   <a href="#copy-stamp-duplicate" id="markdown-toc-copy-stamp-duplicate">Copier, Tampon, Dupliquer</a>
-    -   <a href="#deleting-objects" id="markdown-toc-deleting-objects">Suppression d'objets</a>
-    -   <a href="#pasting-styles" id="markdown-toc-pasting-styles">Collant des styles</a>
-    -   <a href="#changing-colors-editing-stroke-and-fill" id="markdown-toc-changing-colors-editing-stroke-and-fill">Modification des couleurs, modification du traçage et du remplissage</a>
-    -   <a href="#turning-objects-into-paths" id="markdown-toc-turning-objects-into-paths">Transformer des objets en chemins</a>
-    -   <a href="#group-objects-together-and-ungroup-them" id="markdown-toc-group-objects-together-and-ungroup-them">Grouper les objets ensemble et les désagréger</a>
-    -   <a href="#changing-the-stacking-order-z-order" id="markdown-toc-changing-the-stacking-order-z-order">Modification de l'ordre d'empilement (commande Z)</a>
-    -   <a href="#aligning-and-distributing" id="markdown-toc-aligning-and-distributing">Alignement et distribution</a>
--   <a href="#boolean-operations" id="markdown-toc-boolean-operations">Opérations booléennes</a>
-    -   <a href="#combine" id="markdown-toc-combine">Combiner</a>
-    -   <a href="#union" id="markdown-toc-union">syndicat</a>
-    -   <a href="#difference" id="markdown-toc-difference">Différence</a>
-    -   <a href="#intersection" id="markdown-toc-intersection">Intersection</a>
-    -   <a href="#exclusion-division-cut-path-break-apart" id="markdown-toc-exclusion-division-cut-path-break-apart">Exclusion, Division, Cut Path, Break Apart</a>
--   <a href="#where-can-i-find-more-info" id="markdown-toc-where-can-i-find-more-info">Où puis-je trouver plus d'informations?</a>
--   <a href="#colophon" id="markdown-toc-colophon">Colophon</a>
+  * TOC
+  {:toc}
 
-------------------------------------------------------------------------
+---
 
 ## **[Téléchargez le dossier de l'atelier](#)**
 
@@ -54,7 +32,7 @@ Ce didacticiel est assez long et contient une très grande quantité d'informati
 
 ## POUR utiliser correctement les animations / Screencast
 
-Beaucoup de screencasts sont intégrés comme vidéos YouTube, car cela offre des **options de lecture** flexibles et pratiques **.**
+Beaucoup de screencasts sont intégrés comme vidéos YouTube, car cela offre des **options de lecture** flexibles et pratiques.
 
 > Essayez ces raccourcis. Cela changera la façon dont vous regardez Youtube pour toujours.
 
@@ -173,7 +151,7 @@ Pour définir le niveau de zoom actuel, encore une fois, Inkscape offre différe
 
 ## DEMARRAGE AUTOMATIQUE
 
-**Suivre dans le dossier de l'atelier. Si vous ne pouvez pas faire quelque chose, demandez-moi et je vais vous aider.** ****
+**Suivre dans le dossier de l'atelier. Si vous ne pouvez pas faire quelque chose, demandez-moi et je vais vous aider.**
 
 ## Raccourcis
 
