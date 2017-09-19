@@ -1,525 +1,365 @@
-<section class="main-content">
-      <h1 class="no_toc" id="dao---inkscape-for-noobs-part-ii"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DAO - Inkscape pour Noobs partie II</font></font></h1>
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Étiez-vous à la recherche d' </font></font><a href="/noobs1.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inkscape pour Noobs Part I: INTRO à la</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> place?</font></font><code class="highlighter-rouge">¯\_(ツ)_/¯</code></p>
-
-<h2 class="no_toc" id="table-of-contents"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Table des matières</font></font></h2>
-
-<ul id="markdown-toc">
-  <li><a href="#download-the-workshop-file" id="markdown-toc-download-the-workshop-file"><strong></strong></a><strong><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Téléchargez le dossier de l'atelier</font></font></a></strong></li>
-  <li><a href="#howto-properly-use-the-the-animations-screencasts" id="markdown-toc-howto-properly-use-the-the-animations-screencasts"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">POUR utiliser correctement les animations / Screencast</font></font></a></li>
-  <li><a href="#the-inkscape-window" id="markdown-toc-the-inkscape-window"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La fenêtre Inkscape</font></font></a></li>
-  <li><a href="#saving-your-drawing" id="markdown-toc-saving-your-drawing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Enregistrement de votre dessin</font></font></a></li>
-  <li><a href="#moving-around-the-document" id="markdown-toc-moving-around-the-document"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Déplacement du document</font></font></a>    <ul>
-      <li><a href="#scrolling" id="markdown-toc-scrolling"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Défilement</font></font></a></li>
-      <li><a href="#zooming" id="markdown-toc-zooming"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Zoom</font></font></a></li>
-    </ul>
-  </li>
-  <li><a href="#self-work-start" id="markdown-toc-self-work-start"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DEMARRAGE AUTOMATIQUE</font></font></a></li>
-  <li><a href="#shortcuts" id="markdown-toc-shortcuts"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Raccourcis</font></font></a>    <ul>
-      <li><a href="#the-selection-tool" id="markdown-toc-the-selection-tool"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L'outil de sélection</font></font></a></li>
-      <li><a href="#the-node-tool" id="markdown-toc-the-node-tool"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L'outil Node</font></font></a></li>
-      <li><a href="#the-rectangle-tool" id="markdown-toc-the-rectangle-tool"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L'outil Rectangle</font></font></a></li>
-      <li><a href="#the-ellipse-tool" id="markdown-toc-the-ellipse-tool"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L'outil Ellipse</font></font></a></li>
-      <li><a href="#stars-and-polygons" id="markdown-toc-stars-and-polygons"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Étoiles et polygones</font></font></a></li>
-      <li><a href="#bézier-curves-and-lines" id="markdown-toc-bézier-curves-and-lines"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Courbes et lignes de Bézier</font></font></a></li>
-      <li><a href="#pencil-tool" id="markdown-toc-pencil-tool"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outil crayon</font></font></a></li>
-      <li><a href="#text-tool" id="markdown-toc-text-tool"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outil de texte</font></font></a></li>
-      <li><a href="#copy-stamp-duplicate" id="markdown-toc-copy-stamp-duplicate"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Copier, Tampon, Dupliquer</font></font></a></li>
-      <li><a href="#deleting-objects" id="markdown-toc-deleting-objects"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Suppression d'objets</font></font></a></li>
-      <li><a href="#pasting-styles" id="markdown-toc-pasting-styles"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Collant des styles</font></font></a></li>
-      <li><a href="#changing-colors-editing-stroke-and-fill" id="markdown-toc-changing-colors-editing-stroke-and-fill"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modification des couleurs, modification du traçage et du remplissage</font></font></a></li>
-      <li><a href="#turning-objects-into-paths" id="markdown-toc-turning-objects-into-paths"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Transformer des objets en chemins</font></font></a></li>
-      <li><a href="#group-objects-together-and-ungroup-them" id="markdown-toc-group-objects-together-and-ungroup-them"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Grouper les objets ensemble et les désagréger</font></font></a></li>
-      <li><a href="#changing-the-stacking-order-z-order" id="markdown-toc-changing-the-stacking-order-z-order"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modification de l'ordre d'empilement (commande Z)</font></font></a></li>
-      <li><a href="#aligning-and-distributing" id="markdown-toc-aligning-and-distributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Alignement et distribution</font></font></a></li>
-    </ul>
-  </li>
-  <li><a href="#boolean-operations" id="markdown-toc-boolean-operations"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Opérations booléennes</font></font></a>    <ul>
-      <li><a href="#combine" id="markdown-toc-combine"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Combiner</font></font></a></li>
-      <li><a href="#union" id="markdown-toc-union"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">syndicat</font></font></a></li>
-      <li><a href="#difference" id="markdown-toc-difference"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Différence</font></font></a></li>
-      <li><a href="#intersection" id="markdown-toc-intersection"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Intersection</font></font></a></li>
-      <li><a href="#exclusion-division-cut-path-break-apart" id="markdown-toc-exclusion-division-cut-path-break-apart"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Exclusion, Division, Cut Path, Break Apart</font></font></a></li>
-    </ul>
-  </li>
-  <li><a href="#where-can-i-find-more-info" id="markdown-toc-where-can-i-find-more-info"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Où puis-je trouver plus d'informations?</font></font></a></li>
-  <li><a href="#colophon" id="markdown-toc-colophon"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Colophon</font></font></a></li>
-</ul>
-
-<hr>
-
-<h2 id="download-the-workshop-file"><strong><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Téléchargez le dossier de l'atelier</font></font></a></strong></h2>
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">et l'ouvrir avec Inkscape. </font><font style="vertical-align: inherit;">Gardez la fenêtre de votre navigateur ouverte pour pouvoir basculer entre les deux applications.</font></font></p>
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ici, dans votre navigateur, vous pouvez </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">lire les explications</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> et </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">regarder les animations</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , alors que dans Inkscape, vous pouvez </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">essayer vos nouvelles connaissances</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> tout de suite.</font></font></p>
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ce didacticiel est assez long et contient une très grande quantité d'informations.</font></font></p>
-
-<blockquote>
-  <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nous prendrons une </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pause de 15 minutes</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> à ** 14: 30 **</font></font></p>
-</blockquote>
-
-<blockquote>
-  <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">De plus, dans ce mode de travail individuel, </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">soulevez-vous et étirez-vous chaque fois que vous en avez besoin. </font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C'est votre temps, c'est votre vie.</font></font></p>
-</blockquote>
-
-<h2 id="howto-properly-use-the-the-animations-screencasts"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">POUR utiliser correctement les animations / Screencast</font></font></h2>
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Beaucoup de screencasts sont intégrés comme vidéos YouTube, car cela offre des </font><strong><font style="vertical-align: inherit;">options de lecture</font></strong><font style="vertical-align: inherit;"> flexibles et pratiques </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></strong></p>
-
-<blockquote>
-  <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Essayez ces raccourcis. </font><font style="vertical-align: inherit;">Cela changera la façon dont vous regardez Youtube pour toujours.</font></font></p>
-</blockquote>
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Il y a une astuce que vous devez faire:</font></font></p>
-
-<ol>
-  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cliquez sur la lecture pour charger la vidéo</font></font></li>
-  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">lorsque la vidéo est </font><font style="vertical-align: inherit;">chargée </font><font style="vertical-align: inherit;">, </font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cliquez à nouveau</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> pour l'arrêter</font></font></li>
-  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">utilisez maintenant des raccourcis. </font><font style="vertical-align: inherit;">(Barre d'espace pour jouer.)</font></font></li>
-</ol>
-
-<table>
-  <thead>
-    <tr>
-      <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">action</font></font></th>
-      <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">raccourci</font></font></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pause / play</font></font></strong></td>
-      <td><code class="highlighter-rouge">spacebar</code></td>
-    </tr>
-    <tr>
-      <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sautez 5s en arrière</font></font></strong> <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> (utilisez ceci lorsque vous ne pouvez pas suivre et devez surveiller la dernière étape!)</font></font></td>
-      <td><code class="highlighter-rouge">left arrow</code></td>
-    </tr>
-    <tr>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">saute 5s vers l'avant</font></font></td>
-      <td><code class="highlighter-rouge">right arrow</code></td>
-    </tr>
-    <tr>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">accélérer</font></font></td>
-      <td><code class="highlighter-rouge">shift + &gt;</code></td>
-    </tr>
-    <tr>
-      <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ralentir</font></font></strong> <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> (utilisez ceci lorsque vous ne pouvez pas suivre!)</font></font></td>
-      <td><code class="highlighter-rouge">shift + &lt;</code></td>
-    </tr>
-    <tr>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">un cadre vers l'avant</font></font></td>
-      <td><code class="highlighter-rouge">.</code></td>
-    </tr>
-    <tr>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">un cadre en arrière</font></font></td>
-      <td><code class="highlighter-rouge">,</code></td>
-    </tr>
-    <tr>
-      <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">plein écran</font></font></strong>  <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> (utilisez ceci pour passer à plein et à l'arrière rapidement)</font></font></td>
-      <td><code class="highlighter-rouge">doubleclick</code></td>
-    </tr>
-  </tbody>
-</table>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="600" style="padding-top:2rem;" src="https://www.youtube.com/embed/vO8kt8geo2k?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
-
-<h2 id="the-inkscape-window"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La fenêtre Inkscape</font></font></h2>
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Après avoir ouvert le fichier, vous devriez voir quelque chose comme ça (moins la boîte de dialogue embarquée sur le côté droit, comme vous n'en avez pas encore ouvert):</font></font></p>
-
-<p><img src="/assets/media/inkscape.jpg" alt="Vue d'ensemble de la fenêtre Inkscape"></p>
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">En haut de la fenêtre, il existe différents </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">menus</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , qui vous donnent accès à une énorme quantité de fonctions et dialogues différents. </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prenez le temps de faire un tour</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , afin que vous puissiez avoir une première impression de toutes les possibilités offertes par Inkscape. </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N'ayez pas peur</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , même si au début, tous ces termes que vous verrez peuvent sembler confus!</font></font></p>
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lorsque vous passez </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">des objets</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , des </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">astuces</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> vous indiquent quelles sont ces fonctions et quels sont les raccourcis pour les invoquer. </font><font style="vertical-align: inherit;">(Malheureusement, les raccourcis sont parfois incorrects sur Mac, alors regardez ailleurs au besoin).</font></font></p>
-
-<p><img src="https://i.imgur.com/vpgSieT.png" alt=""></p>
-
-<h2 id="saving-your-drawing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Enregistrement de votre dessin</font></font></h2>
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comme vous travaillez sur vos fichiers, prenez l'habitude de </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sauvegarder</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> périodiquement </font><font style="vertical-align: inherit;">votre travail. </font><font style="vertical-align: inherit;">De cette façon, vous ne perdrez pas votre travail si le programme ou l'ordinateur tombe en panne.</font></font></p>
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Enregistrez les fichiers en tant que </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inkscape SVG</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Cela permettra de conserver les données Inkscape doit rendre les fichiers les plus confortables (lignes directrices, grilles, étoiles modifiables et beaucoup plus).</font></font></p>
-
-<table>
-  <tbody>
-    <tr>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">enregistrer le fichier</font></font></td>
-      <td><code class="highlighter-rouge">ctrl + s</code></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nous allons couvrir l'enregistrement dans différents formats de fichiers la prochaine fois.</font></font></p>
-
-<h2 id="moving-around-the-document"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Déplacement du document</font></font></h2>
-
-<h3 id="scrolling"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Défilement</font></font></h3>
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Il existe une gamme d'options disponibles pour </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">déplacer le canevas</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Vous pouvez:</font></font></p>
-
-<table>
-  <tbody>
-    <tr>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sur Mac, une traction à deux doigts dans n'importe quelle direction</font></font></td>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">se déplacer</font></font></td>
-    </tr>
-    <tr>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Déplacez la </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">molette de</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> la </font><strong><font style="vertical-align: inherit;">souris</font></strong><font style="vertical-align: inherit;"> (maintenez la </font></font><code class="highlighter-rouge">Shift</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">touche vers le haut)</font></font></td>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">se déplacer</font></font></td>
-    </tr>
-    <tr>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">utilisez les </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">barres de défilement</font></font></strong></td>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">se déplacer</font></font></td>
-    </tr>
-    <tr>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">maintenez </font></font><code class="highlighter-rouge">space bar</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">la souris </font><font style="vertical-align: inherit;">enfoncée </font><font style="vertical-align: inherit;">et déplacez la souris</font></font></td>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">se déplacer</font></font></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Essayez maintenant toutes ces différentes variantes vous-même - peut-être que vous connaissez déjà la méthode préférée?</font></font></p>
-
-<h3 id="zooming"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Zoom</font></font></h3>
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pour définir le niveau de zoom actuel, encore une fois, Inkscape offre différentes façons de le faire:</font></font></p>
-
-<ul>
-  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">maintenez </font><strong><font style="vertical-align: inherit;">la souris</font></strong></font><code class="highlighter-rouge">Ctrl</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> enfoncée et </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">tournez la souris</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .
-    </font></font><ul>
-      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sur Mac, tenir </font></font><code class="highlighter-rouge">ctrl</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">et deux doigts de défilement.</font></font></li>
-    </ul>
-  </li>
-  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">utilisez l' </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">outil de zoom</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><code class="highlighter-rouge">z</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">) à partir de la boîte à outils à gauche
-    </font></font><ul>
-      <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sur Mac, </font></font><code class="highlighter-rouge">ctrl + two finger click</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">zoom sur et </font></font><code class="highlighter-rouge">shift + two finger click</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">zooms</font></font></li>
-    </ul>
-  </li>
-  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Les chiffres permettent de zoomer pour présélectionner les valeurs. </font><font style="vertical-align: inherit;">Essayez-les tous.
-    </font></font><ul>
-      <li><code class="highlighter-rouge">5</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> va zoomer sur la page</font></font></li>
-      <li><code class="highlighter-rouge">4</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> zoom sur le dessin complet</font></font></li>
-      <li><code class="highlighter-rouge">3</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> à l'objet sélectionné</font></font></li>
-      <li><code class="highlighter-rouge">6</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> à la largeur de la page
-        </font></font><blockquote>
-          <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Celui-ci est essentiel pour notre dossier d'atelier. </font><font style="vertical-align: inherit;">chaque fois que vous avez besoin de 'RÉINITIALISER' votre niveau de zoom à la lecture, utilisez</font></font><code class="highlighter-rouge">6</code></p>
-        </blockquote>
-      </li>
-    </ul>
-  </li>
-  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lorsque vous maintenez la </font></font><code class="highlighter-rouge">q</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">touche enfoncée, la zone de vue actuelle sera </font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">temporairement</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> agrandie pour être deux fois plus grande ou, si un objet est sélectionné, sur l'objet.</font></font></li>
-</ul>
+---
+copyright: CC-By-SA 4.0
+robots: 'index, follow'
+title: "Inkscape for Noobs – Part II: Practice"
+viewport: 'width=device-width, initial-scale=1.0'
+---
 
-<h2 id="self-work-start"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DEMARRAGE AUTOMATIQUE</font></font></h2>
+# DAO - Inkscape for Noobs part II
+  {:.no_toc}
+  
+Were you looking for [Inkscape for Noobs Part I: INTRO](noobs1.md) instead? `¯\_(ツ)_/¯`
 
-<p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Suivre dans le dossier de l'atelier. </font><font style="vertical-align: inherit;">Si vous ne pouvez pas faire quelque chose, demandez-moi et je vais vous aider.</font></font></strong>
-<strong><font style="vertical-align: inherit;"></font></strong></p>
+## Table of Contents
+  {:.no_toc}
 
-<h2 id="shortcuts"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Raccourcis</font></font></h2>
+  * TOC
+  {:toc}
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ne cliquez pas simplement sur l'outil pour l'activer. </font><font style="vertical-align: inherit;">Si vous ne pouvez pas vous souvenir du raccourci, regardez, puis utilisez-le. </font><font style="vertical-align: inherit;">Apprendre un programme comme Inkscape est en partie seulement apprendre beaucoup de raccourcis clavier.</font></font></p>
+  ---
 
-<h3 id="the-selection-tool"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L'outil de sélection</font></font></h3>
+## **[Download the workshop file](#)**
+  
+   and to open it with Inkscape. Keep your browser window open to be able to switch between the two applications.
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="600" src="https://www.youtube.com/embed/vO8kt8geo2k?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+  Here in your web browser, you can **read the explanations** and **watch the animations**, while in Inkscape, you can **try out your new knowledge** right away.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Avec l' </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">outil de sélection</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , vous pouvez </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sélectionner des</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> objets (évidemment ;-)).</font></font></p>
+  This tutorial is quite long, and contains a really huge amount of information. 
+  
+  > We will take a **15 minute break** at **14:30 **
+  
+  > In addition, while in this individual-work mode, **get up and stretch anytime you need.** It's your time, it's your life.
 
-<table>
-  <tbody>
-    <tr>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tenir </font></font><code class="highlighter-rouge">Shift</code></td>
-      <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pour </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ajouter d'autres objets à la sélection</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></td>
-    </tr>
-  </tbody>
-</table>
+## HOWTO properly use the the Animations/ Screencasts
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L'outil peut également être utilisé pour:</font></font></p>
+  Many of the screencasts are embedded as YouTube videos, because this provides a flexible and practical **playback options.**
+  
+  > DO try these shortcuts. It will change the way you watch Youtube forever. 
+ 
+ There's a trick you have to do: 
+ 
+  1. click on the play to load the video
+  2. when the video loads, _click again_ to pause it
+  3. now use shortcuts. (Spacebar to play.)
 
-<ul>
-  <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">déplacer des</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> objets avec la souris</font></font></li>
-  <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">changer leur taille</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> (tenir </font></font><code class="highlighter-rouge">Ctrl</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pour préserver le rapport d'aspect),</font></font></li>
-  <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">incliner</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> et</font></font></li>
-  <li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Faites pivoter les</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> objets (lorsque vous maintenez </font></font><code class="highlighter-rouge">Ctrl</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">en rotation, l'objet tourne dans les étapes prédéfinies de 15 ° (peut être changé dans les préférences)).</font></font></li>
-</ul>
+  action            | shortcut
+  ------------------|--------------
+  **pause/ play**       | `spacebar`
+  **jump 5s back** <br> (use this when you can't follow and need to re-watch the last step !)      | `left arrow`  
+  jump 5s forward   | `right arrow`
+  speed up          | `shift + >`
+  **slow down** <br> (use this when you can't follow !)        | `shift + <`
+  one frame forward | `.`
+  one frame back    | `,`
+  **fullscreen**  <br> (use this when to switch to full and back fast)      | `doubleclick`
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Déplacez les objets avec des flèches et ctrl + flèches</font></font></p>
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Essayez maintenant de déplacer, de faire pivoter et d'étaler le rectangle rouge pour l'ajuster dans les cadres pointillés. </font><font style="vertical-align: inherit;">Pour entrer en mode de rotation, cliquez une deuxième fois sur un objet sélectionné. </font><font style="vertical-align: inherit;">Également redimensionner le rectangle tout en conservant son rapport d'aspect.</font></font></p>
+<iframe width="500" height="600" style="padding-top:2rem;" src="https://www.youtube.com/embed/vO8kt8geo2k?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<h3 id="the-node-tool"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L'outil Node</font></font></h3>
+## The Inkscape Window
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="700" src="https://www.youtube.com/embed/zUyhMp0PcEQ?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+  After you have opened the file, you should be seeing something like this (minus the docked dialog on the right side, as you haven't opened any yet):
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vous pouvez utiliser l'outil nœud pour </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">modifier les chemins</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cliquez</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> avec le bouton sur le rectangle en haut pour le sélectionner. </font><font style="vertical-align: inherit;">Maintenant, </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">faites glisser</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> le nœud inférieur droit pour changer la forme du chemin rectangulaire pour s'adapter à la forme pointillée.</font></font></p>
+  ![Overview about the Inkscape window](/assets/media/inkscape.jpg)
 
-<p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Faites glisser</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> sur une des lignes de connexion (un </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">segment de chemin</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ) entre deux noeuds du rectangle au milieu pour changer sa forme. </font><font style="vertical-align: inherit;">Essayez également ce qui se produit lorsque vous faites glisser les deux </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">poignées</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> d'un nœud pour modifier la forme du segment de chemin voisin (si vous avez un segment de chemin totalement droit, ces poignées </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ne sont pas visibles</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> (elles sont «rétractées»), mais vous pouvez simplement traîne un peu sur le segment du chemin pour les faire apparaître.).</font></font></p>
+  At the very top of the window, there are the different **menus**, which give you access to a tremendous amount of different functions and dialogs. **Take your time to take a look around**, so you can get a rough first impression of all the possibilities Inkscape has to offer. **Don't be afraid**, even if at first, all these terms you will see may seem confusing!
+  
+  When you **hover-over items**, there are **tooltips** that tell you what these functions are, and what are the shortcuts to invoke them. (Unfortunately, the shortcuts are sometimes wrong on Mac so look elsewhere as needed.)
+  
+  ![](https://i.imgur.com/vpgSieT.png)
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sur le dernier rectangle, expérimentez </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">l'arrondi automatique</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Pour ce faire, sélectionnez tous les nœuds en faisant glisser un </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">rectangle de sélection</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> (également appelé sélection en caoutchouc) autour d'eux avec la souris. </font><font style="vertical-align: inherit;">Maintenant, cliquez sur le bouton </font></font><code class="highlighter-rouge">Make selected nodes auto-smooth</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dans la barre de contrôle de l'outil en haut. </font><font style="vertical-align: inherit;">Ses angles sont bien plus lisses maintenant, n'est-ce pas?</font></font></p>
+## Saving your drawing 
 
-<h3 id="the-rectangle-tool"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L'outil Rectangle</font></font></h3>
+  As you are working on your files, get in the habit of periodically **saving** your work. That way, you won't lose your work if the program or computer crashes. 
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="500" src="https://www.youtube.com/embed/GmQgo3-MEcM?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+  Save files as **Inkscape SVG**. This will keep the data Inkscape needs to make editing the files comfortable for you (guidelines, grids, editable stars and many more).
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Utilisez l' </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">outil rectangle</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> pour créer des </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">carrés et des rectangles</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , éventuellement avec des coins arrondis. </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cliquez</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> simplement </font><font style="vertical-align: inherit;">sur le lien sur la toile et </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">faites</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> -la </font><strong><font style="vertical-align: inherit;">glisser</font></strong><font style="vertical-align: inherit;"> avec la souris pour créer un rectangle.</font></font></p>
+  save file | `ctrl + s`
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Si vous préférez dessiner un </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">carré</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , maintenez la </font></font><code class="highlighter-rouge">Ctrl</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">touche enfoncée tout en faisant glisser.</font></font></p>
+  We'll cover saving to different file formats next time. 
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Si vous </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">continuez à faire glisser</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , tout en maintenant la </font></font><code class="highlighter-rouge">Ctrl</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">touche enfoncée, le rectangle «sautera» au prochain rapport de </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">largeur à hauteur de tout le nombre entier</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Gardez un oeil sur la </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">barre d'état</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - le rapport largeur / hauteur s'affiche là-bas!</font></font></p>
+## Moving around the Document 
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pour </font><strong><font style="vertical-align: inherit;">entourer </font></strong></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">les angles</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> d'un rectangle, tirez sur le petit </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cercle</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> dans son coin supérieur droit. </font><font style="vertical-align: inherit;">Maintenant, une autre poignée en forme de cercle apparaît. </font><font style="vertical-align: inherit;">Si vous faites glisser celui-ci, l'arrondi du coin deviendra asymétrique.</font></font></p>
+### Scrolling
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Les </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">poignées en forme de carré</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> vous permettent de changer la taille du rectangle.</font></font></p>
+  There are a range of options available for **moving the canvas**. You can:
+  
+on Mac, two-finger drag in any direction | move around
+move the **mouse wheel** (hold `Shift` for going sideways) | move around
+use the **scroll bars** | move around
+hold down the `space bar` and move the mouse | move around
 
-<h3 id="the-ellipse-tool"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L'outil Ellipse</font></font></h3>
+  Now try all these different variants yourself – maybe you already know which one will be your favorite method?
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="600" src="https://www.youtube.com/embed/48GVM8GdbGs?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+### Zooming
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L'outil ellipse crée des </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cercles, des ellipses, des arcs et des segments circulaires</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Il fonctionne presque de la même manière que l'outil rectangle.</font></font></p>
+  For setting the current zoom level, again, Inkscape offers different ways how to do it:
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Remplissez maintenant les formes pointillées avec des ellipses et un cercle. </font><font style="vertical-align: inherit;">Rappelez-vous la barre d'état!</font></font></p>
+  - hold `Ctrl` down and **turn the mouse wheel**.
+    - on Mac, hold `ctrl` and two finger scroll.
+  - use the **zoom tool** (`z`) from the tool box at the left
+    - on Mac, `ctrl + two finger click` zooms in and `shift + two finger click` zooms out
+  - Numbers zoom to preset values. Try them all. 
+    - `5` will zoom to page
+    - `4` will zoom to the whole drawing
+    - `3` to the selected object
+    - `6` to the page width
+  >This one is essential for our workshop file. anytime you need to 'RESET' your zoom level to reading, use `6`
+  - When you hold down the `q` key, the current view area will be _temporarily_ zoomed to be twice as large, or, if an object is selected, to the object.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pour créer des </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">segments</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> et des </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">arcs </font></font></strong><font style="vertical-align: inherit;"><strong><font style="vertical-align: inherit;">circulaires</font></strong><font style="vertical-align: inherit;"> , tirez sur les poignées rondes. </font><font style="vertical-align: inherit;">Notez la différence entre le résultat que vous obtenez lorsque la souris est à l' </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">intérieur</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ou </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">à</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> l' </font><strong><font style="vertical-align: inherit;">extérieur de</font></strong><font style="vertical-align: inherit;"> l'ellipse tout en faisant glisser!</font></font></p>
+## SELF WORK START
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Les </font><font style="vertical-align: inherit;">poignées en </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">forme de carré</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> modifieront encore la taille.</font></font></p>
+**Follow along in in the workshop file.**
+**If you can't make something work, ask me and I'll help you.** 
 
-<h3 id="stars-and-polygons"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Étoiles et polygones</font></font></h3>
+## Shortcuts 
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="600" src="https://www.youtube.com/embed/AN4PSoPGkY0?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+Don't just click on tool to activate it. If you can't remember the shortcut, have a look, and then use it. Learning a program like Inkscape is partly just learning a LOT of keyboard shortcuts.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L' </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">outil étoile</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> est utile pour les </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">polygones.</font></font></strong></p>
+### The Selection Tool
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Au sommet, dans sa barre de contrôle des outils, vous pouvez choisir si vous souhaitez dessiner une </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">étoile</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ou un </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">polygone régulier</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Vous pouvez également utiliser ces boutons pour transformer une étoile en un polygone et revenir à nouveau.</font></font></p>
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/vO8kt8geo2k?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nombre de coins ou de conseils</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> peut également être réglé là-bas.</font></font></p>
+  With the **selection tool**, you can **select** objects (obviously ;-) ).
+  
+  Hold `Shift` | to **add more objects to the selection**.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Maintenant, </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">jouez avec l'outil</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - faites glisser </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">toutes les poignées</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> que vous pouvez trouver et regardez ce qui se passe. </font><font style="vertical-align: inherit;">Si vous réussissez à créer le modèle le plus approprié, vous obtiendrez un </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">bonus supplémentaire</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> :-)</font></font></p>
+  The tool also can be used to:
 
-<h3 id="bézier-curves-and-lines"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Courbes et lignes de Bézier</font></font></h3>
+  - **move** objects with mouse
+  - **change their size** (hold `Ctrl` to preserve the aspect ratio),
+  - **skew** and
+  - **rotate** objects (when you hold `Ctrl` while rotating, the object will be rotated in the preset 15° steps (can be changed in the preferences)).
+  
+  move objects with arrows 
+  and ctrl + arrows
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="700" src="https://www.youtube.com/embed/otE3HppQPLE?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+  Now try to move, rotate and scale the red rectangle to make it fit into the dashed frames. To enter the rotation mode, click a second time on a selected object. Also resize the rectangle while keeping its aspect ratio.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Utilisez l' </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">outil Bézier</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> pour dessiner des </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">chemins</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> très exacts </font><font style="vertical-align: inherit;">(c'est-à-dire des formes arbitraires, qui comportent des </font></font><a href="https://en.wikipedia.org/wiki/B%C3%A9zier_curve"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">courbes</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> de </font><a href="https://en.wikipedia.org/wiki/B%C3%A9zier_curve"><font style="vertical-align: inherit;">Bézier</font></a><font style="vertical-align: inherit;"> ). </font><font style="vertical-align: inherit;">Si vous cliquez simplement sur le lien sur le lien, vous créez un seul </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nœud</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Un deuxième clic crée un autre nœud et une ligne droite entre les deux noeuds. </font><font style="vertical-align: inherit;">Essayez-le! </font><font style="vertical-align: inherit;">Un </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">clic droit</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> va terminer le chemin. </font><font style="vertical-align: inherit;">Ou, vous pouvez cliquer sur le </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nœud de départ</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> pour </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fermer</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> le chemin.</font></font></p>
+### The Node Tool 
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Si, pour une raison quelconque, vous ne souhaitez dessiner </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">que des lignes verticales ou horizontales</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , vous pouvez le sélectionner dans la barre de contrôle des outils en haut.</font></font></p>
+  <iframe width="500" height="700" src="https://www.youtube.com/embed/zUyhMp0PcEQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vous pouvez également essayer ce qui se passe lorsque, au lieu de cliquer à plusieurs reprises sur le canevas, vous </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">maintenez le bouton de la souris enfoncé et faites-le glisser</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , et cliquez simplement après cela (n'utilisez pas le mode ligne "vertical / horizontal", mais le premier mode normal !). </font><font style="vertical-align: inherit;">Je trouve un peu difficile de contrôler ce comportement, mais peut-être que vous l'apprécierez!</font></font></p>
+  You can use the node tool to **edit paths**. **Click** with it on the rectangle at the top to select it. Now **drag** the bottom right node to change the shape of the rectangular path to fit the dashed shape.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Et quel est le deuxième bouton dans la barre de contrôle des outils? </font><font style="vertical-align: inherit;">Voyez ce qui se passe si vous créez un </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">chemin spiro</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> !</font></font></p>
+  **Drag** on one of the connecting lines (a **path segment**) between two nodes of the rectangle in the middle to change its shape. Also try out what happens when you drag the two **handles** of a node to modify the shape the neighbouring path segment (if you have a totally straight path segment, these handles **aren't visible** (they are 'retracted'), but you can just drag a tiny bit on the path segment to make them show up.).
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Après avoir terminé en cliquant avec le bouton droit de la souris, tous les chemins que vous créez avec cet outil peuvent être édités à volonté en </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">utilisant l'outil nœud</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></p>
+  On the last rectangle, experiment with **automatic rounding**. In order to do so, select all nodes by dragging a **selection rectangle** (also called rubberband selection) around them with the mouse. Now click on the button `Make selected nodes auto-smooth` in the tool control bar at the top. Its corners look a lot smoother now, right?
 
-<p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L'outil de sélection, l'outil Bézier et l'outil nœud</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ensemble sont probablement les outils les plus importants lorsque vous souhaitez créer un véritable dessin. </font><font style="vertical-align: inherit;">Donc , </font><font style="vertical-align: inherit;">essayez absolument de mémoriser les raccourcis clavier pour ces trois outils: </font></font><code class="highlighter-rouge">s</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">, </font></font><code class="highlighter-rouge">b</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">et </font></font><code class="highlighter-rouge">n</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(ou vous pouvez utiliser les raccourcis affichés dans leurs infobulles - ceux qui vont travailler, aussi, mais je les trouve un peu plus difficiles à atteindre). </font><strong><font style="vertical-align: inherit;">Ce n'était pas si difficile maintenant, n'est-ce pas?</font></strong></font></p>
+### The Rectangle Tool 
 
-<h3 id="pencil-tool"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outil crayon</font></font></h3>
+  <iframe width="500" height="500" src="https://www.youtube.com/embed/GmQgo3-MEcM?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="700" src="https://www.youtube.com/embed/B71Yp-AY3Xk?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+  Use the **The rectangle tool** to create **squares and rectangles**, optionally with rounded corners. Just **click** with it on the canvas and **drag** with the mouse to create a rectangle.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L' </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">outil crayon</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> dessine aussi des chemins. </font><font style="vertical-align: inherit;">Il est préférable d'utiliser une tablette graphique. </font><font style="vertical-align: inherit;">Si vous utilisez une souris, vous devez définir le </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">lissage</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> à une valeur supérieure dans la barre d'outils, de sorte que votre dessin sera moins «scrawly». </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cliquez et faites glisser</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> pour dessiner - et c'est (presque) tout ce qu'il y a: -) \ Jouez avec les différentes valeurs de lissage pour savoir ce qu'ils font.</font></font></p>
+  If you would prefer to draw a **square**, hold the `Ctrl` key down while dragging.
 
-<h3 id="text-tool"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Outil de texte</font></font></h3>
+  If you **continue to drag**, while holding down the `Ctrl` key, the rectangle will 'jump' to the next **whole-number width-to-height** ratio. Keep an eye on the **status bar** – the width-to-height ratio is displayed there!
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="600" src="https://www.youtube.com/embed/SfkduZ39gsk?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+  To **round the corners** of a rectangle, pull on the little **circle** in its upper right corner. Now, another circle-shaped handle will appear. If you drag that one, the corner rounding will become asymmetrical.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Avec l' </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">outil de texte,</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> vous pouvez - mmmh, que pourrait-il être? </font><font style="vertical-align: inherit;">- Écrivez des textes! </font><font style="vertical-align: inherit;">Mais attention: il peut créer deux types de textes différents. </font><font style="vertical-align: inherit;">Créez </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">des textes normaux</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> en cliquant sur le canevas et en commençant à taper. </font><font style="vertical-align: inherit;">Ces textes peuvent être visualisés sur n'importe quel navigateur.</font></font></p>
+  The **square-shaped handles** allow you to change the size of the rectangle.
 
-<p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le flux de texte</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> peut être créé en </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cliquant et en faisant glisser</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> avec l'outil de texte. </font><font style="vertical-align: inherit;">Un flux de texte peut actuellement (SVG 1.1 standard) </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">être affiché uniquement dans Inkscape</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Si vous souhaitez l'utiliser avec un programme différent (par exemple, insérez-le dans une page Web à utiliser avec un navigateur), vous devez d'abord le </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">convertir en texte normal</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> (cette option est disponible dans le </font></font><code class="highlighter-rouge">Text</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">menu </font></font><code class="highlighter-rouge">Convert to Text</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">).</font></font></p>
+### The Ellipse Tool
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vous pouvez définir la </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">police et la taille</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> de la </font><strong><font style="vertical-align: inherit;">police</font></strong><font style="vertical-align: inherit;"> dans la barre de contrôle de l'outil.</font></font></p>
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/48GVM8GdbGs?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Maintenant tapez quelque chose de gentil :-)</font></font></p>
+  The ellipse tool creates **circles, ellipses, arcs and circle segments**. It almost works in the same way as the rectangle tool.
 
-<h3 id="copy-stamp-duplicate"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Copier, Tampon, Dupliquer</font></font></h3>
+  Now fill the dashed shapes with ellipses and a circle. Remember the status bar!
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="600" src="https://www.youtube.com/embed/RhvU-8Edy10?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+  To create **circle segments** and **arcs**, pull on the round handles. Note the difference between the result you get when the mouse is **inside** or **outside** the ellipse while dragging!
 
-<p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Copier</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> fonctionne dans Inkscape comme il le fait partout ailleurs: avec </font></font><code class="highlighter-rouge">Ctrl + C</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">. \ </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Paste</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> fonctionnera aussi comme d'habitude avec </font></font><code class="highlighter-rouge">Ctrl + V</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></p>
+  The **square-shaped** handles will, again, change the size.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ensuite, il y a aussi des </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">doubles emplois</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Sélectionnez un objet et appuyez sur </font></font><code class="highlighter-rouge">Ctrl + D</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">. </font><font style="vertical-align: inherit;">Vous ne voyez pas une différence? </font><font style="vertical-align: inherit;">Eh bien, c'est parce que l'objet en double </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">s'est terminé exactement au-dessus de l'objet d'origine</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Faites-le glisser un peu avec la souris, et vous verrez l'objet ci-dessous.</font></font></p>
+### Stars and Polygons 
 
-<p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L'estampage</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> est une fonctionnalité amusante, qui vous permet de </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sceller</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> rapidement des </font><strong><font style="vertical-align: inherit;">copies d'un objet</font></strong><font style="vertical-align: inherit;"> sur tout le lieu. </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Maintenez</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> l'objet avec la souris, puis appuyez sur </font></font><code class="highlighter-rouge">space bar</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pour "déposer" une copie à l'emplacement actuel. </font><strong><font style="vertical-align: inherit;">Déplacez l'original un peu, puis appuyez de nouveau sur la barre d'espace.</font></strong></font></p>
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/AN4PSoPGkY0?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<h3 id="deleting-objects"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Suppression d'objets</font></font></h3>
+  The **star tool** is useful for **polygons.**
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chaque fois que vous voulez </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">vous débarrasser</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> d'un objet, </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sélectionnez-le</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , puis utilisez </font></font><code class="highlighter-rouge">backspace</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-le </font></font><code class="highlighter-rouge">Del</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ou appuyez sur </font></font><code class="highlighter-rouge">Ctrl + X</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">. </font><font style="vertical-align: inherit;">Le </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">menu contextuel</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> («menu contextuel») contient également un élément de menu pour la suppression d'objet.</font></font></p>
+  At the top, in its tool controls bar, you can choose if you want to draw a **star** or a **regular polygon**. You can also use these buttons to turn a star into a polygon and back again.
 
-<h3 id="pasting-styles"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Collant des styles</font></font></h3>
+  The **number of corners or tips** can also be set there.
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="750" src="https://www.youtube.com/embed/puco6jg_V7w?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+  Now **play around with the tool** – drag on **all handles** that you can find and watch what happens. If you succeed to create the right-most model, you'll get an **extra special bonus point** ;-)
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cette fonctionnalité est </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">extrêmement utile</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , alors faites-en vraiment une note mentale sur ce raccourci clavier! \ Après avoir </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">copié</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> un objet en utilisant </font></font><code class="highlighter-rouge">Ctrl + C</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">, vous pouvez </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sélectionner</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> un objet différent, puis coller </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">juste le style</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> (couleurs, largeur de traits, police, taille de police) de le premier objet sur le second objet: ** appuyez sur </font></font><code class="highlighter-rouge">Ctrl + Shift + V</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></p>
+### Bézier curves and lines 
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Maintenez maintenant le rectangle vert-bleu-jaune rose-vert. </font><font style="vertical-align: inherit;">Aller!</font></font></p>
+  <iframe width="500" height="700" src="https://www.youtube.com/embed/otE3HppQPLE?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<h3 id="changing-colors-editing-stroke-and-fill"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modification des couleurs, modification du traçage et du remplissage</font></font></h3>
+  Use the **Bézier tool** to draw very exact **Paths** (that is, arbitrary shapes, which consist of [Bézier curves](https://en.wikipedia.org/wiki/B%C3%A9zier_curve)). If you just click with it on the canvas, you create a single **node**. A second click creates another node and a straight line between the two nodes. Try it! A **right-click** will finish the path. Or, you can click on the **start node** to **close** the path.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pour </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">modifier la couleur de remplissage</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , vous pouvez simplement </font><font style="vertical-align: inherit;">sélectionner un objet </font></font><code class="highlighter-rouge">click</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sur l'un des champs de couleur de la </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">palette</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> en bas. </font><font style="vertical-align: inherit;">La </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">couleur de son course</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> peut être définie </font></font><code class="highlighter-rouge">Shift + click</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></p>
+  If, for some reason, you would like to draw **only vertical or horizontal lines**, you can select this in the tool controls bar at the top.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lorsque vous avez besoin d'ajuster une couleur </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">plus précisément</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , ou lorsque vous souhaitez modifier le style du trait (largeur, tirets), vous pouvez utiliser la </font><font style="vertical-align: inherit;">boîte de dialogue </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">«Remplir et tracer»</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> pour cela.</font></font></p>
+  You can also try what happens when, instead of repeatedly clicking on the canvas, you **hold the mouse button down and drag**, and only click after this (don't use the 'vertical/horizontal' line mode, but the first, normal mode!). I find it a little difficult to control this behaviour, but maybe you will enjoy it!
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="800" height="600" src="https://www.youtube.com/embed/lLm8qngqpMw?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+  And what's that second button in the tool control bar for? See what happens if you create a **spiro path**!
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ouvrez la boîte de dialogue maintenant. </font><font style="vertical-align: inherit;">Tout est gris ennuyeux quand il n'y a rien sélectionné - alors mieux aussi sélectionner un objet!</font></font></p>
+  After they are finished by right-clicking, all paths you create with this tool can be edited at will **using the node tool**.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prenez maintenant votre temps pour regarder ses </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">trois onglets</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Le premier est pour la </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">couleur et le type de remplissage</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , le second pour la </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">couleur du trait</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , le troisième pour le </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">style de la course</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Lisez les info-bulles.</font></font></p>
+  **Selection tool, Bézier tool and node tool** together are probably the most important tools when you want to create a real drawing. So absolutely try to memorize the keyboard shortcuts for these three tools: `s`, `b` and `n` (or you can use the shortcuts displayed in their tooltips – those will work, too, but I find them a little more difficult to reach). This wasn't so hard now, was it?
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Allez-y et ajustez la couleur de remplissage du cercle! </font><font style="vertical-align: inherit;">Par défaut, (je pense) </font></font><code class="highlighter-rouge">RGB color setter</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">est sélectionné - je trouve plus facile d'utiliser le </font></font><code class="highlighter-rouge">HSL</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sélecteur de couleurs ou le </font></font><code class="highlighter-rouge">color wheel</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">. </font><font style="vertical-align: inherit;">Il suffit de les essayer tous pour voir quel setter de couleur vous convient le mieux.</font></font></p>
+### Pencil tool 
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Réglez maintenant la couleur de la course.</font></font></p>
+  <iframe width="500" height="700" src="https://www.youtube.com/embed/B71Yp-AY3Xk?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Et enfin, essayez de savoir comment rendre le trait plus large (dans le troisième onglet). </font><font style="vertical-align: inherit;">Vous pouvez également modifier le «motif» de la course ici - que diriez-vous d'utiliser certains points?</font></font></p>
+  The **pencil tool** also draws paths. It is best used with a graphics tablet. If you are using a mouse, you should set the **smoothing** to a higher value in the tool bar, so your drawing will look less 'scrawly'. **Click and drag** to draw – and that's (almost) all there is :-)\ Play with the different smoothing values to find out what they do.
 
-<h3 id="turning-objects-into-paths"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Transformer des objets en chemins</font></font></h3>
+### Text Tool 
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="600" src="https://www.youtube.com/embed/tb906EL44ow?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/SfkduZ39gsk?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Certaines caractéristiques de Inkscape, qui </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ne fonctionneront qu'avec des chemins</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , par exemple la plupart des effets de cheminement et des extensions. </font><font style="vertical-align: inherit;">Mais un </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">texte</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , un </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">rectangle</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ou une </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ellipse </font></font></strong><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ne</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> sont </font><strong><font style="vertical-align: inherit;">pas des chemins</font></strong><font style="vertical-align: inherit;"> , malheureusement, ce qui peut conduire à une situation dans laquelle vous aimeriez vraiment faire quelque chose, mais rien ne se passe ...</font></font></p>
+  With the **text tool** you can – mmmh, what could it be? – write texts! But watch out: it can create two different kinds of texts. Create **normal texts** by clicking on the canvas and starting to type. These texts can be viewed in any browser.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dans ce cas (après avoir lu l'indice dans la barre d'état), vous devez d'abord </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">convertir l'objet en un chemin</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Cela signifie que vous ne pourrez plus </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">éditer l'objet de manière «typique de l'objet»</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , par exemple, il n'est plus possible de faire glisser les poignées d'un rectangle pour entourer ses coins ou de continuer à écrire dans un texte.</font></font></p>
+  **Flow text** can be created by **clicking and dragging** with the text tool. A flow text can currently (SVG 1.1 standard) **only be displayed in Inkscape**. If you would like to use it with a different program (e.g. embed it into a web page to use with a browser), you first need to **convert it to normal text** (this option is available in the `Text` menu as `Convert to Text`).
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Au lieu de cela, il est maintenant possible de modifier l'objet avec l' </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">outil nœud</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , par exemple pour supprimer tous les trous des O d'un texte ou pour utiliser une de ces extensions ou une autre fonctionnalité qui refuse de fonctionner sur tout ce qui n'est pas un chemin.</font></font></p>
+  You can set the **font and font size** in the tool controls bar.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Essayez maintenant avec un rectangle et un texte. </font><font style="vertical-align: inherit;">Avant de vous convertir, essayez de les modifier avec l'outil nœud. </font><font style="vertical-align: inherit;">Ensuite, converti-les en chemins, et réessayez la même chose. \ See? </font><font style="vertical-align: inherit;">Maintenant, vous pouvez déplacer les segments de chemin et les noeuds comme vous le souhaitez!</font></font></p>
+  Now type something nice :-)
 
-<h3 id="group-objects-together-and-ungroup-them"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Grouper les objets ensemble et les désagréger</font></font></h3>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="600" src="https://www.youtube.com/embed/Po0EKgwCvb8?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+### Copy, Stamp, Duplicate 
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Les groupes sont </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">immensément utiles</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , mais parfois, ils ont l'habitude d'être confus. </font><font style="vertical-align: inherit;">Lorsque plusieurs objets sont </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">regroupés</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , ils se comportent </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">comme un seul objet</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Il n'est pas possible de sélectionner l'un d'entre eux directement en cliquant simplement dessus, car tout ce que vous obtiendrez est </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">tout le groupe à la fois</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></p>
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/RhvU-8Edy10?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cela peut être utilisé pour </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">commander</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> votre dessin, ou pour </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">corriger la relation de position entre les objets</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Dans un dessin qui contient un visage, cela vous aiderait à vous empêcher de déplacer accidentellement la bouche hors du visage, lorsque les deux sont regroupés. </font><font style="vertical-align: inherit;">Vous pourrez toujours déplacer la tête entière ou la faire pivoter.</font></font></p>
+  **Copy** works in Inkscape as it does everywhere else: with `Ctrl + C`.\ **Paste** will also work as usual with `Ctrl + V`.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Et lorsque vous arrivez au point de commencer à jouer avec des transparents, les groupes deviendront </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">vraiment importants</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></p>
+  Then there's also **duplication**. Select an object and press `Ctrl + D`. You don't see a difference? Well, that's because the duplicated object **ended up exactly above the original object**. Just drag it away a bit with the mouse, and you'll see the object below.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Regardez dans la barre d'état lorsque vous avez sélectionné le groupe de rectangles à droite!</font></font></p>
+  **Stamping** is a fun feature, which lets you **stamp copies of an object** all over the place quickly. **Hold** the object with the mouse, then press the `space bar` to 'drop' a copy at the current location. Move the original a bit, then press the space bar again.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Débranchez-les maintenant et regégrenez-les. \ Que se passe-t-il si vous double-cliquez sur un groupe? </font><font style="vertical-align: inherit;">(notez le menu déroulant dans la barre d'état!)</font></font></p>
+### Deleting Objects 
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vous pouvez laisser le groupe à nouveau en cliquant sur n'importe quel objet en dehors du groupe, ou en double-cliquant sur un espace vide dans votre document (l'animation montre également cela, mais le double-clic n'est pas vraiment facile à voir. , regardez la barre d'état).</font></font></p>
+  Whenever you want to **get rid** of an object, **select it**, and then either use `backspace`, `Del` or press `Ctrl + X`. The **right-click menu** ('context menu') also contains a menu item for object deletion.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Avec </font></font><code class="highlighter-rouge">Ctrl + click</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">vous pouvez </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">toujours</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> sélectionner un objet, peu importe si elle est dans un groupe ou non.</font></font></p>
+### Pasting Styles
 
-<h3 id="changing-the-stacking-order-z-order"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modification de l'ordre d'empilement (commande Z)</font></font></h3>
+  <iframe width="500" height="750" src="https://www.youtube.com/embed/puco6jg_V7w?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="600" src="https://www.youtube.com/embed/CIk9EBEpRj0?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+  This feature is **enormously useful**, so really make a mental note of this keyboard shortcut!\ After you have **copied** an object using `Ctrl + C`, you can **select** a different object and then paste **just the styling** (colors, stroke width, font, font size) of the first object to the second object: **press `Ctrl + Shift + V`.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L'ordre d'empilement a déjà été expliqué dans la </font></font><a href="http://vektorrascheln.de/posts/2015/Dec/inkscape-fuer-einsteiger-teil-i-grundlagen-en.html##stacking-order"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">partie I de cet atelier</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Maintenant, vous apprendrez comment vous pouvez le changer.</font></font></p>
+  Now make the green-blue-yellow rectangle pink-green. Go!
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">En fait, c'est assez simple: sélectionnez un objet, puis appuyez sur </font></font><code class="highlighter-rouge">PgUp</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ou </font></font><code class="highlighter-rouge">PgDown</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">utilisez les icônes de la pile dans la barre de contrôle de l'outil de sélection. \ Maintenant, allez-y et réinstallez ces rectangles!</font></font></p>
+### Changing Colors, Editing Stroke and Fill 
 
-<h3 id="aligning-and-distributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Alignement et distribution</font></font></h3>
+  To **change the fill color**, you can just `click` on one of the color fields in the **palette** at the bottom, when you have selected an object. The **color of its stroke** can be set with `Shift + click`.
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="800" height="600" src="https://www.youtube.com/embed/kKFdWsUoebk?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+When you need to adjust a color **more precisely**, or when you would like to change the style of the stroke (width, dashes), you can use the **'Fill and Stroke'** dialog for this.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vous aurez vraiment besoin de cette boîte de dialogue chaque fois que vous souhaitez </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">bien aligner les objets les uns avec les autres</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></p>
+  <iframe width="800" height="600" src="https://www.youtube.com/embed/lLm8qngqpMw?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ouvrez-le maintenant et lisez les info-bulles. </font><font style="vertical-align: inherit;">Notez le </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">menu déroulant</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> en haut. </font><font style="vertical-align: inherit;">Cela indique l' </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">objet destiné à rester au même endroit</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , tandis que tous les autres objets sélectionnés seront alignés par rapport à celui-ci.</font></font></p>
+  Open the dialog now. It's all boring grey when there's nothing selected – so better also select an object!
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Essayez maintenant de signaler l'exclamation de ces cases bleues dispersées (Astuce: centre verticalement! Sélectionnez plusieurs objets avec </font></font><code class="highlighter-rouge">Shift + click</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ou utilisez la sélection en caoutchouc).</font></font></p>
+  Now take your time to look at its **three tabs**. The first one is for the **color and type of the fill**, the second one is for the **color of the stroke**, the third one for the **style of the stroke**. Read the tooltips.
 
-<h2 id="boolean-operations"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Opérations booléennes</font></font></h2>
+  Go ahead and adjust the fill color of the circle! Per default, (I think) the `RGB color setter` is selected – I find it's easier to use the `HSL` color setter or the `color wheel`. Just try them all out to see which color setter suits you best.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">En utilisant </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">des opérations booléennes</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , vous pouvez créer de </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nouveaux chemins à</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> partir de plusieurs objets sélectionnés. </font><font style="vertical-align: inherit;">Cela fonctionne comme cela fonctionne en mathématiques: </font></font><code class="highlighter-rouge">path + path = new path</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">. </font><font style="vertical-align: inherit;">Les trajets originaux sont passés après l'opération, mais il existe un nouveau chemin (ou plusieurs) créé par le calcul. </font><font style="vertical-align: inherit;">L' </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ordre d'empilement</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> des chemins d'origine détermine le résultat.</font></font></p>
+  Now adjust the color of the stroke.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ces opérations permettent de transformer plusieurs chemins en une seule, ou de diviser un chemin vers plusieurs chemins. </font><font style="vertical-align: inherit;">Pour mieux comprendre quel est exactement l'effet de chaque opération et dans quelles situations il peut être utilisé le plus efficacement, vous devrez les </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">regarder directement</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Pour le moment, il n'est pas important de mémoriser chaque détail. </font><font style="vertical-align: inherit;">Il s'agit plutôt de savoir </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">que</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ces choses existent. </font><font style="vertical-align: inherit;">En cas de doute, vous pouvez simplement l'essayer - et effacer les «accidents» en utilisant la </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fonction d'annulation</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Toutes les opérations booléennes se trouvent dans la deuxième section du menu 'Chemin'.</font></font></p>
+  And finally, try to find out how to make the stroke wider (in the third tab). You can also change the stroke's 'pattern' here – how about using some dots?
 
-<h3 id="combine"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Combiner</font></font></h3>
+### Turning Objects into Paths 
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="600" src="https://www.youtube.com/embed/Uu9hLZdHq_k?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/tb906EL44ow?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lorsque vous </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">combinez des</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> objets, tous les nœuds et tous les chemins de tous les chemins sélectionnés seront </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">conservés</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> et </font><font style="vertical-align: inherit;">feront </font><font style="vertical-align: inherit;">partie du chemin nouvellement créé.</font></font></p>
+  There are a few features in Inkscape, which will **only ever work with paths** – e.g. most path effects and some extensions. But a **text**, a **rectangle** or an **ellipse** are **not paths**, unfortunately, which can lead to a situation in which you really would like to do something, but nothing happens...
 
-<h3 id="union"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">syndicat</font></font></h3>
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="600" src="https://www.youtube.com/embed/nrRPebYLy1I?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+  In this case (after having read the hint in the status bar), you will need to **convert the object to a path** first. This means that you will no longer be able to **edit the object in the 'object-typical' manner**, e.g. it's no longer possible to drag on the handles of a rectangle to round its corners, or to continue to write in a text.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lorsque vous </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">unissez des</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> objets en utilisant </font></font><code class="highlighter-rouge">Ctrl + +</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(dans l'animation gif, vous pouvez seulement voir que la touche Ctrl est pressée), le nouveau chemin sera créé à partir </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">des contours communs</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> des chemins sélectionnés.</font></font></p>
+  Instead, it is now possible to edit the object with the **node tool**, for example to remove all the holes from the 'O's of a text – or to use one of those extensions or another feature which refuses to work on anything that is not a path.
 
-<h3 id="difference"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Différence</font></font></h3>
+  Now try this with a rectangle and a text. Before you convert, try to edit them with the node tool. Then convert them to paths, and try the same thing again.\ See? Now you can move the path segments and nodes as you like!
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="600" src="https://www.youtube.com/embed/N-ANjOoCbTY?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+### Group Objects together and Ungroup Them 
 
-<p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La différence</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> frappe les </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">trous</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> qui ont la forme du chemin supérieur dans le chemin inférieur. </font><strong><font style="vertical-align: inherit;">C'est pourquoi cette opération ne fonctionne que (Inkscape 0.91) avec exactement 2 chemins sélectionnés.</font></strong></font></p>
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/Po0EKgwCvb8?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<h3 id="intersection"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Intersection</font></font></h3>
+  Groups are **immensely useful**, but sometimes, they have the habit of being confusing. When multiple objects are **grouped together**, they behave **like a single object**. It is not possible to select one of them directly by just clicking on it, as all you will get is **the whole group at once**.
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="500" height="600" src="https://www.youtube.com/embed/AkfMx1aTNBU?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+  This can be used to **order** your drawing, or to **fix the positional relationship between objects**. In a drawing which contains a face, this would help you to prevent you from accidentally moving the mouth out of the face, when both are grouped together. You would still be able to move the whole head, or to rotate it.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Après avoir utilisé l' </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">intersection</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , seules les zones ont été couvertes par chacun des chemins sélectionnés.</font></font></p>
+  And when you get to the point of starting to play with transparencies, groups will become **really important**.
 
-<h3 id="exclusion-division-cut-path-break-apart"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Exclusion, Division, Cut Path, Break Apart</font></font></h3>
+  Look into the status bar when you have selected the group of rectangles on the right!
 
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;iframe&gt; width="600" height="650" src="https://www.youtube.com/embed/oWoY7PTVuOw?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code></pre>
-</div>
+  Now ungroup them, and group them again.\ What happens if you double-click on a group? (note the drop down menu in the status bar!)
 
-<p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">L'exclusion</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ne gardera que les zones qui </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ne se chevauchent pas</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Division</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> va couper un chemin le long des limites du chemin supérieur, et crée </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">des</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> chemins </font><strong><font style="vertical-align: inherit;">fermés</font></strong><font style="vertical-align: inherit;"> . </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Le chemin de</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> coupe coupe le contour du chemin inférieur dans ces endroits, où il </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">coupe le chemin supérieur</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La rupture s'écroulera</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> dans ses sous- </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">chemins</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , où chaque sous-chemin deviendra un nouvel objet. </font><strong><font style="vertical-align: inherit;">Les raccourcis clavier pour ces opérations peuvent ne pas fonctionner avec certaines configurations de clavier internationales.</font></strong></font></p>
+  You can leave the group again by clicking on any object outside the group, or by double-clicking on a blank space in your document (the animation also shows this, but the double-click isn't really easy to see. Here, too, look at the status bar).
 
-<h2 id="where-can-i-find-more-info"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Où puis-je trouver plus d'informations?</font></font></h2>
+  With `Ctrl + click` you can **always** select any object, no matter if it is in a group or not.
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Une excellente source d'information est le </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">site officiel </font></font><a href="https://inkscape.org"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inkscape</font></font></a></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Là, vous ne trouverez pas seulement une </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FAQ</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , une </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">référence de raccourci clavier</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , des liens vers les </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">manuels</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> et les </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dernières nouvelles sur le projet Inkscape</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , mais aussi de nombreux liens vers </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">les forums utilisateurs</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , le </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">chat</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , les </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">listes de diffusion</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> et de </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nombreux didacticiels différents</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></p>
+### Changing the Stacking Order (Z-Order) 
 
-<hr>
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/CIk9EBEpRj0?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<h2 id="colophon"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Colophon</font></font></h2>
+  The stacking order was already explained in [Part I of this workshop](http://vektorrascheln.de/posts/2015/Dec/inkscape-fuer-einsteiger-teil-i-grundlagen-en.html##stacking-order). Now you will learn how you can change it.
 
-<div class="license">
-    <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ce travail est sous licence </font></font><a href="http://creativecommons.org/licenses/by-sa/4.0/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Creative Commons Attribution-ShareAlike 4.0</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> License. </font><font style="vertical-align: inherit;">Vous pouvez
-   </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">partager</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> et </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">adapter</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> le contenu, pourvu que vous publiez le résultat
-   </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sous la même licence</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> et que vous obteniez </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">un crédit approprié</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></p>
-    <p><a href="https://inkscape.org/support-us/donate/"><img src="http://vektorrascheln.de/theme/images/icons/inkscape-donate-icon-64.png" alt="Petit coeur avec le logo inkscape, ruban d'or CC-By-SA, Martin Owens et Andy Fitzsimon" title="Soutenez le projet Inkscape et donnez (Logo: ruban d'or CC-By-SA, Martin Owens et Andy Fitzsimon)"></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-  Si vous souhaitez utiliser </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inkscape</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> et que vous souhaitez prendre en charge le développement du programme, envisagez </font></font><a href="https://inkscape.org/contribute/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">de devenir un membre actif</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
-  de la communauté Inkscape ou </font></font><a href="https://inkscape.org/support-us/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">faire un don</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> . </font><font style="vertical-align: inherit;">Votre effort aidera à rendre Inkscape </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">encore plus génial</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> !</font></font></p>
-</div>
+  Actually, this is pretty easy: Select an object, then press `PgUp` or `PgDown` or use the stack icons in the tool controls bar of the selection tool.\ Now go ahead and restack those rectangles!
 
+### Aligning and Distributing 
 
-      <footer class="site-footer">
-        
-          <span class="site-footer-owner"><a href="http://github.com/filipgoc/hep-cad"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">hep-cad a</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> été créé et est géré par filipgoc. </font></font></span>
-        
-        <span class="site-footer-credits"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cette page a été générée par </font></font><a href="https://pages.github.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub Pages</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></span>
-      </footer>
-    </section>
+  <iframe width="800" height="600" src="https://www.youtube.com/embed/kKFdWsUoebk?rel=0" frameborder="0" allowfullscreen></iframe>
+
+  You will really need this dialog whenever you would like to **neatly align objects to each other**.
+
+  Open it now, and read the tooltips. Note the **drop down menu** at the top. This indicates the **object that is meant to stay in the same place**, while all the other selected objects will be aligned relative to it.
+
+  Now try to build the exclamation mark from those scattered blue boxes (Hint: center vertically! Select multiple objects with `Shift + click` or use the rubberband selection).
+
+## Boolean Operations 
+
+  By using **Boolean operations**, you can create **new paths** from multiple selected objects. This works just like it works in maths: `path + path = new path`. The original paths are gone after the operation, instead there is a new path (or several), which has been created through the calculation. The **stacking order** of the original paths determines the result.
+
+  These operations allow to turn multiple paths into a single one, or to break one path up into multiple paths. To best understand what exactly the effect of each operation is and in which situations it can be employed most efficiently, you will need to **look at them directly**. At the moment, it's not important to memorize each detail. This is more about knowing **that** these things exist. If in doubt, you can simply try it out – and clear up 'accidents' by using the **undo feature**. All Boolean operations can be found in the second section of the 'Path' menu.
+
+### Combine
+
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/Uu9hLZdHq_k?rel=0" frameborder="0" allowfullscreen></iframe>
+
+  When you **combine** objects, all nodes and paths of all selected paths will be **preserved** and become part of the newly created path.
+
+### Union
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/nrRPebYLy1I?rel=0" frameborder="0" allowfullscreen></iframe>
+
+  When you **union** objects using `Ctrl + +` (in the gif animation, you can only see that the Ctrl key is being pressed), the new path will be created from the **common outline** of the selected paths.
+
+### Difference
+
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/N-ANjOoCbTY?rel=0" frameborder="0" allowfullscreen></iframe>
+
+  **Difference** punches **holes** that have the shape of the top path into the bottom path. This is why this operation only works (as of Inkscape 0.91) with exactly 2 selected paths.
+
+### Intersection
+
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/AkfMx1aTNBU?rel=0" frameborder="0" allowfullscreen></iframe>
+
+  After using **intersection**, only those areas are left that have been covered by each one of the selected paths.
+
+### Exclusion, Division, Cut Path, Break Apart 
+
+  <iframe width="600" height="650" src="https://www.youtube.com/embed/oWoY7PTVuOw?rel=0" frameborder="0" allowfullscreen></iframe>
+
+  **Exclusion** will only keep those areas that **do not overlap**. **Division** will cut a path along the borders of the top path, and creates **closed** paths. **Cut path** cuts the bottom path's outline in those places, where it **intersects the top path**. **Break apart** will break a path up into its **subpaths**, where each subpath will become a new object. The keyboard shortcuts for these operations might not work with some international keyboard layouts.
+
+## Where can I find more info? 
+
+  A great source of info is the **official [Inkscape website](https://inkscape.org)**. There you will not only find an **FAQ**, a **keyboard shortcut reference**, links to the **manuals** and the **latest news about the Inkscape project**, but also lots of links to **user forums**, to the **chat**, to the **mailing lists** and to **many different tutorials**.
+
+---
+
+## Colophon
+
+  <div class="license">
+    <p>This work is licensed under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike
+  4.0</a> License. You may
+  <strong>share</strong> and <strong>adapt</strong> the contents, as long as you publish the result
+  <strong>under the same license</strong> and give <strong>appropriate credit</strong>.</p>
+    <p><a href="https://inkscape.org/support-us/donate/"><img src="http://vektorrascheln.de/theme/images/icons/inkscape-donate-icon-64.png" alt="Small heart with inkscape logo, CC-By-SA Golden Ribbon, Martin Owens
+  and Andy
+  Fitzsimon" title="Support the Inkscape Project and Donate (Logo: CC-By-SA Golden Ribbon, Martin Owens and Andy Fitzsimon)"></a>
+  If you like to use <strong>Inkscape</strong> and want to support program development,
+  consider <a href="https://inkscape.org/contribute/">to become an active member</a>
+  of the Inkscape community or <a href="https://inkscape.org/support-us/">to make a
+  donation</a>. Your effort will help make
+  Inkscape <strong>even more awesome</strong>!</p>
