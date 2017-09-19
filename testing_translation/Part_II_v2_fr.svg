@@ -15,7 +15,7 @@
    id="svg29256"
    version="1.1"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="Part_II_v2.svg">
+   sodipodi:docname="Part_II_v2_fr.svg">
   <defs
      id="defs29258">
     <inkscape:path-effect
@@ -1342,14 +1342,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.91786908"
-     inkscape:cx="702.16985"
-     inkscape:cy="329.2433"
+     inkscape:zoom="0.81710706"
+     inkscape:cx="722.47872"
+     inkscape:cy="809.94902"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g14533"
      showgrid="false"
      inkscape:window-width="1916"
-     inkscape:window-height="1057"
+     inkscape:window-height="1035"
      inkscape:window-x="4"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -2347,7 +2347,7 @@
               <path
                  inkscape:connector-curvature="0"
                  id="path5243"
-                 d="m 5060.8641,73127.377 v 689.501 c 148.3588,-41.135 257.5333,-179.828 257.5333,-344.734 0,-164.906 -109.1745,-303.632 -257.5333,-344.767 z"
+                 d="m 5133.4881,73127.377 v 689.501 c 148.3588,-41.135 257.5333,-179.828 257.5333,-344.734 0,-164.906 -109.1745,-303.632 -257.5333,-344.767 z"
                  style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffd42a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:12.26666641;stroke-opacity:1;marker:none;enable-background:accumulate" />
               <path
                  inkscape:connector-curvature="0"
@@ -2598,10 +2598,7 @@
          id="tspan6049"
          x="2593.5696"
          y="29518.59"
-         style="font-size:41.00128174px;line-height:1.25;stroke-width:0.31366235">
- Inkscape espace de travail
-
-</tspan></text>
+         style="font-size:41.00128174px;line-height:1.25;stroke-width:0.31366235">  Inkscape espace de travail</tspan></text>
     <text
        id="text6051"
        y="29716.338"
@@ -2612,10 +2609,7 @@
          x="2817.8926"
          id="tspan6053"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Color Palette
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">Color Palette</tspan></text>
     <text
        id="text6055"
        y="29599.713"
@@ -2626,10 +2620,7 @@ Color Palette
          x="2591.8357"
          id="tspan6057"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Outils pour le dessin, boîte à outils
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">Outils pour le dessin, boîte à outils</tspan></text>
     <text
        id="text6059"
        y="29593.699"
@@ -2640,10 +2631,7 @@ Outils pour le dessin, boîte à outils
          x="2994.0896"
          id="tspan6061"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Paramètres Snap
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">Paramètres Snap</tspan></text>
     <text
        id="text6063"
        y="29372.898"
@@ -2654,10 +2642,7 @@ Paramètres Snap
          x="2626.1355"
          id="tspan6065"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Barre de contrôle d&#39;outil
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">Barre de contrôle d'outil</tspan></text>
     <text
        id="text6067"
        y="29737.225"
@@ -2668,10 +2653,7 @@ Barre de contrôle d&#39;outil
          x="2612.4119"
          id="tspan6069"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Info / Barre d&#39;état
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">Info / Barre d'état</tspan></text>
     <text
        id="text6071"
        y="29342.197"
@@ -2682,10 +2664,7 @@ Info / Barre d&#39;état
          x="2550.1113"
          id="tspan6073"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Menus
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">Menus</tspan></text>
     <text
        id="text6075"
        y="29418.33"
@@ -2696,10 +2675,7 @@ Menus
          x="2715.0002"
          id="tspan6077"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Barre de commande, accès rapide au dialogue
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">Barre de commande, accès rapide au dialogue</tspan></text>
     <text
        id="text6079"
        y="30656.25"
@@ -2712,25 +2688,16 @@ Barre de commande, accès rapide au dialogue
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan7268">
-Outils de sélection / Déplacement
-
-</tspan><tspan
+   id="tspan7268">Outils de sélection / Déplacement</tspan><tspan
    style="font-weight:bold"
-   id="tspan4056">
-s</tspan>   or 
-
-</tspan><tspan
+   id="tspan4056">s</tspan>   or </tspan><tspan
          y="30682.688"
          x="2598.9531"
          sodipodi:role="line"
          id="tspan7118"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">mouse cursor symbol at the top left, <tspan
    style="font-weight:bold"
-   id="tspan4058">
-Touches directionnelles </tspan> permettent également de déplacer des objets
-
-</tspan></text>
+   id="tspan4058">Touches directionnelles </tspan> permettent également de déplacer des objets</tspan></text>
     <text
        id="text6083"
        y="31274.457"
@@ -2743,15 +2710,9 @@ Touches directionnelles </tspan> permettent également de déplacer des objets
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan7270">
-Outil de noeud
-
-</tspan><tspan
+   id="tspan7270">Outil de noeud</tspan><tspan
    style="font-weight:bold"
-   id="tspan4062">
-n </tspan>  ou la petite flèche avec des points, deuxième outil en haut)
-
-</tspan></text>
+   id="tspan4062">n </tspan>  ou la petite flèche avec des points, deuxième outil en haut)</tspan></text>
     <text
        id="text6087"
        y="31989.859"
@@ -2764,43 +2725,25 @@ n </tspan>  ou la petite flèche avec des points, deuxième outil en haut)
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan7272">
-Outil Rectangle
-
-</tspan> ( <tspan
+   id="tspan7272">Outil Rectangle</tspan> ( <tspan
    style="font-weight:bold"
-   id="tspan4064">
-F4
-
-</tspan>  ou  <tspan
+   id="tspan4064">F4</tspan>  ou  <tspan
    style="font-weight:bold"
-   id="tspan4066">
- r
-
-</tspan>   , ratios entiers avec  <tspan
+   id="tspan4066">  r</tspan>   , ratios entiers avec  <tspan
    style="font-weight:bold"
-   id="tspan4068">
-Ctrl</tspan> ), 
-
-</tspan><tspan
+   id="tspan4068">Ctrl</tspan> ), </tspan><tspan
          y="32016.297"
          x="2598.9531"
          sodipodi:role="line"
          id="tspan14567"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          y="32042.734"
          x="2598.9531"
          sodipodi:role="line"
          id="tspan7136"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">créer du centre avec  <tspan
    style="font-weight:bold"
-   id="tspan4070">
-Shift</tspan>
-
-</tspan></text>
+   id="tspan4070">Shift</tspan></tspan></text>
     <text
        id="text6091"
        y="32284.549"
@@ -2811,10 +2754,7 @@ Shift</tspan>
          x="2655.1755"
          id="tspan6093"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-libre
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">libre</tspan></text>
     <text
        id="text6095"
        y="32283.707"
@@ -2825,10 +2765,7 @@ libre
          x="2824.0667"
          id="tspan6097"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Carré
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">Carré</tspan></text>
     <text
        id="text6099"
        y="32283.924"
@@ -2839,10 +2776,7 @@ Carré
          x="3103.3867"
          id="tspan6101"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-2:1
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">2:1</tspan></text>
     <text
        id="text6103"
        y="32467.174"
@@ -2855,42 +2789,25 @@ Carré
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan7274">
-Ellipse Outil
-</tspan> ( <tspan
+   id="tspan7274">Ellipse Outil</tspan> ( <tspan
    style="font-weight:bold"
-   id="tspan4072">
-F5
-
-</tspan>  ou   <tspan
+   id="tspan4072">F5</tspan>  ou   <tspan
    style="font-weight:bold"
-   id="tspan4074">
-e
-
-</tspan>   , ratios entiers avec  <tspan
+   id="tspan4074">e</tspan>   , ratios entiers avec  <tspan
    style="font-weight:bold"
-   id="tspan4076">
-Ctrl</tspan> ), 
-
-</tspan><tspan
+   id="tspan4076">Ctrl</tspan> ), </tspan><tspan
          y="32493.611"
          x="2598.9531"
          sodipodi:role="line"
          id="tspan14575"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          y="32520.049"
          x="2598.9531"
          sodipodi:role="line"
          id="tspan7185"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">créer du centre avec <tspan
    style="font-weight:bold"
-   id="tspan4078">
-Shift</tspan>
-
-</tspan></text>
+   id="tspan4078">Shift</tspan></tspan></text>
     <text
        id="text6107"
        y="32764.234"
@@ -2901,10 +2818,7 @@ Shift</tspan>
          x="2672.9238"
          id="tspan6109"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-libre
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">libre</tspan></text>
     <text
        id="text6111"
        y="32763.867"
@@ -2915,10 +2829,7 @@ libre
          x="2844.9717"
          id="tspan6113"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Cercle
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">Cercle</tspan></text>
     <text
        id="text6115"
        y="32763.609"
@@ -2929,10 +2840,7 @@ Cercle
          x="3099.3838"
          id="tspan6117"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-2:1
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">2:1</tspan></text>
     <text
        id="text6119"
        y="32945.977"
@@ -2945,15 +2853,9 @@ Cercle
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan7276">
-Étoiles et polygones
-
-</tspan> ( <tspan
+   id="tspan7276">Étoiles et polygones</tspan> ( <tspan
    style="font-weight:bold"
-   id="tspan4080">
-* </tspan>, les réglages peuvent être modifiés dans la barre de contrôle de l&#39;outil en haut
-
-</tspan></text>
+   id="tspan4080">* </tspan>, les réglages peuvent être modifiés dans la barre de contrôle de l'outil en haut</tspan></text>
     <text
        id="text6123"
        y="33318.863"
@@ -2966,36 +2868,21 @@ Cercle
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan7278">
-Bézier Chemins et lignes
-
-</tspan> ( <tspan
+   id="tspan7278">Bézier Chemins et lignes</tspan> ( <tspan
    style="font-weight:bold"
-   id="tspan4082">
-Shift + F6
-
-</tspan>  ou   <tspan
+   id="tspan4082">Shift + F6</tspan>  ou   <tspan
    style="font-weight:bold"
-   id="tspan4084">
-b</tspan>  , 
-
-</tspan><tspan
+   id="tspan4084">b</tspan>  , </tspan><tspan
          y="33345.301"
          x="2601.6797"
          sodipodi:role="line"
          id="tspan7175"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          y="33371.738"
          x="2601.6797"
          sodipodi:role="line"
          id="tspan7177"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-les réglages peuvent être modifiés dans la barre de contrôle de l&#39;outil en haut)
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">les réglages peuvent être modifiés dans la barre de contrôle de l'outil en haut)</tspan></text>
     <text
        id="text6127"
        y="35063.996"
@@ -3006,33 +2893,21 @@ les réglages peuvent être modifiés dans la barre de contrôle de l&#39;outil 
          y="35063.996"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-Coller les propriétés
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Coller les propriétés</tspan><tspan
          y="35090.434"
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan6693">
- 
-
-</tspan><tspan
+         id="tspan6693"> </tspan><tspan
          id="tspan6133"
          y="35116.871"
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="font-weight:bold"
-   id="tspan4110">
-Ctrl + C
-
-</tspan>   -&gt;   <tspan
+   id="tspan4110">Ctrl + C</tspan>   -&gt;   <tspan
    style="font-weight:bold"
-   id="tspan4112">
-Ctrl + Shift + V</tspan>
-
-</tspan></text>
+   id="tspan4112">Ctrl + Shift + V</tspan></tspan></text>
     <text
        id="text6135"
        y="34290.473"
@@ -3043,66 +2918,42 @@ Ctrl + Shift + V</tspan>
          x="2593.5972"
          id="tspan6137"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">
-Copier, timbre et objets en double
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">Copier, timbre et objets en double</tspan><tspan
          id="tspan6139"
          y="34316.91"
          x="2593.5972"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          id="tspan6145"
          y="34343.348"
          x="2593.5972"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="font-weight:bold"
-   id="tspan4094">
-Ctrl + C
-
-</tspan>   -&gt;  <tspan
+   id="tspan4094">Ctrl + C</tspan>   -&gt;  <tspan
    style="font-weight:bold"
-   id="tspan4096">
-Ctrl + V</tspan>   / tenez l&#39;objet avec la souris et appuyez sur
-
-</tspan><tspan
+   id="tspan4096">Ctrl + V</tspan>   / tenez l'objet avec la souris et appuyez sur</tspan><tspan
          y="34369.785"
          x="2593.5972"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"
          id="tspan4081">b<tspan
    style="font-weight:bold"
-   id="tspan4098">
-arre d&#39;espace
-
-</tspan> or <tspan
+   id="tspan4098">arre d'espace</tspan> or <tspan
    style="font-weight:bold"
-   id="tspan4100">
-Ctrl + D</tspan>,
-
-</tspan><tspan
+   id="tspan4100">Ctrl + D</tspan>,</tspan><tspan
          y="34396.223"
          x="2593.5972"
          sodipodi:role="line"
          id="tspan7224"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          y="34422.66"
          x="2593.5972"
          sodipodi:role="line"
          id="tspan7226"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">pour insérer à la même position (p. ex. dans une couche différente):  <tspan
    style="font-weight:bold"
-   id="tspan4102">
-Ctrl + Alt + V</tspan>
-
-</tspan></text>
+   id="tspan4102">Ctrl + Alt + V</tspan></tspan></text>
     <text
        id="text6147"
        y="35624.621"
@@ -3113,28 +2964,19 @@ Ctrl + Alt + V</tspan>
          y="35624.621"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-Changer la couleur, modifier la course et le remplissage
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Changer la couleur, modifier la course et le remplissage</tspan><tspan
          id="tspan6151"
          y="35651.059"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          id="tspan6153"
          y="35677.496"
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Icône de pinceau en haut à droite ou   <tspan
    style="font-weight:bold"
-   id="tspan4114">
-Ctrl + Shift + F</tspan>
-
-</tspan></text>
+   id="tspan4114">Ctrl + Shift + F</tspan></tspan></text>
     <text
        id="text6155"
        y="30397.094"
@@ -3145,18 +2987,12 @@ Ctrl + Shift + F</tspan>
          x="2598.9531"
          id="tspan6157"
          sodipodi:role="line"
-         style="color:#000000;font-size:21.15007019px;line-height:1.5;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.46875489;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">
-Zoom:
-
-</tspan><tspan
+         style="color:#000000;font-size:21.15007019px;line-height:1.5;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.46875489;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">Zoom:</tspan><tspan
          id="tspan6159"
          y="30428.818"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.5;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.5;stroke-width:3.13662362"> </tspan><tspan
          y="30440.166"
          x="2598.9531"
          sodipodi:role="line"
@@ -3166,18 +3002,12 @@ Zoom:
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.5;stroke-width:3.13662362"
-         id="tspan3966">
-Essayez tout cela!
-
-</tspan><tspan
+         id="tspan3966">Essayez tout cela!</tspan><tspan
          y="30492.27"
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.5;stroke-width:3.13662362"
-         id="tspan4038">
-Ce sont des compétences fondamentales pour pouvoir faire n&#39;importe quoi ici.
-
-</tspan><tspan
+         id="tspan4038">Ce sont des compétences fondamentales pour pouvoir faire n'importe quoi ici.</tspan><tspan
          y="30503.615"
          x="2598.9531"
          sodipodi:role="line"
@@ -3197,10 +3027,7 @@ Ce sont des compétences fondamentales pour pouvoir faire n&#39;importe quoi ici
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.5;stroke-width:3.13662362"
-         id="tspan4050">
-Lorsque vous zoomlez très étroitement sur le rectangle rouge, vous pouvez continuer ;-)
-
-</tspan></text>
+         id="tspan4050">Lorsque vous zoomlez très étroitement sur le rectangle rouge, vous pouvez continuer ;-)</tspan></text>
     <text
        id="text6163"
        y="30160.59"
@@ -3211,34 +3038,22 @@ Lorsque vous zoomlez très étroitement sur le rectangle rouge, vous pouvez cont
          x="2598.9531"
          id="tspan6165"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.5;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-Défilement:
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.5;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Défilement:</tspan><tspan
          id="tspan6167"
          y="30192.314"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.5;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.5;stroke-width:3.13662362"> </tspan><tspan
          y="30224.041"
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.5;stroke-width:3.13662362"
-         id="tspan7864">
-Essayez tout cela!
-
-</tspan><tspan
+         id="tspan7864">Essayez tout cela!</tspan><tspan
          y="30255.766"
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.5;stroke-width:3.13662362"
-         id="tspan3964">
-Ce sont des compétences fondamentales pour pouvoir faire n&#39;importe quoi ici.
-
-</tspan></text>
+         id="tspan3964">Ce sont des compétences fondamentales pour pouvoir faire n'importe quoi ici.</tspan></text>
     <text
        id="text6171"
        y="36435.605"
@@ -3249,67 +3064,43 @@ Ce sont des compétences fondamentales pour pouvoir faire n&#39;importe quoi ici
          y="36435.605"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">
-Groupement et désagrégation
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">Groupement et désagrégation</tspan><tspan
          id="tspan6175"
          y="36462.043"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          id="tspan6177"
          y="36488.48"
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">sélectionnez tous les objets, puis  <tspan
    style="font-weight:bold"
-   id="tspan4116">
-Ctrl + G</tspan>  (ou utiliser l&#39;icône correspondante 
-
-</tspan><tspan
+   id="tspan4116">Ctrl + G</tspan>  (ou utiliser l'icône correspondante </tspan><tspan
          y="36514.918"
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"
-         id="tspan4079">
-dans la barre de commande),
-
-</tspan><tspan
+         id="tspan4079">dans la barre de commande),</tspan><tspan
          id="tspan6179"
          y="36541.355"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          y="36567.793"
          x="2598.9531"
          sodipodi:role="line"
          id="tspan7618"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">pour se désagréger, appuyez sur   <tspan
    style="font-weight:bold"
-   id="tspan4118">
-Ctrl + Shift + G
-
-</tspan>   or  <tspan
+   id="tspan4118">Ctrl + Shift + G</tspan>   or  <tspan
    style="font-weight:bold"
-   id="tspan4120">
- Ctrl + U</tspan>
-
-</tspan><tspan
+   id="tspan4120">  Ctrl + U</tspan></tspan><tspan
          y="36594.23"
          x="2598.9531"
          sodipodi:role="line"
          id="tspan6702"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-(ou utiliser l&#39;icône correspondante dans la barre de commande)
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">(ou utiliser l'icône correspondante dans la barre de commande)</tspan></text>
     <text
        id="text6183"
        y="36986.648"
@@ -3322,18 +3113,12 @@ Ctrl + Shift + G
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan7298">
-Modification de l&#39;ordre d&#39;empilement </tspan> (Commande Z)
-
-</tspan><tspan
+   id="tspan7298">Modification de l'ordre d'empilement </tspan> (Commande Z)</tspan><tspan
          id="tspan6187"
          y="37013.086"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          id="tspan6189"
          y="37039.523"
          x="2598.9531"
@@ -3341,36 +3126,21 @@ Modification de l&#39;ordre d&#39;empilement </tspan> (Commande Z)
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="font-weight:bold"
    id="tspan4122"
-   dx="-6.2172489e-15">
-PgUp
-
-</tspan>  ,   <tspan
+   dx="-6.2172489e-15">PgUp</tspan>  ,   <tspan
    style="font-weight:bold"
-   id="tspan4124">
-PgDown 
-
-</tspan>(sur Mac c&#39;est <tspan
+   id="tspan4124">PgDown </tspan>(sur Mac c'est <tspan
    style="font-weight:bold"
-   id="tspan4128">
-fn + flèches</tspan>)
-
-</tspan><tspan
+   id="tspan4128">fn + flèches</tspan>)</tspan><tspan
          id="tspan6191"
          y="37065.961"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          id="tspan6193"
          y="37092.398"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-ou utiliser les 4 icônes d&#39;empilement dans la barre de contrôle de l&#39;outil de l&#39;outil de sélection
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">ou utiliser les 4 icônes d'empilement dans la barre de contrôle de l'outil de l'outil de sélection</tspan></text>
     <text
        id="text6195"
        y="37533.859"
@@ -3381,44 +3151,29 @@ ou utiliser les 4 icônes d&#39;empilement dans la barre de contrôle de l&#39;o
          y="37533.859"
          x="2599.6643"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">
-Alignement d&#39;objets /&gt;
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">Alignement d'objets /&gt;</tspan><tspan
          id="tspan6199"
          y="37560.297"
          x="2599.6643"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          id="tspan6201"
          y="37586.734"
          x="2599.6643"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
            style="font-weight:bold"
-           id="tspan4130">
-Shift + Ctrl + A </tspan>
-
-</tspan><tspan
+           id="tspan4130">Shift + Ctrl + A </tspan></tspan><tspan
          id="tspan6203"
          y="37613.172"
          x="2599.6643"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          id="tspan6205"
          y="37639.609"
          x="2599.6643"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-ou le petit «diagramme à barres» dans la partie supérieure droite de la barre de commande
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">ou le petit «diagramme à barres» dans la partie supérieure droite de la barre de commande</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.7639482px;line-height:0%;font-family:'Comic Relief';-inkscape-font-specification:'Comic Relief';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.13662362;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
@@ -3429,44 +3184,29 @@ ou le petit «diagramme à barres» dans la partie supérieure droite de la barr
          x="2599.6643"
          y="38093.453"
          id="tspan6239"
-         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-Deux deviennent un - Combinez
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Deux deviennent un - Combinez</tspan><tspan
          sodipodi:role="line"
          x="2599.6643"
          y="38119.891"
          id="tspan6241"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          sodipodi:role="line"
          x="2599.6643"
          y="38146.328"
          id="tspan6243"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Chemin - Combiner ou  <tspan
    style="font-weight:bold"
-   id="tspan4132">
-Ctrl + K</tspan> : 
-
-</tspan><tspan
+   id="tspan4132">Ctrl + K</tspan> : </tspan><tspan
          sodipodi:role="line"
          x="2599.6643"
          y="38172.766"
          id="tspan6245"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          sodipodi:role="line"
          x="2599.6643"
          y="38199.203"
          id="tspan6247"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.7639482px;line-height:0%;font-family:'Comic Relief';-inkscape-font-specification:'Comic Relief';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.13662362;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
@@ -3477,44 +3217,29 @@ Ctrl + K</tspan> :
          x="2598.9531"
          y="38542.184"
          id="tspan6251"
-         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">
-Deux deviennent un - union
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">Deux deviennent un - union</tspan><tspan
          sodipodi:role="line"
          x="2598.9531"
          y="38568.621"
          id="tspan6253"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          sodipodi:role="line"
          x="2598.9531"
          y="38595.059"
          id="tspan6255"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Chemin - union ou <tspan
    style="font-weight:bold"
-   id="tspan4134">
-Ctrl + +</tspan>  : 
-
-</tspan><tspan
+   id="tspan4134">Ctrl + +</tspan>  : </tspan><tspan
          sodipodi:role="line"
          x="2598.9531"
          y="38621.496"
          id="tspan6257"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          sodipodi:role="line"
          x="2598.9531"
          y="38647.934"
          id="tspan6259"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan></text>
     <text
        id="text6261"
        y="38979.773"
@@ -3525,44 +3250,29 @@ Ctrl + +</tspan>  :
          y="38979.773"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-Deux deviennent une seule soustraction
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Deux deviennent une seule soustraction</tspan><tspan
          id="tspan6265"
          y="39006.211"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          id="tspan6267"
          y="39032.648"
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Chemin - Différence ou  <tspan
    style="font-weight:bold"
-   id="tspan4136">
-Ctrl + -</tspan>  : 
-
-</tspan><tspan
+   id="tspan4136">Ctrl + -</tspan>  : </tspan><tspan
          id="tspan6269"
          y="39059.086"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          id="tspan6271"
          y="39085.523"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.7639482px;line-height:0%;font-family:'Comic Relief';-inkscape-font-specification:'Comic Relief';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.13662362;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
@@ -3573,44 +3283,29 @@ Ctrl + -</tspan>  :
          x="2598.9531"
          y="39425.23"
          id="tspan6275"
-         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">
-Deux deviennent un - Intersection
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">Deux deviennent un - Intersection</tspan><tspan
          sodipodi:role="line"
          x="2598.9531"
          y="39451.668"
          id="tspan6277"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          sodipodi:role="line"
          x="2598.9531"
          y="39478.105"
          id="tspan6279"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Chemin - Intersection ou  <tspan
    style="font-weight:bold"
-   id="tspan4138">
-Ctrl + *</tspan>  : 
-
-</tspan><tspan
+   id="tspan4138">Ctrl + *</tspan>  : </tspan><tspan
          sodipodi:role="line"
          x="2598.9531"
          y="39504.543"
          id="tspan6281"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          sodipodi:role="line"
          x="2598.9531"
          y="39530.98"
          id="tspan6283"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.7639482px;line-height:0%;font-family:'Comic Relief';-inkscape-font-specification:'Comic Relief';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.13662362;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
@@ -3621,26 +3316,17 @@ Ctrl + *</tspan>  :
          x="2598.9531"
          y="39849.062"
          id="tspan6287"
-         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-Plus d&#39;opérations de parcours
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Plus d'opérations de parcours</tspan><tspan
          sodipodi:role="line"
          x="2598.9531"
          y="39875.5"
          id="tspan6289"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          sodipodi:role="line"
          x="2598.9531"
          y="39901.938"
          id="tspan6291"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.7639482px;line-height:0%;font-family:'Comic Relief';-inkscape-font-specification:'Comic Relief';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.98723125;marker:none;enable-background:accumulate"
@@ -3651,26 +3337,17 @@ Plus d&#39;opérations de parcours
          x="2598.2302"
          y="39918.648"
          id="tspan6295"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Exclusion 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">Exclusion </tspan><tspan
          sodipodi:role="line"
          x="2598.2302"
          y="39945.086"
          id="tspan6297"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125"> </tspan><tspan
          sodipodi:role="line"
          x="2598.2302"
          y="39971.523"
          id="tspan6299"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
- 
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125"> </tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.7639482px;line-height:0%;font-family:'Comic Relief';-inkscape-font-specification:'Comic Relief';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.98723125;marker:none;enable-background:accumulate"
@@ -3681,26 +3358,17 @@ Exclusion
          x="2598.0339"
          y="40101.031"
          id="tspan6303"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Division 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">Division </tspan><tspan
          sodipodi:role="line"
          x="2598.0339"
          y="40127.469"
          id="tspan6305"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125"> </tspan><tspan
          sodipodi:role="line"
          x="2598.0339"
          y="40153.906"
          id="tspan6307"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
- 
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125"> </tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.7639482px;line-height:0%;font-family:'Comic Relief';-inkscape-font-specification:'Comic Relief';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.98723125;marker:none;enable-background:accumulate"
@@ -3711,26 +3379,17 @@ Division
          x="2598.9531"
          y="40286.137"
          id="tspan6311"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Couper Chemin
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">Couper Chemin</tspan><tspan
          sodipodi:role="line"
          x="2598.9531"
          y="40312.574"
          id="tspan6313"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125"> </tspan><tspan
          sodipodi:role="line"
          x="2598.9531"
          y="40339.012"
          id="tspan6315"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
- 
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125"> </tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.7639482px;line-height:0%;font-family:'Comic Relief';-inkscape-font-specification:'Comic Relief';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.98723125;marker:none;enable-background:accumulate"
@@ -3741,10 +3400,7 @@ Couper Chemin
          x="2598.9531"
          y="40458.766"
          id="tspan6323"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Briser (break apart)
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">Briser (break apart)</tspan></text>
     <text
        id="text6123-3"
        y="33628.469"
@@ -3757,36 +3413,21 @@ Briser (break apart)
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan7280">
-Dessin avec l&#39;outil Crayon
-
-</tspan> ( <tspan
+   id="tspan7280">Dessin avec l'outil Crayon</tspan> ( <tspan
    style="font-weight:bold"
-   id="tspan4086">
-F6
-
-</tspan>  ou   <tspan
+   id="tspan4086">F6</tspan>  ou   <tspan
    style="font-weight:bold"
-   id="tspan4088">
-p</tspan>  ,
-
-</tspan><tspan
+   id="tspan4088">p</tspan>  ,</tspan><tspan
          y="33654.906"
          x="2601.6797"
          sodipodi:role="line"
          id="tspan7187"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          y="33681.344"
          x="2601.6797"
          sodipodi:role="line"
          id="tspan7189"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-les réglages peuvent être modifiés dans la barre de contrôle de l&#39;outil en haut)
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">les réglages peuvent être modifiés dans la barre de contrôle de l'outil en haut)</tspan></text>
     <text
        id="text6059-5"
        y="29647.393"
@@ -3797,10 +3438,7 @@ les réglages peuvent être modifiés dans la barre de contrôle de l&#39;outil 
          x="2904.8855"
          id="tspan6061-4"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Zone de quai pour les dialogues
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">Zone de quai pour les dialogues</tspan></text>
     <text
        id="text6123-3-7"
        y="33950.867"
@@ -3813,52 +3451,31 @@ Zone de quai pour les dialogues
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan7280-1">
-Outil de texte
-
-</tspan> ( <tspan
+   id="tspan7280-1">Outil de texte</tspan> ( <tspan
    style="font-weight:bold"
-   id="tspan4090">
-F8 
-
-</tspan> or   <tspan
+   id="tspan4090">F8 </tspan> or   <tspan
    style="font-weight:bold"
-   id="tspan4092">
-t </tspan> ,
-
-</tspan><tspan
+   id="tspan4092">t </tspan> ,</tspan><tspan
          y="33977.305"
          x="2601.6797"
          sodipodi:role="line"
          id="tspan7187-9"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          y="34003.742"
          x="2601.6797"
          sodipodi:role="line"
          id="tspan7189-0"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-créez un texte simple en cliquant simplement,
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">créez un texte simple en cliquant simplement,</tspan><tspan
          y="34030.18"
          x="2601.6797"
          sodipodi:role="line"
          id="tspan7380"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-créez un flux de texte en faisant un clic-glisser avec la souris (pas compatible avec le navigateur compatible!),
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">créez un flux de texte en faisant un clic-glisser avec la souris (pas compatible avec le navigateur compatible!),</tspan><tspan
          y="34056.617"
          x="2601.6797"
          sodipodi:role="line"
          id="tspan7378"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-les réglages peuvent être modifiés dans la barre de contrôle de l&#39;outil en haut)
-
-</tspan></text>
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">les réglages peuvent être modifiés dans la barre de contrôle de l'outil en haut)</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.7639482px;line-height:0%;font-family:Averia;-inkscape-font-specification:'Averia, Italic';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#b0411e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.13662362;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -3869,10 +3486,7 @@ les réglages peuvent être modifiés dans la barre de contrôle de l&#39;outil 
          id="tspan7384"
          x="2613.6077"
          y="34123.934"
-         style="font-size:33.01138687px;line-height:1.25;stroke-width:3.13662362">
-Écrivez quelque chose ici!
-
-</tspan></text>
+         style="font-size:33.01138687px;line-height:1.25;stroke-width:3.13662362">Écrivez quelque chose ici!</tspan></text>
     <text
        id="text6171-2"
        y="36038.867"
@@ -3883,42 +3497,52 @@ les réglages peuvent être modifiés dans la barre de contrôle de l&#39;outil 
          y="36038.867"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">
-Transformer les objets en chemins
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">Transformer les objets en chemins</tspan><tspan
          id="tspan6175-1"
          y="36065.305"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          id="tspan6177-2"
          y="36091.742"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-Sélectionnez l&#39;objet (s), puis le chemin d&#39;accès - Objet vers le chemin ou
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Sélectionnez l'objet (s), puis le chemin d'accès - Objet en chemin ou</tspan><tspan
          y="36118.18"
          x="2598.9531"
          sodipodi:role="line"
          id="tspan7705"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          y="36144.617"
          x="2598.9531"
          sodipodi:role="line"
-         id="tspan7618-9"
-         style="font-weight:normal;font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-`Ctrl + Shift + C`
-
-</tspan></text>
+         style="font-weight:normal;font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"
+         id="tspan1599">`Ctrl + Shift + C` </tspan><tspan
+         y="36153.32"
+         x="2598.9531"
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"
+         id="tspan1603" /><tspan
+         y="36153.32"
+         x="2598.9531"
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"
+         id="tspan1605"></tspan><tspan
+         y="36153.32"
+         x="2598.9531"
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"
+         id="tspan1607"></tspan><tspan
+         y="36153.32"
+         x="2598.9531"
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"
+         id="tspan1609"></tspan><tspan
+         y="36171.055"
+         x="2598.9531"
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"
+         id="tspan1611">assurez-vous d'examiner les différences avec l'outil Nœud</tspan></text>
     <text
        id="text6135-6"
        y="34875.121"
@@ -3929,38 +3553,23 @@ Sélectionnez l&#39;objet (s), puis le chemin d&#39;accès - Objet vers le chemi
          x="2597.8982"
          id="tspan6137-6"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">
-Supprimer des objets
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">Supprimer des objets</tspan><tspan
          id="tspan6139-0"
          y="34901.559"
          x="2597.8982"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
- 
-
-</tspan><tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"> </tspan><tspan
          y="34927.996"
          x="2597.8982"
          sodipodi:role="line"
          id="tspan7226-2"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="font-weight:bold"
-   id="tspan4104">
-Del 
-
-</tspan> ,  <tspan
+   id="tspan4104">Del </tspan> ,  <tspan
    style="font-weight:bold"
-   id="tspan4106">
-Ctrl + X
-
-</tspan>   ,  <tspan
+   id="tspan4106">Ctrl + X</tspan>   ,  <tspan
    style="font-weight:bold"
-   id="tspan4108">
-Retour arrière (backspace)</tspan>  ou en utilisant le menu contextuel du clic droit
-
-</tspan></text>
+   id="tspan4108">Retour arrière (backspace)</tspan>  ou en utilisant le menu contextuel du clic droit</tspan></text>
     <text
        id="text7841"
        y="38015.453"
@@ -3971,10 +3580,7 @@ Retour arrière (backspace)</tspan>  ou en utilisant le menu contextuel du clic 
          id="tspan7839"
          y="38015.453"
          x="2597.6643"
-         sodipodi:role="line">
-Opérations booléennes
-
-</tspan></text>
+         sodipodi:role="line">Opérations booléennes</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:58.66666794px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3999,10 +3605,7 @@ Opérations booléennes
            y="980.91284"
            style="line-height:100%" /></flowRegion><flowPara
          id="flowPara4094"
-         style="font-size:26.66666603px;line-height:100%">
-pratiquez des commandes aléatoires ici.
-
-</flowPara></flowRoot>    <flowRoot
+         style="font-size:26.66666603px;line-height:100%">pratiquez des commandes aléatoires ici.</flowPara></flowRoot>    <flowRoot
        transform="translate(2544.1751,28899.331)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4116"
@@ -4016,10 +3619,7 @@ pratiquez des commandes aléatoires ici.
            width="332.5668"
            id="rect4110" /></flowRegion><flowPara
          style="font-size:40px;line-height:100%"
-         id="flowPara4114">
-Pratique guidée.
-
-</flowPara></flowRoot>    <flowRoot
+         id="flowPara4114">Pratique guidée.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4140"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4033,10 +3633,7 @@ Pratique guidée.
            y="980.91284"
            style="font-size:40px;line-height:100%" /></flowRegion><flowPara
          id="flowPara4138"
-         style="font-size:40px;line-height:100%">
-Bloc-note
-
-</flowPara></flowRoot>    <path
+         style="font-size:40px;line-height:100%">Bloc-note</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#729fcf;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 8;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2092.6688,29939.756 H 3489.4494"
        id="path4142"
@@ -4055,7 +3652,7 @@ Bloc-note
          sodipodi:role="line"
          id="tspan4438"
          x="3002.8894"
-         y="29102.959"></tspan></text>
+         y="29102.959" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:58.66666794px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4065,10 +3662,7 @@ Bloc-note
          sodipodi:role="line"
          x="2662.8894"
          y="29159.053"
-         id="tspan4446">
-Commençons!
-
-</tspan></text>
+         id="tspan4446">Commençons!</tspan></text>
   </g>
   <g
      inkscape:label="For Practicing"
