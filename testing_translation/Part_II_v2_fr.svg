@@ -2862,7 +2862,7 @@ Ellipse Outil
    id="tspan4072">
 F5
 
-</tspan>  or   <tspan
+</tspan>  ou   <tspan
    style="font-weight:bold"
    id="tspan4074">
 e
@@ -2902,7 +2902,7 @@ Shift</tspan>
          id="tspan6109"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-free
+libre
 
 </tspan></text>
     <text
@@ -2916,7 +2916,7 @@ free
          id="tspan6113"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Circle
+Cercle
 
 </tspan></text>
     <text
@@ -2946,12 +2946,12 @@ Circle
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="tspan7276">
-Stars and Polygons
+Étoiles et polygones
 
 </tspan> ( <tspan
    style="font-weight:bold"
    id="tspan4080">
-* </tspan>, settings can be changed in the tool controls bar at the top
+* </tspan>, les réglages peuvent être modifiés dans la barre de contrôle de l&#39;outil en haut
 
 </tspan></text>
     <text
@@ -2967,14 +2967,14 @@ Stars and Polygons
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="tspan7278">
-Bézier Paths and Lines
+Bézier Chemins et lignes
 
 </tspan> ( <tspan
    style="font-weight:bold"
    id="tspan4082">
 Shift + F6
 
-</tspan>  or   <tspan
+</tspan>  ou   <tspan
    style="font-weight:bold"
    id="tspan4084">
 b</tspan>  , 
@@ -2993,7 +2993,7 @@ b</tspan>  ,
          sodipodi:role="line"
          id="tspan7177"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-settings can be changed in the tool controls bar at the top)
+les réglages peuvent être modifiés dans la barre de contrôle de l&#39;outil en haut)
 
 </tspan></text>
     <text
@@ -3007,7 +3007,7 @@ settings can be changed in the tool controls bar at the top)
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-Paste Properties
+Coller les propriétés
 
 </tspan><tspan
          y="35090.434"
@@ -3044,7 +3044,7 @@ Ctrl + Shift + V</tspan>
          id="tspan6137"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">
-Copy, Stamp and Duplicate Objects
+Copier, timbre et objets en double
 
 </tspan><tspan
          id="tspan6139"
@@ -3067,17 +3067,17 @@ Ctrl + C
 </tspan>   -&gt;  <tspan
    style="font-weight:bold"
    id="tspan4096">
-Ctrl + V</tspan>   / hold object with the mouse and press 
+Ctrl + V</tspan>   / tenez l&#39;objet avec la souris et appuyez sur
 
 </tspan><tspan
          y="34369.785"
          x="2593.5972"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"
-         id="tspan4081">s<tspan
+         id="tspan4081">b<tspan
    style="font-weight:bold"
    id="tspan4098">
-pace bar
+arre d&#39;espace
 
 </tspan> or <tspan
    style="font-weight:bold"
@@ -3097,7 +3097,7 @@ Ctrl + D</tspan>,
          x="2593.5972"
          sodipodi:role="line"
          id="tspan7226"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">to insert at same position (e.g. in a different layer):  <tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">pour insérer à la même position (p. ex. dans une couche différente):  <tspan
    style="font-weight:bold"
    id="tspan4102">
 Ctrl + Alt + V</tspan>
@@ -3114,7 +3114,7 @@ Ctrl + Alt + V</tspan>
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-Change Color, Edit Stroke and Fill
+Changer la couleur, modifier la course et le remplissage
 
 </tspan><tspan
          id="tspan6151"
@@ -3129,7 +3129,7 @@ Change Color, Edit Stroke and Fill
          y="35677.496"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Paintbrush icon at the top right or   <tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Icône de pinceau en haut à droite ou   <tspan
    style="font-weight:bold"
    id="tspan4114">
 Ctrl + Shift + F</tspan>
@@ -3167,7 +3167,7 @@ Zoom:
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.5;stroke-width:3.13662362"
          id="tspan3966">
-Try it all out!
+Essayez tout cela!
 
 </tspan><tspan
          y="30492.27"
@@ -3175,7 +3175,7 @@ Try it all out!
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.5;stroke-width:3.13662362"
          id="tspan4038">
-These are foundational skills to be able to do ANYTHING here. 
+Ce sont des compétences fondamentales pour pouvoir faire n&#39;importe quoi ici.
 
 </tspan><tspan
          y="30503.615"
@@ -3198,7 +3198,7 @@ These are foundational skills to be able to do ANYTHING here.
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.5;stroke-width:3.13662362"
          id="tspan4050">
-When you zoom very closely to the red rectangle, you may continue ;-)
+Lorsque vous zoomlez très étroitement sur le rectangle rouge, vous pouvez continuer ;-)
 
 </tspan></text>
     <text
@@ -3212,7 +3212,7 @@ When you zoom very closely to the red rectangle, you may continue ;-)
          id="tspan6165"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.5;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-Scrolling:
+Défilement:
 
 </tspan><tspan
          id="tspan6167"
@@ -3228,7 +3228,7 @@ Scrolling:
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.5;stroke-width:3.13662362"
          id="tspan7864">
-Try it all out!
+Essayez tout cela!
 
 </tspan><tspan
          y="30255.766"
@@ -3236,7 +3236,7 @@ Try it all out!
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.5;stroke-width:3.13662362"
          id="tspan3964">
-These are foundational skills to be able to do ANYTHING here. 
+Ce sont des compétences fondamentales pour pouvoir faire n&#39;importe quoi ici.
 
 </tspan></text>
     <text
@@ -3250,7 +3250,7 @@ These are foundational skills to be able to do ANYTHING here.
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">
-Grouping and Ungrouping
+Groupement et désagrégation
 
 </tspan><tspan
          id="tspan6175"
@@ -3265,10 +3265,10 @@ Grouping and Ungrouping
          y="36488.48"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">select all objects, then  <tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">sélectionnez tous les objets, puis  <tspan
    style="font-weight:bold"
    id="tspan4116">
-Ctrl + G</tspan>  (or use the corresponding icon 
+Ctrl + G</tspan>  (ou utiliser l&#39;icône correspondante 
 
 </tspan><tspan
          y="36514.918"
@@ -3276,7 +3276,7 @@ Ctrl + G</tspan>  (or use the corresponding icon
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"
          id="tspan4079">
-in the command bar),
+dans la barre de commande),
 
 </tspan><tspan
          id="tspan6179"
@@ -3291,7 +3291,7 @@ in the command bar),
          x="2598.9531"
          sodipodi:role="line"
          id="tspan7618"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">to ungroup, press   <tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">pour se désagréger, appuyez sur   <tspan
    style="font-weight:bold"
    id="tspan4118">
 Ctrl + Shift + G
@@ -3307,7 +3307,7 @@ Ctrl + Shift + G
          sodipodi:role="line"
          id="tspan6702"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-(or use the corresponding icon in the  command bar)
+(ou utiliser l&#39;icône correspondante dans la barre de commande)
 
 </tspan></text>
     <text
@@ -3323,7 +3323,7 @@ Ctrl + Shift + G
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="tspan7298">
-Changing the Stacking Order</tspan> (Z-Order)
+Modification de l&#39;ordre d&#39;empilement </tspan> (Commande Z)
 
 </tspan><tspan
          id="tspan6187"
@@ -3349,10 +3349,10 @@ PgUp
    id="tspan4124">
 PgDown 
 
-</tspan>(on Mac that's <tspan
+</tspan>(sur Mac c&#39;est <tspan
    style="font-weight:bold"
    id="tspan4128">
-fn + arrows</tspan>)
+fn + flèches</tspan>)
 
 </tspan><tspan
          id="tspan6191"
@@ -3368,7 +3368,7 @@ fn + arrows</tspan>)
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-or use the 4 stacking icons in the selection tool's tool control bar
+ou utiliser les 4 icônes d&#39;empilement dans la barre de contrôle de l&#39;outil de l&#39;outil de sélection
 
 </tspan></text>
     <text
@@ -3382,7 +3382,7 @@ or use the 4 stacking icons in the selection tool's tool control bar
          x="2599.6643"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">
-Aligning Objects /&gt;
+Alignement d&#39;objets /&gt;
 
 </tspan><tspan
          id="tspan6199"
@@ -3416,7 +3416,7 @@ Shift + Ctrl + A </tspan>
          x="2599.6643"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-or the little 'bar chart' in the top right area of the command bar
+ou le petit «diagramme à barres» dans la partie supérieure droite de la barre de commande
 
 </tspan></text>
     <text
@@ -3430,7 +3430,7 @@ or the little 'bar chart' in the top right area of the command bar
          y="38093.453"
          id="tspan6239"
          style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-Two become One - Combine
+Deux deviennent un - Combinez
 
 </tspan><tspan
          sodipodi:role="line"
@@ -3445,7 +3445,7 @@ Two become One - Combine
          x="2599.6643"
          y="38146.328"
          id="tspan6243"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Path - Combine or  <tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Chemin - Combiner ou  <tspan
    style="font-weight:bold"
    id="tspan4132">
 Ctrl + K</tspan> : 
@@ -3478,7 +3478,7 @@ Ctrl + K</tspan> :
          y="38542.184"
          id="tspan6251"
          style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">
-Two become One - Union
+Deux deviennent un - union
 
 </tspan><tspan
          sodipodi:role="line"
@@ -3493,7 +3493,7 @@ Two become One - Union
          x="2598.9531"
          y="38595.059"
          id="tspan6255"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Path - Union or  <tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Chemin - union ou <tspan
    style="font-weight:bold"
    id="tspan4134">
 Ctrl + +</tspan>  : 
@@ -3526,7 +3526,7 @@ Ctrl + +</tspan>  :
          x="2598.9531"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-Two become One - Subtraction
+Deux deviennent une seule soustraction
 
 </tspan><tspan
          id="tspan6265"
@@ -3541,7 +3541,7 @@ Two become One - Subtraction
          y="39032.648"
          x="2598.9531"
          sodipodi:role="line"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Path - Difference or  <tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Chemin - Différence ou  <tspan
    style="font-weight:bold"
    id="tspan4136">
 Ctrl + -</tspan>  : 
@@ -3574,7 +3574,7 @@ Ctrl + -</tspan>  :
          y="39425.23"
          id="tspan6275"
          style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-opacity:1">
-Two become One - Intersection
+Deux deviennent un - Intersection
 
 </tspan><tspan
          sodipodi:role="line"
@@ -3589,7 +3589,7 @@ Two become One - Intersection
          x="2598.9531"
          y="39478.105"
          id="tspan6279"
-         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Path - Intersection or  <tspan
+         style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">Chemin - Intersection ou  <tspan
    style="font-weight:bold"
    id="tspan4138">
 Ctrl + *</tspan>  : 
@@ -3622,7 +3622,7 @@ Ctrl + *</tspan>  :
          y="39849.062"
          id="tspan6287"
          style="font-size:21.15007019px;line-height:1.25;stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-More Path Operations
+Plus d&#39;opérations de parcours
 
 </tspan><tspan
          sodipodi:role="line"
@@ -3712,7 +3712,7 @@ Division
          y="40286.137"
          id="tspan6311"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Cut Path 
+Couper Chemin
 
 </tspan><tspan
          sodipodi:role="line"
@@ -3742,7 +3742,7 @@ Cut Path
          y="40458.766"
          id="tspan6323"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Break Apart
+Briser (break apart)
 
 </tspan></text>
     <text
@@ -3758,14 +3758,14 @@ Break Apart
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="tspan7280">
-Drawing with the Pencil Tool
+Dessin avec l&#39;outil Crayon
 
 </tspan> ( <tspan
    style="font-weight:bold"
    id="tspan4086">
 F6
 
-</tspan>  or   <tspan
+</tspan>  ou   <tspan
    style="font-weight:bold"
    id="tspan4088">
 p</tspan>  ,
@@ -3784,7 +3784,7 @@ p</tspan>  ,
          sodipodi:role="line"
          id="tspan7189"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362">
-settings can be changed in the tool controls bar at the top)
+les réglages peuvent être modifiés dans la barre de contrôle de l&#39;outil en haut)
 
 </tspan></text>
     <text
@@ -3798,7 +3798,7 @@ settings can be changed in the tool controls bar at the top)
          id="tspan6061-4"
          sodipodi:role="line"
          style="font-size:21.15007019px;line-height:1.25;stroke-width:4.98723125">
-Dock Area for dialogs
+Zone de quai pour les dialogues
 
 </tspan></text>
     <text
@@ -3814,7 +3814,7 @@ Dock Area for dialogs
          style="font-size:21.15007019px;line-height:1.25;stroke-width:3.13662362"><tspan
    style="stroke:#000000;stroke-width:1.46875489;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="tspan7280-1">
-Text Tool
+Outil de texte
 
 </tspan> ( <tspan
    style="font-weight:bold"
