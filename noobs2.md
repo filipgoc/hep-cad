@@ -54,9 +54,7 @@ Were you looking for [Inkscape for Noobs Part I: INTRO](noobs1.md) instead? `¯\
   **fullscreen**  <br> (use this when to switch to full and back fast)      | `doubleclick`
 
 
-```
 <iframe width="500" height="600" style="padding-top:2rem;" src="https://www.youtube.com/embed/vO8kt8geo2k?rel=0" frameborder="0" allowfullscreen></iframe>
-```
 
 ## The Inkscape Window
 
@@ -120,9 +118,7 @@ Don't just click on tool to activate it. If you can't remember the shortcut, hav
 
 ### The Selection Tool
 
-  ```
-<iframe width="500" height="600" src="https://www.youtube.com/embed/vO8kt8geo2k?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/vO8kt8geo2k?rel=0" frameborder="0" allowfullscreen></iframe>
 
   With the **selection tool**, you can **select** objects (obviously ;-) ).
   
@@ -142,9 +138,7 @@ Don't just click on tool to activate it. If you can't remember the shortcut, hav
 
 ### The Node Tool 
 
-  ```
-<iframe width="500" height="700" src="https://www.youtube.com/embed/zUyhMp0PcEQ?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="700" src="https://www.youtube.com/embed/zUyhMp0PcEQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
   You can use the node tool to **edit paths**. **Click** with it on the rectangle at the top to select it. Now **drag** the bottom right node to change the shape of the rectangular path to fit the dashed shape.
 
@@ -154,9 +148,7 @@ Don't just click on tool to activate it. If you can't remember the shortcut, hav
 
 ### The Rectangle Tool 
 
-  ```
-<iframe width="500" height="500" src="https://www.youtube.com/embed/GmQgo3-MEcM?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="500" src="https://www.youtube.com/embed/GmQgo3-MEcM?rel=0" frameborder="0" allowfullscreen></iframe>
 
   Use the **The rectangle tool** to create **squares and rectangles**, optionally with rounded corners. Just **click** with it on the canvas and **drag** with the mouse to create a rectangle.
 
@@ -170,9 +162,7 @@ Don't just click on tool to activate it. If you can't remember the shortcut, hav
 
 ### The Ellipse Tool
 
-  ```
-<iframe width="500" height="600" src="https://www.youtube.com/embed/48GVM8GdbGs?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/48GVM8GdbGs?rel=0" frameborder="0" allowfullscreen></iframe>
 
   The ellipse tool creates **circles, ellipses, arcs and circle segments**. It almost works in the same way as the rectangle tool.
 
@@ -184,9 +174,7 @@ Don't just click on tool to activate it. If you can't remember the shortcut, hav
 
 ### Stars and Polygons 
 
-  ```
-<iframe width="500" height="600" src="https://www.youtube.com/embed/AN4PSoPGkY0?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/AN4PSoPGkY0?rel=0" frameborder="0" allowfullscreen></iframe>
 
   The **star tool** is useful for **polygons.**
 
@@ -198,9 +186,7 @@ Don't just click on tool to activate it. If you can't remember the shortcut, hav
 
 ### Bézier curves and lines 
 
-  ```
-<iframe width="500" height="700" src="https://www.youtube.com/embed/otE3HppQPLE?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="700" src="https://www.youtube.com/embed/otE3HppQPLE?rel=0" frameborder="0" allowfullscreen></iframe>
 
   Use the **Bézier tool** to draw very exact **Paths** (that is, arbitrary shapes, which consist of [Bézier curves](https://en.wikipedia.org/wiki/B%C3%A9zier_curve)). If you just click with it on the canvas, you create a single **node**. A second click creates another node and a straight line between the two nodes. Try it! A **right-click** will finish the path. Or, you can click on the **start node** to **close** the path.
 
@@ -216,17 +202,13 @@ Don't just click on tool to activate it. If you can't remember the shortcut, hav
 
 ### Pencil tool 
 
-  ```
-<iframe width="500" height="700" src="https://www.youtube.com/embed/B71Yp-AY3Xk?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="700" src="https://www.youtube.com/embed/B71Yp-AY3Xk?rel=0" frameborder="0" allowfullscreen></iframe>
 
   The **pencil tool** also draws paths. It is best used with a graphics tablet. If you are using a mouse, you should set the **smoothing** to a higher value in the tool bar, so your drawing will look less 'scrawly'. **Click and drag** to draw – and that's (almost) all there is :-)\ Play with the different smoothing values to find out what they do.
 
 ### Text Tool 
 
-  ```
-<iframe width="500" height="600" src="https://www.youtube.com/embed/SfkduZ39gsk?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/SfkduZ39gsk?rel=0" frameborder="0" allowfullscreen></iframe>
 
   With the **text tool** you can – mmmh, what could it be? – write texts! But watch out: it can create two different kinds of texts. Create **normal texts** by clicking on the canvas and starting to type. These texts can be viewed in any browser.
 
@@ -239,9 +221,7 @@ Don't just click on tool to activate it. If you can't remember the shortcut, hav
 
 ### Copy, Stamp, Duplicate 
 
-  ```
-<iframe width="500" height="600" src="https://www.youtube.com/embed/RhvU-8Edy10?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/RhvU-8Edy10?rel=0" frameborder="0" allowfullscreen></iframe>
 
   **Copy** works in Inkscape as it does everywhere else: with `Ctrl + C`.\ **Paste** will also work as usual with `Ctrl + V`.
 
@@ -255,9 +235,7 @@ Don't just click on tool to activate it. If you can't remember the shortcut, hav
 
 ### Pasting Styles
 
-  ```
-<iframe width="500" height="750" src="https://www.youtube.com/embed/puco6jg_V7w?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="750" src="https://www.youtube.com/embed/puco6jg_V7w?rel=0" frameborder="0" allowfullscreen></iframe>
 
   This feature is **enormously useful**, so really make a mental note of this keyboard shortcut!\ After you have **copied** an object using `Ctrl + C`, you can **select** a different object and then paste **just the styling** (colors, stroke width, font, font size) of the first object to the second object: **press `Ctrl + Shift + V`.
 
@@ -269,9 +247,7 @@ Don't just click on tool to activate it. If you can't remember the shortcut, hav
 
 When you need to adjust a color **more precisely**, or when you would like to change the style of the stroke (width, dashes), you can use the **'Fill and Stroke'** dialog for this.
 
-  ```
-<iframe width="800" height="600" src="https://www.youtube.com/embed/lLm8qngqpMw?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="800" height="600" src="https://www.youtube.com/embed/lLm8qngqpMw?rel=0" frameborder="0" allowfullscreen></iframe>
 
   Open the dialog now. It's all boring grey when there's nothing selected – so better also select an object!
 
@@ -285,9 +261,7 @@ When you need to adjust a color **more precisely**, or when you would like to ch
 
 ### Turning Objects into Paths 
 
-  ```
-<iframe width="500" height="600" src="https://www.youtube.com/embed/tb906EL44ow?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/tb906EL44ow?rel=0" frameborder="0" allowfullscreen></iframe>
 
   There are a few features in Inkscape, which will **only ever work with paths** – e.g. most path effects and some extensions. But a **text**, a **rectangle** or an **ellipse** are **not paths**, unfortunately, which can lead to a situation in which you really would like to do something, but nothing happens...
 
@@ -299,9 +273,7 @@ When you need to adjust a color **more precisely**, or when you would like to ch
 
 ### Group Objects together and Ungroup Them 
 
-  ```
-<iframe width="500" height="600" src="https://www.youtube.com/embed/Po0EKgwCvb8?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/Po0EKgwCvb8?rel=0" frameborder="0" allowfullscreen></iframe>
 
   Groups are **immensely useful**, but sometimes, they have the habit of being confusing. When multiple objects are **grouped together**, they behave **like a single object**. It is not possible to select one of them directly by just clicking on it, as all you will get is **the whole group at once**.
 
@@ -319,9 +291,7 @@ When you need to adjust a color **more precisely**, or when you would like to ch
 
 ### Changing the Stacking Order (Z-Order) 
 
-  ```
-<iframe width="500" height="600" src="https://www.youtube.com/embed/CIk9EBEpRj0?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/CIk9EBEpRj0?rel=0" frameborder="0" allowfullscreen></iframe>
 
   The stacking order was already explained in [Part I of this workshop](http://vektorrascheln.de/posts/2015/Dec/inkscape-fuer-einsteiger-teil-i-grundlagen-en.html##stacking-order). Now you will learn how you can change it.
 
@@ -329,9 +299,7 @@ When you need to adjust a color **more precisely**, or when you would like to ch
 
 ### Aligning and Distributing 
 
-  ```
-<iframe width="800" height="600" src="https://www.youtube.com/embed/kKFdWsUoebk?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="800" height="600" src="https://www.youtube.com/embed/kKFdWsUoebk?rel=0" frameborder="0" allowfullscreen></iframe>
 
   You will really need this dialog whenever you would like to **neatly align objects to each other**.
 
@@ -347,40 +315,30 @@ When you need to adjust a color **more precisely**, or when you would like to ch
 
 ### Combine
 
-  ```
-<iframe width="500" height="600" src="https://www.youtube.com/embed/Uu9hLZdHq_k?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/Uu9hLZdHq_k?rel=0" frameborder="0" allowfullscreen></iframe>
 
   When you **combine** objects, all nodes and paths of all selected paths will be **preserved** and become part of the newly created path.
 
 ### Union
-  ```
-<iframe width="500" height="600" src="https://www.youtube.com/embed/nrRPebYLy1I?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/nrRPebYLy1I?rel=0" frameborder="0" allowfullscreen></iframe>
 
   When you **union** objects using `Ctrl + +` (in the gif animation, you can only see that the Ctrl key is being pressed), the new path will be created from the **common outline** of the selected paths.
 
 ### Difference
 
-  ```
-<iframe width="500" height="600" src="https://www.youtube.com/embed/N-ANjOoCbTY?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/N-ANjOoCbTY?rel=0" frameborder="0" allowfullscreen></iframe>
 
   **Difference** punches **holes** that have the shape of the top path into the bottom path. This is why this operation only works (as of Inkscape 0.91) with exactly 2 selected paths.
 
 ### Intersection
 
-  ```
-<iframe width="500" height="600" src="https://www.youtube.com/embed/AkfMx1aTNBU?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="500" height="600" src="https://www.youtube.com/embed/AkfMx1aTNBU?rel=0" frameborder="0" allowfullscreen></iframe>
 
   After using **intersection**, only those areas are left that have been covered by each one of the selected paths.
 
 ### Exclusion, Division, Cut Path, Break Apart 
 
-  ```
-<iframe width="600" height="650" src="https://www.youtube.com/embed/oWoY7PTVuOw?rel=0" frameborder="0" allowfullscreen></iframe>
-```
+  <iframe width="600" height="650" src="https://www.youtube.com/embed/oWoY7PTVuOw?rel=0" frameborder="0" allowfullscreen></iframe>
 
   **Exclusion** will only keep those areas that **do not overlap**. **Division** will cut a path along the borders of the top path, and creates **closed** paths. **Cut path** cuts the bottom path's outline in those places, where it **intersects the top path**. **Break apart** will break a path up into its **subpaths**, where each subpath will become a new object. The keyboard shortcuts for these operations might not work with some international keyboard layouts.
 
