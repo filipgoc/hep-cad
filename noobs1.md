@@ -8,9 +8,7 @@ viewport: 'width=device-width, initial-scale=1.0'
 # DAO - Inkscape for Noobs part I: INTRO
   {:.no_toc}
   
-Were you looking for [Inkscape for Noobs Part II: HANDS-ON][286023ff] instead? `¯\_(ツ)_/¯`
-
-[286023ff]: noobs2.md "Inkscape for Noobs Part II: HANDS-ON"
+Were you looking for [Inkscape for Noobs Part II: HANDS-ON](noobs2.md) instead? `¯\_(ツ)_/¯`
 
 ## Table of Contents
   {:.no_toc}
@@ -19,6 +17,33 @@ Were you looking for [Inkscape for Noobs Part II: HANDS-ON][286023ff] instead? `
   {:toc}
 
   ---
+## == SPEAK intro
+
+### Digital fabrication: new art class
+
+### This class
+
+In this class, we will learn how to use Inkscape to make vector graphics, mostly for lasercutting and illustration of ideas.
+
+(If you don't know what vector is, don't worry about it right now.)
+
+The goal of this class is for you to be able to make digital vector drawings like this
+
+SHOW
+
+This class is by NO means a comprehensive training in vector drawing. Rather, it is a focused, goal-driven introduction for Noobs designed to get you MAKING things. 
+
+### Why you should trust me? 
+
+### Language Issues
+
+### Learning software - the TROUBLE
+
+### Importantce of Self-Learning
+
+make a list of resources, and show here where they are on the website. 
+
+## == CLASS SPECIFIC
 
 ## What is Inkscape?
 
@@ -90,13 +115,7 @@ for every zoom level. This is why a vector graphic is **always crisp**
 
 ![](/assets/media/noob-imgs/change.jpg){:width="650px"}
 
-In comparison to raster graphics, it’s very easy to **radically change**
-the appearance of a vector graphic by changing only very few of its
-properties (see image). In a raster graphic, the computer program would
-need to look at every single dot (or pixel) – and sometimes, it will not
-be easy for the program to know which dot belongs to which object,
-because a raster graphic doesn’t actually contain any objects, only a
-bunch of colorful dots.
+In comparison to raster graphics, it’s very easy to **radically change** the appearance of a vector graphic by changing only very few of its properties (see image). In a raster graphic, to change the color, you'd basically have to find a way to paint over the old color - like with a physical brush on a physical painting. 
 
 ### Smaller file sizes – more computational work
 
@@ -117,20 +136,9 @@ Raster and vector graphics are each used for different purposes which
 
 ![](/assets/media/noob-imgs/photo_raster_und_vektor-o.jpg){:width="650px"}
 
-**Raster images** are used for images with **a large amount of irregular, differently colored contents**, so mainly for **photos**. If
-we wanted to save those in a vector format, trying to render them on a
-monitor would take very long. Depending upon how much we would then need
-to simplify the image because of slow rendering, there would also be a
-lesser amount of different colors in it and the quality would be much
-worse. In addition to this, at the same level of image quality, the file
-size would be enourmous, as for each color that appears in the image, a
-separate object would need to be created (this could be up to 1.9
-million objects for a normal 1600x1200 pixel sized photo, if every pixel
-had a different color).
+**Raster images** are used for images with **a large amount of irregular, differently colored contents**, so mainly for **photos**. If we wanted to save those in a vector format, trying to render them on a monitor would take very long. Depending upon how much we would then need to simplify the image because of slow rendering, there would also be a lesser amount of different colors in it and the quality would be much worse. In addition to this, at the same level of image quality, the file size would be enourmous, as for each color that appears in the image, a separate object would need to be created (this could be up to 1.9 million objects for a normal 1600x1200 pixel sized photo, if every pixel had a different color).
 
-This is why **vector images** are most often used for **logos, clipart, buttons, icons** and other graphics, which are made up of **large, coherent single-color areas** or can easily be divided into **single objects**. Of course, depending upon the subject of the drawing, it is
-also possible to create very realistic looking drawings, which create
-the impression of 3D depth by skillful use of color gradients.
+This is why **vector images** are most often used for **logos, clipart, buttons, icons** and other graphics, which are made up of **large, coherent single-color areas** or can easily be divided into **single objects**. Of course, depending upon the subject of the drawing, it is also possible to create very realistic looking drawings, which create the impression of 3D depth by skillful use of color gradients.
 
 So, before you jump straight into Inkscape to create the image of your
 dreams, you should first have a think if Inkscape is the **appropriate tool for the task**. If your goal is to edit a photo, or to draw a
