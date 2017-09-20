@@ -8,7 +8,8 @@ viewport: 'width=device-width, initial-scale=1.0'
 # DAO - Inkscape for Noobs part I: INTRO
   {:.no_toc}
   
-Were you looking for [Inkscape for Noobs Part II: HANDS-ON](noobs2.md) instead? `¯\_(ツ)_/¯`
+  Were you looking for [Inkscape for Noobs Part II: HANDS-ON](noobs2.md) instead? `¯\_(ツ)_/¯`
+  Were you looking for [Inkscape for Noobs Part III: EXERCISE](noobs3.md) instead? `¯\_(ツ)_/¯`
 
 ## Table of Contents
   {:.no_toc}
@@ -19,31 +20,121 @@ Were you looking for [Inkscape for Noobs Part II: HANDS-ON](noobs2.md) instead? 
   ---
 ## == SPEAK intro
 
+I don't like when teachers talk at the beginning of the class. I prefer for the students to start working right away. You're not here to listen to me speak. You're here to learn a hands-on skill. And for that, you have to use your hands as much as possible.
+
+However, it is also strange to be in a room with complete strangers.
+
+So, I will introduce myself and the class as briefly as possible.
+Then, we'll work.
+Then, there will be a break. 
+Then, I'll speak some more about what we will be doing in the upcoming classes and so on. 
+And then we will work again. 
+And then we'll go home.
+
 ### Digital fabrication: new art class
+
+Digital fabrication is the new art class. Tools that were once expensive and available only to engineers and design professionals are now available to us. The regular people. 
+
+This is empowering. We can create high quality, professional looking, precise physical objects with ease. And that feels good. 
+
+In your many ACPR courses, you are creating projects with physical outcomes.  You need to use lasercutters and 3D printers and regular inkjet printers to create objects.
+
+Downstairs in HEP we have a lasercutter, 3d printers, vinyl cutters and more. But these are just computer controlled tools, and therefore they need very precise instructions. 
+
+2D tools need 2D instructions, and that's what we do here.
 
 ### This class
 
-In this class, we will learn how to use Inkscape to make vector graphics, mostly for lasercutting and illustration of ideas.
+In this class, ACPR 2.1, we will learn how to use Inkscape to make digital 2D drawings. Shapes. That's it. 
 
-(If you don't know what vector is, don't worry about it right now.)
+This class is concerned with the software. We will do little projects, but it is not our main goal. Our goal is to be able to use the software so that you can work on the projects for your other classes. 
 
-The goal of this class is for you to be able to make digital vector drawings like this
+Next year, in ACPR 3.1, you will have a similar class learning to make 3D digital file. 3D models. 
 
-SHOW
+### Who am I and why you should trust me? 
 
-This class is by NO means a comprehensive training in vector drawing. Rather, it is a focused, goal-driven introduction for Noobs designed to get you MAKING things. 
+2D and 3D design and 'making' is what I do for living. 
 
-### Why you should trust me? 
+I'm an educator, a bit like you. I have a degree in designing courses with innovative technologies, and I have taught a wide range of classes in several countries. 
+
+Two years ago, in the US, I have co-founded a company making 3D printers for education. I have co-designed the 3D printer JellyBOX. I did both the 3D design (for 3D printing) and 2D design (for lasercutting). My machine won the "Best for Schools" award by the make magazine last year.
+
+I come from the Czech Republic, but I lived in the US for the past 8 year. I just moved here recently. 
 
 ### Language Issues
 
-### Learning software - the TROUBLE
+Which brings me to the issue of language.
 
-### Importantce of Self-Learning
+As teachers, you know that sometimes, you may have a student who does not speak or understand French very well. 
 
-make a list of resources, and show here where they are on the website. 
+In this class, joke is on you. It's the teacher who is is struggling. 
+
+I learnt some french a long time ago when I was a teenager, and I'm only recently re-learning.
+
+Well, nothing is perfect. Some times you may get a teacher who speaks well, but knows nothing. Other times, you get someone who know what they're doing, but cannot speak well. I think we'll be fine. Just ask me slowly, or better SHOW me what you need, and I will answer slowly, or SHOW you the answer.
+
+Also, my english is perfect, if at any point we can't make it work. 
+
+### Learning software - the Trouble
+
+Learning software in a classroom environment is a terrible idea. Everyone is not comfortable with computers in the same way, and everyone learns at different speed.
+
+Plus, working on a computer is solitary and we need to stare at our screens. 
+
+If we try to work together on something - let's say I would be showing something on a big screen and you follow along - then necessarily some people will be bored to death while for others it will be too fast to understand. 
+
+Still, a big screen demonstration is nice to show how one interacts with the program in a real time.
+
+So, I will show you the basics of the interface and how one moves around. Then, you will get your own exercise files, and you you will be working alone. 
+
+I will be walking around and observing you. Your job is to tell me when you need help. I will show you on your computer.
+
+This way, different people will learn different things at different speeds. At the end of the class, you may have different skills. Welcome to the real world. 
+
+### Importance of Self-Learning
+
+This class is by NO means a comprehensive training. It can't be. 
+
+It is a focused, goal-driven introduction designed to get you MAKING things.
+
+You probably need at least ten hours before you'll be reasonably proficient with this software. We don't have that much time. 
+
+If you need a skill we do not cover or if you want to become good, you will need to do some learning on your own. I'll send you a list of good resources, but it's often best to find your own. 
+
+At the end of the day, googling a video or tutorial on how to do a specific thing may be the most authentic way to learn. The internet is full of guides. 
 
 ## == CLASS SPECIFIC
+
+We only have 4 sessions together.
+
+2 sessions as a whole class, and 2 sessions for group work. 
+
+Here's the plan. It's subject to change depending on what happens in your other ACPR2 classes. 
+
+1. Today, we'll jump into Inkscape right away and see how far we get. We'll cover the interface, and basic tools to create and manipulate basic shapes.
+2. Next week, we will cover tips and tricks, and learn to work more efficiently. We will ALSO create a small project using Silhouette Cameo - which is a digitally controlled cutter.
+ - All these skills you will need for in ACPR 2.2 with Adrienne and Isa. You will be using cameo to cut as early as your first class with them. 
+3. Our first group session, I will be helping you work with your project that you will bring from the ACPR 2.2 class. The theme this year is upcycling. 
+4. Our second group session, we will focus on creating text layouts, which will come handy for your ACPR2 evaluation. Also, for fun, we will learn to use the laser cutter as as preparation for your ACT3D class with Dino. We will be working on generating patterns.
+
+### Evaluation
+
+This is a foundational class. The skills you learn here you will need in most of your other ACPR2 and even ACPR3 classes.
+
+There is no separate evaluation for this class.
+
+Evaluation will be done for all the ACPR2 modules together. Sebastien Actis-Datta is the one who does the assessment, and he will tell you all about it in two weeks when you have class with him.
+
+### Communication
+
+- You can reach me at fgoc@fablab-hepl.ch
+  - Do NOT hesitate to email me. There will be long long gaps between our classes; email will be the best way to reach me.
+- I am also at the fablab on Thursdays. I am inviting you to stop by and work on your things if you wish.
+- Course materials will be listed on Moodle
+- I made a website specifically for this class, a link is on Moodle. 
+- (it's `https://filipgoc.github.io/hep-cad`)
+
+So, let's get get started. 
 
 ## What is Inkscape?
 
@@ -203,10 +294,6 @@ the stacking order is preserved even after dragging the objects apart.
 
 Of course, you can change the stacking order in Inkscape. Newly created
 objects are always placed on top.
-
-### Groups
-
-Multiple objects can be combined into a **group**. This group will now behave like a single object. After grouping, the whole group can easily be moved, the color or stroke width of all contained objects can be changed easily, or the group can just be made smaller, or larger, while, all the time, the **relative position** of the objects inside the group to each other will **stay the same** (if you’ve got a drawing of a face, the eyes will always stay in the correct place, no matter if you squash the face, turn it around, stretch it, enlarge it or shrink it).
 
 ### Plain Text / Tree Structure
 

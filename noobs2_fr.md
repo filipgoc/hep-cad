@@ -8,7 +8,7 @@ viewport: 'width=device-width, initial-scale=1.0'
 # DAO - Inkscape pour Noobs partie II
 {:.no_toc}
 
-Étiez-vous à la recherche d' [Inkscape pour Noobs Part I: INTRO à la](noobs1_fr.md) place?`¯\_(ツ)_/¯`
+Étiez-vous à la recherche d' [Inkscape for Noobs Part I: INTRO](noobs1.md) place?`¯\_(ツ)_/¯`
 
 ## Table of Contents
   {:.no_toc}
@@ -17,6 +17,24 @@ viewport: 'width=device-width, initial-scale=1.0'
   {:toc}
 
 ---
+
+## Liens utiles
+
+- **Référence des raccourcis clavier d'Inkscape (FR)**
+  - C'est la Bible. Il s'agit de raccourcis.
+  - https://inkscape.org/fr/doc/keys092.fr.html
+- Inkscape: Guide (EN)
+  - un peu moche, mais complet et complet.
+  - utilisez la fonction de recherche pour obtenir ce que vous voulez
+  - http://tavmjong.free.fr/INKSCAPE/MANUAL/html/ix01.html
+- Inkscape gallery
+  - bon pour l'inspiration. Vous pouvez télécharger des fichiers et voir comment ils fonctionnent.
+  - https://inkscape.org/en/gallery/
+- Didacticiels officiels (FR)
+  - https://inkscape.org/fr/apprendre/didacticiels/
+- Manuel Utilisateur Inkscape (FR)
+  - dépassé, mais pourrait être utile pour commandes de recherche hors ligne
+  -https://blogs.lyceecfadumene.fr/wp-content/blogs.dir/2/files/2012/02/inkscape2.pdf
 
 ## **[Téléchargez le dossier de l'atelier](#)**
 
