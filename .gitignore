@@ -1,6 +1,7 @@
 .gitignore
 .folio
 
+testing translation/
 testing_translation/
 _site/
 .sass-cache/
