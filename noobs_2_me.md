@@ -1,11 +1,4 @@
----
-copyright: CC-By-SA 4.0
-robots: 'index, follow'
-title: "Inkscape for Noobs – Part II: Practice"
-viewport: 'width=device-width, initial-scale=1.0'
----
-
-# DAO - Inkscape for Noobs part II
+# DAO - internal
   {:.no_toc}
   
 Were you looking for [Inkscape for Noobs Part I: INTRO](noobs1.md) instead? `¯\_(ツ)_/¯`

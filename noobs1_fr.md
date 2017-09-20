@@ -20,297 +20,216 @@ viewport: 'width=device-width, initial-scale=1.0'
   * TOC
   {:toc}
 
-  ---
-## == SPEAK intro
+---
 
-I don't like when teachers talk at the beginning of the class. I prefer for the students to start working right away. You're not here to listen to me speak. You're here to learn a hands-on skill. And for that, you have to use your hands as much as possible.
+## == PARLER intro
 
-However, it is also strange to be in a room with complete strangers.
+Je n'aime pas quand les enseignants parlent au début de la classe. Je préfère que les étudiants commencent à travailler tout de suite. Vous n'êtes pas là pour m'écouter parler. Vous êtes là pour apprendre une compétence pratique. Et pour cela, vous devez utiliser vos mains autant que possible.
 
-So, I will introduce myself and the class as briefly as possible.
-Then, we'll work.
-Then, there will be a break. 
-Then, I'll speak some more about what we will be doing in the upcoming classes and so on. 
-And then we will work again. 
-And then we'll go home.
+Cependant, il est également étrange d'être dans une pièce avec des étrangers complets.
 
-### Digital fabrication: new art class
+Alors, je vais me présenter et la classe aussi brièvement que possible. Ensuite, nous allons travailler. Ensuite, il y aura une pause. Ensuite, je vais parler davantage de ce que nous allons faire dans les cours à venir et ainsi de suite. Et puis nous allons travailler à nouveau. Et puis nous irons à la maison.
 
-Digital fabrication is the new art class. Tools that were once expensive and available only to engineers and design professionals are now available to us. The regular people. 
+### Fabrication numérique: nouvelle classe d'art
 
-This is empowering. We can create high quality, professional looking, precise physical objects with ease. And that feels good. 
+La fabrication numérique est la nouvelle classe d'art. Les outils qui étaient autrefois chers et disponibles uniquement pour les ingénieurs et les professionnels du design sont maintenant à notre disposition. Les gens ordinaires.
 
-In your many ACPR courses, you are creating projects with physical outcomes.  You need to use lasercutters and 3D printers and regular inkjet printers to create objects.
+Ceci est habilitant. Nous pouvons créer des objets physiques de haute qualité, professionnels, précis avec facilité. Et ça va bien.
 
-Downstairs in HEP we have a lasercutter, 3d printers, vinyl cutters and more. But these are just computer controlled tools, and therefore they need very precise instructions. 
+Dans vos nombreux cours ACPR, vous créez des projets ayant des résultats physiques. Vous devez utiliser des imprimantes laser et des imprimantes 3D et des imprimantes jet d'encre ordinaires pour créer des objets.
 
-2D tools need 2D instructions, and that's what we do here.
+Au rez-de-chaussée en HEP, nous avons une lasercutter, des imprimantes 3D, des coupeurs de vinyle et plus encore. Mais ce ne sont que des outils contrôlés par ordinateur et, par conséquent, ils ont besoin d'instructions très précises.
 
-### This class
+Les outils 2D ont besoin d'instructions 2D, et c'est ce que nous faisons ici.
 
-In this class, ACPR 2.1, we will learn how to use Inkscape to make digital 2D drawings. Shapes. That's it. 
+### Cette classe
 
-This class is concerned with the software. We will do little projects, but it is not our main goal. Our goal is to be able to use the software so that you can work on the projects for your other classes. 
+Dans cette classe, ACPR 2.1, nous allons apprendre à utiliser Inkscape pour réaliser des dessins 2D numériques. Formes. C'est tout.
 
-Next year, in ACPR 3.1, you will have a similar class learning to make 3D digital file. 3D models. 
+Cette classe s'intéresse au logiciel. Nous allons faire de petits projets, mais ce n'est pas notre objectif principal. Notre objectif est de pouvoir utiliser le logiciel afin que vous puissiez travailler sur les projets pour vos autres classes.
 
-### Who am I and why you should trust me? 
+L'année prochaine, dans l'ACPR 3.1, vous aurez une classe similaire à apprendre à créer un fichier numérique en 3D. Modèles 3D.
 
-2D and 3D design and 'making' is what I do for living. 
+### Qui suis-je et pourquoi vous devez me faire confiance?
 
-I'm an educator, a bit like you. I have a degree in designing courses with innovative technologies, and I have taught a wide range of classes in several countries. 
+La conception 2D et 3D et «making» est ce que je fais pour vivre.
 
-Two years ago, in the US, I have co-founded a company making 3D printers for education. I have co-designed the 3D printer JellyBOX. I did both the 3D design (for 3D printing) and 2D design (for lasercutting). My machine won the "Best for Schools" award by the make magazine last year.
+Je suis éducateur, un peu comme vous. J'ai obtenu un diplôme en conception de cours avec des technologies innovantes et j'ai enseigné un large éventail de cours dans plusieurs pays.
 
-I come from the Czech Republic, but I lived in the US for the past 8 year. I just moved here recently. 
+Il y a deux ans, aux États-Unis, j'ai cofondé une entreprise qui fabrique des imprimantes 3D pour l'éducation. J'ai co-conçu l'imprimante 3D JellyBOX. J'ai fait à la fois la conception 3D (pour l'impression en 3D) et la conception 2D (pour les compresses). Ma machine a remporté le prix "Best for Schools" par le magazine Make l'année dernière.
 
-### Language Issues
+Je viens de la République tchèque, mais j'ai vécu aux États-Unis depuis 8 ans. Je viens de déménager ici récemment.
 
-Which brings me to the issue of language.
+### Problèmes de langue
 
-As teachers, you know that sometimes, you may have a student who does not speak or understand French very well. 
+Ce qui m'amène à la question de la langue.
 
-In this class, joke is on you. It's the teacher who is is struggling. 
+En tant qu'enseignants, vous savez que parfois, vous pouvez avoir un élève qui ne parle pas ou ne comprend pas très bien le français.
 
-I learnt some french a long time ago when I was a teenager, and I'm only recently re-learning.
+Dans cette classe, la blague est sur vous. C'est le professeur qui lutte est en difficulté.
 
-Well, nothing is perfect. Some times you may get a teacher who speaks well, but knows nothing. Other times, you get someone who know what they're doing, but cannot speak well. I think we'll be fine. Just ask me slowly, or better SHOW me what you need, and I will answer slowly, or SHOW you the answer.
+J'ai appris un peu de français il y a longtemps quand j'étais adolescent, et je ne fais que réapprendre récemment.
 
-Also, my english is perfect, if at any point we can't make it work. 
+Bien, rien n'est parfait. Certaines fois, vous pouvez obtenir un enseignant qui parle bien, mais ne sait rien. D'autres fois, vous obtenez quelqu'un qui sait ce qu'ils font, mais ne peut pas bien parler. Je pense que nous allons bien. Demandez-moi simplement, ou mieux, montrez-moi ce dont vous avez besoin, et je vais répondre lentement, ou vous montrer la réponse.
 
-### Learning software - the Trouble
+En outre, mon anglais est parfait, si, à tout moment, nous ne pouvons pas le faire fonctionner.
 
-Learning software in a classroom environment is a terrible idea. Everyone is not comfortable with computers in the same way, and everyone learns at different speed.
+### Logiciel d'apprentissage - le problème
 
-Plus, working on a computer is solitary and we need to stare at our screens. 
+Le logiciel d'apprentissage dans un environnement de classe est une idée terrible. Tout le monde n'est pas à l'aise avec les ordinateurs de la même manière, et tout le monde apprend à une vitesse différente.
 
-If we try to work together on something - let's say I would be showing something on a big screen and you follow along - then necessarily some people will be bored to death while for others it will be too fast to understand. 
+De plus, travailler sur un ordinateur est solitaire et nous devons regarder nos écrans.
 
-Still, a big screen demonstration is nice to show how one interacts with the program in a real time.
+Si nous essayons de travailler ensemble sur quelque chose - disons que je montrerais quelque chose sur un grand écran et que vous suivrez - alors, nécessairement, certaines personnes seront ennuyées jusqu'à la mort, tandis que pour d'autres, ce sera trop rapide pour comprendre.
 
-So, I will show you the basics of the interface and how one moves around. Then, you will get your own exercise files, and you you will be working alone. 
+Pourtant, une démonstration en grand écran est agréable de montrer comment on interagit avec le programme en temps réel.
 
-I will be walking around and observing you. Your job is to tell me when you need help. I will show you on your computer.
+Donc, je vais vous montrer les bases de l'interface et comment on se déplace. Ensuite, vous obtiendrez vos propres fichiers d'exercices, et vous travaillerez seul.
 
-This way, different people will learn different things at different speeds. At the end of the class, you may have different skills. Welcome to the real world. 
+Je vais me promener et vous observer. Votre travail consiste à me dire quand vous avez besoin d'aide. Je vous montrerai sur votre ordinateur.
 
-### Importance of Self-Learning
+De cette façon, différentes personnes apprendront différentes choses à des vitesses différentes. À la fin de la classe, vous pouvez avoir des compétences différentes. Bienvenue dans le monde réel.
 
-This class is by NO means a comprehensive training. It can't be. 
+### Importance de l'autoapprentissage
 
-It is a focused, goal-driven introduction designed to get you MAKING things.
+Cette classe est par NO signifie une formation complète. Cela ne peut pas être.
 
-You probably need at least ten hours before you'll be reasonably proficient with this software. We don't have that much time. 
+C'est une introduction axée sur les objectifs, conçue pour vous permettre de faire des choses.
 
-If you need a skill we do not cover or if you want to become good, you will need to do some learning on your own. I'll send you a list of good resources, but it's often best to find your own. 
+Vous avez probablement besoin d'au moins dix heures avant d'être raisonnablement compétent avec ce logiciel. Nous n'avons pas beaucoup de temps.
 
-At the end of the day, googling a video or tutorial on how to do a specific thing may be the most authentic way to learn. The internet is full of guides. 
+Si vous avez besoin d'une compétence, nous ne couvrons pas ou si vous voulez devenir bon, vous devrez faire de l'apprentissage par vous-même. Je vous enverrai une liste de bonnes ressources, mais il est souvent préférable de trouver la vôtre.
 
-## == CLASS SPECIFIC
+À la fin de la journée, googler une vidéo ou un didacticiel sur la façon de faire une chose spécifique peut être la façon la plus authentique d'apprendre. Internet est plein de guides.
 
-We only have 4 sessions together.
+## == CLASSE SPÉCIFIQUE
 
-2 sessions as a whole class, and 2 sessions for group work. 
+Nous avons seulement 4 sessions ensemble.
 
-Here's the plan. It's subject to change depending on what happens in your other ACPR2 classes. 
+2 sessions en classe entière et 2 séances pour le travail en groupe.
 
-1. Today, we'll jump into Inkscape right away and see how far we get. We'll cover the interface, and basic tools to create and manipulate basic shapes.
-2. Next week, we will cover tips and tricks, and learn to work more efficiently. We will ALSO create a small project using Silhouette Cameo - which is a digitally controlled cutter.
- - All these skills you will need for in ACPR 2.2 with Adrienne and Isa. You will be using cameo to cut as early as your first class with them. 
-3. Our first group session, I will be helping you work with your project that you will bring from the ACPR 2.2 class. The theme this year is upcycling. 
-4. Our second group session, we will focus on creating text layouts, which will come handy for your ACPR2 evaluation. Also, for fun, we will learn to use the laser cutter as as preparation for your ACT3D class with Dino. We will be working on generating patterns.
+Voici le plan. Il est sujet à changement en fonction de ce qui se passe dans vos autres classes ACPR2.
 
-### Evaluation
+1.  Aujourd'hui, nous allons sauter dans Inkscape tout de suite et voir à quelle distance nous obtenons. Nous allons couvrir l'interface et les outils de base pour créer et manipuler des formes de base.
+2.  La semaine prochaine, nous allons aborder des astuces et astuces, et apprendre à travailler plus efficacement. Nous créerons également un petit projet utilisant Silhouette Cameo - qui est un coupeur à commande numérique.
+    -   Toutes ces compétences dont vous aurez besoin dans l'ACPR 2.2 avec Adrienne et Isa. Vous utiliserez cameo pour couper dès votre première classe avec eux.
+3.  Notre première session de groupe, je vais vous aider à travailler avec votre projet que vous apportez de la classe ACPR 2.2. Le thème de cette année est l'évolution ascendante.
+4.  Notre deuxième session de groupe, nous nous concentrerons sur la création de mises en page de texte, qui sera utile pour votre évaluation ACPR2. En outre, pour s'amuser, nous allons apprendre à utiliser le coupe-laser comme préparation pour votre classe ACT3D avec Dino. Nous allons travailler sur les modèles de génération.
 
-This is a foundational class. The skills you learn here you will need in most of your other ACPR2 and even ACPR3 classes.
+### Évaluation
 
-There is no separate evaluation for this class.
+C'est une classe fondamentale. Les compétences que vous apprendrez ici nécessiteront dans la plupart de vos autres cours ACPR2 et même ACPR3.
 
-Evaluation will be done for all the ACPR2 modules together. Sebastien Actis-Datta is the one who does the assessment, and he will tell you all about it in two weeks when you have class with him.
+Il n'y a pas d'évaluation distincte pour cette classe.
 
-### Communication
+L'évaluation sera effectuée pour tous les modules ACPR2 ensemble. Sébastien Actis-Datta est celui qui fait l'évaluation, et il vous en informera tout au sujet de cela dans deux semaines lorsque vous aurez cours avec lui.
 
-- You can reach me at fgoc@fablab-hepl.ch
-  - Do NOT hesitate to email me. There will be long long gaps between our classes; email will be the best way to reach me.
-- I am also at the fablab on Thursdays. I am inviting you to stop by and work on your things if you wish.
-- Course materials will be listed on Moodle
-- I made a website specifically for this class, a link is on Moodle. 
-- (it's `https://filipgoc.github.io/hep-cad`)
+### la communication
 
-So, let's get get started. 
+-   Vous pouvez me joindre à fgoc@fablab-hepl.ch
+    -   N'hésitez pas à m'envoyer un courriel. Il y aura de longs écarts entre nos cours; Le courrier électronique sera la meilleure façon de me rejoindre.
+-   Je suis également au fablab les jeudis. Je vous invite à vous arrêter et à travailler sur vos affaires si vous le souhaitez.
+-   Les matériaux du cours seront répertoriés sur Moodle
+-   J'ai créé un site Web spécialement pour cette classe, un lien est sur Moodle.
+-   (c'est `https://filipgoc.github.io/hep-cad`)
 
-## What is Inkscape?
+Alors, commençons.
 
-[Inkscape](https://inkscape.org/) is a graphics program which can be
-used to create **vector graphics**. It’s **open source** (i.e. everybody
-can look into [the program’s code](http://bazaar.launchpad.net/~inkscape.dev/inkscape/trunk/files)),
-it is licenced under a **free licence**, which allows everyone to change
-the program’s code, to use the program for any purpose and to share it
-with others, and it is constantly being improved by a **community of
-committed volunteer developers**. Many users also support Inkscape – for
-example by helping other users.
+## Qu'est-ce qu'Inkscape?
 
-This means that, in contrast to many other computer programs, there is
-**no company** behind Inkscape, but a community of volunteers from all
-over the world, with an elected board committee and an umbrella
-organization ([Software Freedom Conservancy](http://sfconservancy.org/)), which creates a safe judicial
-context for the activities of the contributors (e.g. in order to make it
-possible that the project can accept donations).
+[Inkscape](https://inkscape.org/) est un programme graphique qui peut être utilisé pour créer **des graphiques vectoriels** . C'est **une source ouverte** (c'est-à-dire que tout le monde peut se pencher sur [le code du programme](http://bazaar.launchpad.net/~inkscape.dev/inkscape/trunk/files) ), il est sous **licence gratuite** , ce qui permet à tous de modifier le code du programme, d'utiliser le programme à des fins spécifiques et de le partager avec d'autres, et il est constamment amélioré par une **communauté de développeurs bénévoles engagés** . [Beaucoup d'utilisateurs supportent également Inkscape, par exemple en aidant d'autres utilisateurs.](https://inkscape.org/)
 
-Everyone who contributes to this project becomes part of the
-**world-wide [Inkscape community](https://inkscape.org/community/)**.
+Cela signifie que, contrairement à de nombreux autres programmes informatiques, il n'y a **pas d'entreprise** derrière Inkscape, mais une communauté de bénévoles du monde entier, avec un comité de conseil élu et une organisation parapluie ( [Software Freedom Conservancy](http://sfconservancy.org/) ), qui crée une [loi](http://sfconservancy.org/) judiciaire sécuritaire contexte pour les activités des contributeurs (par exemple, afin de permettre que le projet puisse accepter des dons).
 
-## What is a Vector Graphic?
+Tous ceux qui contribuent à ce projet fait partie intégrante du **monde entier [communauté Inkscape](https://inkscape.org/community/)** .
 
-Vector graphics consist of separate **objects**. These are defined by
-their **geometric properties**, e.g. a circle by the position of its
-center and the size of its radius. For curved lines, specific properties
-are saved which describe the position of certain points on them and the
-curvature of the lines which connect these points to each other.
+## Qu'est-ce qu'un graphique vectoriel?
 
-![](/assets/media/noob-imgs/stars.jpg){:width="650px"}
+Les graphiques vectoriels se composent d' **objets** distincts . Ceux-ci sont définis par leurs **propriétés géométriques** , par exemple un cercle par la position de son centre et la taille de son rayon. Pour les lignes courbes, des propriétés spécifiques sont sauvegardées, qui décrivent la position de certains points et la courbure des lignes qui relient ces points les unes aux autres.
 
-Objects in a vector graphic all have a well-defined **set of attributes**, each of which can easily be modified. This allows you to
-change the color of the fill or the contour line with a single click to
-some completely different color, to remove it or even replace it by
-a pattern.
+<img src="/assets/media/noob-imgs/stars.jpg" width="650" />
 
-**Examples of these attributes** are: fill color, fill pattern, fill
-with a color gradient, color of the contour (stroke), width of the
-contour, contour pattern, type of contour line (e.g. dashed, dotted, …)
-or the type of markers (e.g. arrows or other symbols) used in the course
-of the path.
+Les objets dans un graphique vectoriel ont tous un ensemble bien défini **d'attributs** , dont chacun peut être facilement modifié. Cela vous permet de modifier la couleur du remplissage ou de la ligne de contour avec un seul clic sur une couleur complètement différente, pour l'enlever ou même le remplacer par un motif.
 
-## A Comparison: Vector Graphic vs. Raster Graphic 
+**Des exemples de ces attributs** sont: couleur de remplissage, motif de remplissage, remplissage d'un dégradé de couleur, couleur du contour (trame), largeur du contour, motif de contour, type de ligne de contour (p.ex. pointillé, pointillé, ...) ou le type de marqueurs (p. ex. flèches ou autres symboles) utilisés au cours du chemin.
 
-### Always Crisp
+## Une comparaison: Graphique vectoriel par rapport au graphisme de trame
 
-![](/assets/media/noob-imgs/crisp_vs_pixelated.jpg){:width="650px"}
+### Always Crisp
 
-A vector graphic behaves **very differently from, for example, a photo**, that was taken with a digital camera. Digital photos are
-**raster graphics**, and thus consist of a large number of colored dots,
-which are arranged in a specific order (the raster). When the distance
-is large enough, all those little dots together form an image. But as
-soon as the photo is enlarged a little too much, all those single dots
-become visible – the image appears ‘pixelated’.
+<img src="/assets/media/noob-imgs/crisp_vs_pixelated.jpg" width="650" />
 
-Because vector graphics are saved as instructions for the geometrical
-construction of the objects they contain (just like a set of geometry
-homework assignments), the computer needs to calculate all objects
-first, to be able to show them on the screen.
+Un graphique vectoriel se comporte de manière **très différente de, par exemple, une photo** , qui a été prise avec un appareil photo numérique. Les photos numériques sont **des graphiques raster** , et sont donc constitués d'un grand nombre de points colorés, disposés dans un ordre spécifique (le raster). Lorsque la distance est assez grande, tous ces petits points forment ensemble une image. Mais dès que la photo est agrandie un peu trop, tous ces points simples deviennent visibles - l'image apparaît 'pixelée'.
 
-When viewing a vector image, it doesn’t matter how much you zoom in – it
-will never look pixelated. The computer can precisely calculate all the
-pixels that are needed in order to display the image on your monitor,
-for every zoom level. This is why a vector graphic is **always crisp**
-(unless you intentionally add some blur, of course).
+Étant donné que les graphiques vectoriels sont enregistrés comme instructions pour la construction géométrique des objets qu'ils contiennent (tout comme un ensemble d'affectations de devoir de géométrie), l'ordinateur doit d'abord calculer tous les objets pour pouvoir les afficher sur l'écran.
 
-### Easy to change
+Lors de la visualisation d'une image vectorielle, peu importe combien vous agrandissez - il ne sera jamais pixelisé. L'ordinateur peut calculer précisément tous les pixels nécessaires pour afficher l'image sur votre moniteur, pour chaque niveau de zoom. C'est pourquoi un graphique vectoriel est **toujours croquant** (sauf si vous ajoutez intentionnellement un flou, bien sûr).
 
-![](/assets/media/noob-imgs/change.jpg){:width="650px"}
+### Facile à changer
 
-In comparison to raster graphics, it’s very easy to **radically change** the appearance of a vector graphic by changing only very few of its properties (see image). In a raster graphic, to change the color, you'd basically have to find a way to paint over the old color - like with a physical brush on a physical painting. 
+<img src="/assets/media/noob-imgs/change.jpg" width="650" />
 
-### Smaller file sizes – more computational work
+Par rapport aux graphiques raster, il est très facile de **modifier radicalement** l'apparence d'un graphique vectoriel en modifiant seulement très peu de propriétés (voir image). Dans un graphique raster, pour changer la couleur, vous devriez essentiellement trouver un moyen de peindre sur l'ancienne couleur - comme avec une brosse physique sur une peinture physique.
 
-Vector graphics – as long as they only contain a reasonable number of
-objects – only need **very little disk space**, because the color
-information does not need to be saved for each and every pixel, but only
-**once per object**. This is an advantage for images that are meant to
-be used on web pages, resulting in smaller amounts of data transferred
-and the web page to load quickly.
+### Taille de fichier plus petite - plus de travail de calcul
 
-On the other hand, it can take longer to **prepare** highly complex
-vector images for displaying them on a monitor.
+Les graphiques vectoriels - pourvu qu'ils contiennent seulement un nombre raisonnable d'objets - ne nécessitent que **très peu d'espace disque** , car les informations sur les couleurs n'ont pas besoin d'être sauvegardées pour chaque pixel, mais **une** seule **fois par objet** . C'est un avantage pour les images qui sont destinées à être utilisées sur les pages Web, ce qui entraîne une plus petite quantité de données transférées et la page Web à charger rapidement.
 
-### Different types of images for different purposes
+D'autre part, il peut prendre plus de temps pour **préparer** des images vectorielles très complexes pour les afficher sur un moniteur.
 
-Raster and vector graphics are each used for different purposes which
-**complement each other**.
+### Différents types d'images à des fins différentes
 
-![](/assets/media/noob-imgs/photo_raster_und_vektor-o.jpg){:width="650px"}
+Le graphisme et les graphiques vectoriels sont utilisés à des fins différentes qui se **complètent** .
 
-**Raster images** are used for images with **a large amount of irregular, differently colored contents**, so mainly for **photos**. If we wanted to save those in a vector format, trying to render them on a monitor would take very long. Depending upon how much we would then need to simplify the image because of slow rendering, there would also be a lesser amount of different colors in it and the quality would be much worse. In addition to this, at the same level of image quality, the file size would be enourmous, as for each color that appears in the image, a separate object would need to be created (this could be up to 1.9 million objects for a normal 1600x1200 pixel sized photo, if every pixel had a different color).
+<img src="/assets/media/noob-imgs/photo_raster_und_vektor-o.jpg" width="650" />
 
-This is why **vector images** are most often used for **logos, clipart, buttons, icons** and other graphics, which are made up of **large, coherent single-color areas** or can easily be divided into **single objects**. Of course, depending upon the subject of the drawing, it is also possible to create very realistic looking drawings, which create the impression of 3D depth by skillful use of color gradients.
+**Les images raster** sont utilisées pour les images avec **une grande quantité de contenu irrégulier et de couleur différente** , principalement pour les **photos** . **Si nous voulions les sauvegarder dans un format vectoriel, essayer de les rendre sur un moniteur prendrait très longtemps.** **Selon la façon dont nous aurions alors besoin de simplifier l'image en raison d'un rendu lent, il y aurait aussi une moindre quantité de couleurs différentes et la qualité serait bien pire.** En plus de cela, au même niveau de qualité d'image, la taille du fichier serait énorme, comme pour chaque couleur qui apparaît dans l'image, il faudrait créer un objet distinct (cela pourrait atteindre jusqu'à 1,9 million d'objets pour une normale Photo de taille 1600x1200 pixels, si chaque pixel avait une couleur différente).
 
-So, before you jump straight into Inkscape to create the image of your
-dreams, you should first have a think if Inkscape is the **appropriate tool for the task**. If your goal is to edit a photo, or to draw a
-large, realistic image as you would do with a brush on canvas, then
-there exists other software which is more suitable (e.g. [The Gimp](http://gimp.org) to edit photos or [Krita](http://krita.org/) to
-draw digital paintings using different brushes. Both of these are – just
-like Inkscape – open source projects.).
+C'est pourquoi les **images vectorielles** sont le plus souvent utilisées pour les **logos, les cliparts, les boutons, les icônes** et autres graphiques, qui sont constitués de **grandes zones cohérentes de couleur unique** ou peuvent facilement être divisés en **objets uniques** . Bien sûr, en fonction du sujet du dessin, il est également possible de créer des dessins de recherche très réalistes, qui créent l'impression de profondeur 3D par l'utilisation habile des gradients de couleurs.
 
-## What is SVG?
+Donc, avant de sauter directement dans Inkscape pour créer l'image de vos rêves, vous devriez d'abord penser si Inkscape est l' **outil approprié pour la tâche** . Si votre objectif est de modifier une photo ou de dessiner une grande image réaliste comme vous le feriez avec un pinceau sur toile, il existe un autre logiciel qui convient (par exemple, [The Gimp](http://gimp.org) pour éditer des photos ou [Krita](http://krita.org/) pour dessiner des tableaux numériques en utilisant différents pinceaux. Les deux sont - comme Inkscape - projets open source.).
 
-SVG is a **file format for vector graphics**. The abbreviation
-stands for “Scalable Vector Graphics” – resizable images that are made
-up of vector data. Inkscape uses this file format because it is an
-**open standard**, so the files you create with Inkscape can be **used universally**. Web browsers, e.g. Mozilla Firefox, Google Chrome or
-Microsoft Edge, but also lots of other programs, support this standard.
+## Qu'est-ce que SVG?
 
-This offers the advantage that images you have created in Inkscape are
-not ‘lost’ when Inkscape is not available. In most cases, those images
-can, for example, be **embedded directly into a web page** without
-needing to do any changes, or **other programs** (e.g. an office suite,
-or a desktop publishing program) can open the files, and you can
-continue to edit them there.
+SVG est un **format de fichier pour les graphiques vectoriels** . L'abréviation signifie "Scalable Vector Graphics" - images redimensionnables qui sont constituées de données vectorielles. Inkscape utilise ce format de fichier car il s'agit d'un **standard ouvert** , de sorte que les fichiers que vous créez avec Inkscape peuvent être **utilisés universellement** . Les navigateurs Web, par exemple Mozilla Firefox, Google Chrome ou Microsoft Edge, mais aussi beaucoup d'autres programmes, prennent en charge cette norme.
 
-The organisation which sets the svg standard, is the **[World Wide Web Consortium [W3C](http://www.w3.org/)** – that same
-organisation which also works on the standards for HTML or
-CSS (the languages used to write and design web pages).
+Cela offre l'avantage que les images que vous avez créées dans Inkscape ne sont pas «perdues» lorsque Inkscape n'est pas disponible. Dans la plupart des cas, ces images peuvent, par exemple, être **intégrées directement dans une page Web** sans avoir besoin de modifier, ou d' **autres programmes** (par exemple, une suite bureautique ou un programme de publication assistée par ordinateur) peuvent ouvrir les fichiers et vous pouvez continuer à Modifiez-les là-bas.
 
-One of the Inkscape developers is a member of the SVG Working
-Group of the W3C. There, he represents Inkscape and its
-interests and helps improving the SVG standard even further.
+L'organisation qui définit la norme svg, est le **\[World Wide Web Consortium [W3C](http://www.w3.org/)** - cette même organisation qui fonctionne également sur les normes HTML ou CSS (les langues utilisées pour écrire et concevoir des pages Web).
 
-### Basic elements
+L'un des développeurs Inkscape est membre du groupe de travail SVG du W3C. Là, il représente Inkscape et ses intérêts et aide à améliorer encore plus le standard SVG.
 
-![](/assets/media/noob-imgs/elements.jpg){:width="650px"}
+### Éléments basiques
 
-The SVG file format supports a number of **basic elements**,
-from which images can be constructed. These are (among others)
-**straight lines**, **polylines** (consisting of multiple straight lines
-which are connected to each other), **paths** (composed of one or more
-curved lines), **circles**, **ellipses**, **rectangles**, **polygons**,
-**texts**, **raster graphics** (yes, these can also be used inside an
-[SVG]!) and **copies of other objects** (the exact same object is
-used multiple times in the drawing, but only the original can be edited
-in a substantial way).
+<img src="/assets/media/noob-imgs/elements.jpg" width="650" />
 
-> Inkscape does not use all available elements – e.g. straight lines or polygons are saved as ‘paths’, too. In exchange for this, Inkscape offers some additional elements, though. For example there are stars and spirals – which are saved in two formats in parallel by Inkscape: first as a normal path (in order to allow for other programs to read them correctly), secondly as a star/spiral with specific properties (length of star tips, number of spiral turns, etc., which makes it possible to change these properties with just a few mouse clicks).
+Le format de fichier SVG prend en charge un certain nombre d' **éléments** de **base** , à partir desquels des images peuvent être construites. Il s'agit, entre autres , de **lignes droites** , de **polylignes** (constituées de plusieurs lignes droites reliées l'une à l'autre), des **chemins** (composés d'une ou plusieurs lignes courbes), des **cercles** , des **ellipses** , des **rectangles** , des **polygones** , des **textes** , **des graphiques raster** (oui, ceux-ci peuvent également être utilisés à l'intérieur d'un \[SVG\]!) et des **copies d'autres objets** (le même objet est utilisé plusieurs fois dans le dessin, mais seul l'original peut être modifié de manière substantielle).
 
-### Stacking order
+> Inkscape n'utilise pas tous les éléments disponibles - par exemple, des lignes droites ou des polygones sont également enregistrés sous forme de «chemins d'accès». En échange, Inkscape propose des éléments supplémentaires. Par exemple, il y a des étoiles et des spirales - qui sont enregistrées en deux formats en parallèle par Inkscape: d'abord comme un chemin d'accès normal (pour permettre à d'autres programmes de les lire correctement), d'autre part comme une étoile / spirale avec des propriétés spécifiques (longueur de Astuces, nombre de tours en spirale, etc., qui permet de modifier ces propriétés en quelques clics de souris).
 
-Objects in an SVG image are stacked on top of each other in a
-specific **order** – just like in a collage, for example. This is why it
-is possible that there are objects in your drawing which are completely
-**hidden** by another object (see image).
+### Ordre d'empilement
 
-Even if it may look as if two objects are just lying there next to each other, each of them ‘knows’ exactly at which **level in the stacking order** it is currently. An object can never be at the same time **above *and* below** another object (think of a loop in a knot). If you would like to draw something like that, you need to compose the object **from multiple parts**, which then can be positioned above and below the other object.
+Les objets dans une image SVG sont empilés les uns sur les autres dans un **ordre** spécifique - tout comme dans un collage, par exemple. C'est pourquoi il est possible qu'il y ait des objets dans votre dessin complètement **cachés** par un autre objet (voir image).
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/2kGMcF9vq9s?rel=0" frameborder="0" allowfullscreen></iframe>
+Même s'il peut sembler que deux objets se trouvent juste à côté l'un de l'autre, chacun d'entre eux «sait» exactement à quel **niveau dans l'ordre d'empilement** il est actuellement. Un objet ne peut jamais être en même temps **au**** - **dessus** ***et*** **au** ***-*** **dessous d'** un autre objet (pensez à une boucle dans un noeud). Si vous souhaitez dessiner quelque chose comme ça, vous devez composer l'objet à **partir de plusieurs parties** , qui peuvent ensuite être placées au-dessus et en dessous de l'autre objet.
 
-The animation shows how an object that at first was covered by other
-objects becomes visible when the other objects are moved away, and that
-the stacking order is preserved even after dragging the objects apart.
+L'animation montre comment un objet qui a d'abord été recouvert par d'autres objets devient visible lorsque les autres objets sont éloignés et que l'ordre d'empilement est conservé même après avoir arraché les objets.
 
-Of course, you can change the stacking order in Inkscape. Newly created
-objects are always placed on top.
+Bien sûr, vous pouvez modifier l'ordre d'empilement dans Inkscape. Les objets nouvellement créés sont toujours placés en haut.
 
-### Plain Text / Tree Structure
+### Texte brut / structure arborescente
 
-And what does an SVG image look like now?
+Et à quoi ressemble une image SVG maintenant?
 
-Like this:
+Comme ça:
 
-![](/assets/media/noob-imgs/svgcode-rect.svg){:width="650px"}
+<img src="/assets/media/noob-imgs/svgcode-rect.svg" width="650" />
 
-Or, in a text editor, the same image will look like this:
+Ou, dans un éditeur de texte, la même image ressemblera à ceci:
 
-_(No kidding. This code below actually renders this rectangle. Note that I manually deleted all sorts of metadata and useful information, but it still works. Simple.)_
+*(Ne plaisante pas. Ce code ci-dessous rend effectivement ce rectangle. Notez que j'ai supprimé manuellement toutes sortes de métadonnées et d'informations utiles, mais cela fonctionne toujours. Simple.)*
 
-```
+``` highlight
 <svg
   xmlns="http://www.w3.org/2000/svg"
   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" >
@@ -328,97 +247,62 @@ _(No kidding. This code below actually renders this rectangle. Note that I manua
 </svg>
 ```
 
-Everyone who ever looked at the **source code of a web page** will
-probably recognize the structure of the file – the reason for the
-likeness being that both kinds of files, HTML and SVG,
-are based on **XML**. This is a markup language, that has a
-**tree-like structure** (elements nested inside each other) and where
-each element starts with `<something>` and ends with `</something>` – or
-it may also just look like
-`<something and-a-long-list-of-properties />`, when it doesn’t have any
-further contents, but only properties.
+Tout le monde qui a déjà regardé le **code source d'une page Web** reconnaîtra probablement la structure du fichier - la raison pour laquelle les deux types de fichiers, HTML et SVG sont fondés sur **XML** . Il s'agit d'un langage de balisage, qui a une **structure en forme d'arbre** (éléments imbriqués l'un dans l'autre) et où chaque élément commence `<something>`et se termine avec `</something>`- ou il peut également ressembler `<something and-a-long-list-of-properties />`, lorsqu'il n'a plus de contenu, mais seulement Propriétés.
 
-The advantage of this kind of formatting is that it can be read
-reasonably well **by both a computer and a human** (as the SVG
-‘language’ uses English names, you should be able to read English,
-though). You probably realized by now that `<rect...` defines a rectangle and its properties. 
+L'avantage de ce type de formatage est qu'il peut être lu raisonnablement bien **à la fois par un ordinateur et un humain** (comme la langue SVG utilise les noms anglais, vous devriez pouvoir lire l'anglais, cependant). Vous avez probablement réalisé à l'heure actuelle qui `<rect...`définit un rectangle et ses propriétés.
 
-It can easily be edited **automatically** by different kinds of
-programs. This allows, for example, to **quickly and programatically** exchange names in
-visitor passes, or numbers in admission tickets which you want to print.
-There exist a host of small helper programs which can support you in
-such a task.
+Il peut être facilement édité **automatiquement** par différents types de programmes. Cela permet, par exemple, d' échanger **rapidement et de façon programmée** des noms dans les passages de visiteurs ou des numéros dans les tickets d'entrée que vous souhaitez imprimer. Il existe une foule de petits programmes auxiliaires qui peuvent vous accompagner dans une telle tâche.
 
-It’s also possible to unproblematically make little changes by hand to
-such a file, for example, to prepare it for making animations from it.
+Il est également possible de faire de petits changements à la main dans un tel fichier, par exemple, pour le préparer à faire des animations.
 
-Still, most people will probably prefer to edit their drawings using
-**the mouse or a graphics tablet**, so they can see right away how their
-picture changes – and that’s what you can use **Inkscape** for ;)
+Pourtant, la plupart des gens préfèrent probablement éditer leurs dessins à **l'** aide de **la souris ou d'une tablette graphique** , afin qu'ils puissent voir tout de suite comment leur image change - et c'est ce que vous pouvez utiliser **Inkscape** pour;)
 
-## Examples
+## Exemples
 
-To give you a small impression of what kind of images are possible with Inkscape, below, there’s a set of **examples** for you. If you are curious to see more of these, you should absolutely visit the **[gallery with drawings made by Inkscape users](https://inkscape.org/gallery/)** at the Inkscape website and also browse a little in the **[Openclipart Library](https://openclipart.org/)**. Especially the latter offers a wonderful opportunity to **learn from other users**, by downloading the images and **‘dissecting’ them in Inkscape**, to find out how to create specific effects.
+Pour vous donner une petite impression de ce genre d'images possibles avec Inkscape, ci-dessous, il y a un ensemble d' **exemples** pour vous. Si vous êtes curieux de voir plus d'informations, vous devez absolument visiter la **[galerie avec des dessins réalisés par des utilisateurs d'Inkscape](https://inkscape.org/gallery/)** sur le site Inkscape et consulter un peu dans la **[bibliothèque OpenClipart](https://openclipart.org/)** . En particulier, ce dernier offre une excellente occasion d' **apprendre des autres utilisateurs** , en téléchargeant les images et en les **"disséquant" dans Inkscape** , pour savoir comment créer des effets spécifiques.
 
-### Simple Objects
+### Objets simples
 
-![](/assets/media/noob-imgs/things.jpg){:width="650px"}
+<img src="/assets/media/noob-imgs/things.jpg" width="650" />
 
-### Buttons and Icons with Color Gradients
+### Boutons et icônes avec gradients de couleur
 
-![](/assets/media/noob-imgs/things2.jpg){:width="650px"}
+<img src="/assets/media/noob-imgs/things2.jpg" width="650" />
 
-### Complex Drawings with mostly natural-looking Shading
+### Dessins complexes avec l'ombrage principalement naturel
 
-![](/assets/media/noob-imgs/things4.jpg){:width="650px"}
-
+<img src="/assets/media/noob-imgs/things4.jpg" width="650" />
 
 ### Animations
 
-Applications such as [sozi](http://sozi.baierouge.fr/), Inkscape extensions like JessyInk or different JavaScript libraries allow to create **animations** or **presentations**, which can be viewed using a web browser. The markup languages **CSS** and **SMIL** can also be used to animate SVG images. An introduction into this topic can be found [at the Inkscape website](https://inkscape.org/en/learn/animation/).
+Des applications telles que [sozi](http://sozi.baierouge.fr/) , les extensions Inkscape comme JessyInk ou différentes bibliothèques JavaScript permettent de créer des **animations** ou des **présentations** , qui peuvent être visualisées à l'aide d'un navigateur Web. Les langages de balisage **CSS** et **SMIL** peuvent également être utilisés pour animer des images SVG. Une introduction à ce sujet peut être trouvée [sur le site Inkscape](https://inkscape.org/en/learn/animation/) .
 
-<div class="bg">  
-<svg xmlns="http://www.w3.org/2000/svg" width="670" height="236" viewBox="0 0 670 236">
-  
-  <path class="path" stroke="#4CADC1" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="300" stroke-dashoffset="300" fill="none" d="M343.6 75.9v20.3l23.1 21.8-23.1 21.8v20.3l44.6-42.1zM326.4 139.8l-23.1-21.8 23.1-21.8v-20.3l-44.6 42.1 44.6 42.1z"/>
-  
-  <path class="path" stroke="#4CADC1" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="500" stroke-dashoffset="500" fill="none" d="M335 38.9c-43.7 0-79.1 35.4-79.1 79.1s35.4 79.1 79.1 79.1 79.1-35.4 79.1-79.1-35.4-79.1-79.1-79.1zM335 182.9c-35.8 0-64.9-29.1-64.9-64.9s29.1-64.9 64.9-64.9 64.9 29.1 64.9 64.9-29.1 64.9-64.9 64.9z"/>
-  
-  </svg>
-</div>
+*Merci à [Jordan Wade de CodeSchool d'](https://www.codeschool.com/blog/2014/11/04/inline-svg-animations/) avoir animé ce logo svg pour nous.*
 
-_Thanks to [Jordan Wade from CodeSchool](https://www.codeschool.com/blog/2014/11/04/inline-svg-animations/) for animating this svg logo for us._
+### Plotters, Cutters and Co.
 
-### Plotters, Cutters and Co.
+Il y a beaucoup de gens qui n'utilisent pas Inkscape pour créer de beaux graphismes, mais pour moudre, couper automatiquement, peindre, etc. **des objets physiques** . Par exemple, vous pouvez utiliser Inkscape (avec une extension Inkscape) pour contrôler **les appareils de coupe de film** ou pour graver des **décorations dans du bois à l'aide d'un laser** . C'est aussi un excellent outil à utiliser pour **peindre des oeufs**  ;-)
 
-There are many people who do not use Inkscape to create nice graphics,
-but to mill, automatically cut, paint etc. **physical objects**. For
-example, you could use Inkscape (with an Inkscape extension) to control
-**film cutting appliances** or to burn **decorations into wood using a
-laser**. It is also a great tool to use for **painting eggs** ;-)
+## Pouvons-nous enfin commencer maintenant?
 
-## Can we finally start now?
+Dans cet article, nous avons jeté les **bases** de la compréhension des graphiques vectoriels. Ceux-ci vous aideront à ne pas être confondus avec les différences par rapport aux graphiques / édition photo rares familiers lorsque vous travaillez dans Inkscape.
 
-In this article, we have laid the **foundations** for understanding
-vector graphics. These will help you to not become confused by the
-differences in relation to the familiar raster graphics / photo editing
-when you are working in Inkscape.
+À l'étape suivante, vous devez **installer** Inkscape sur votre ordinateur. La **version actuelle** pour **Windows** et **Mac OS** peut être téléchargée gratuitement [sur le site Web Inkscape](https://inkscape.org/download/) . Pour les **distributions Linux** , le site Web offre le [code source](https://inkscape.org/download/) , et il existe une [ppa](https://launchpad.net/~inkscape.dev/+archive/ubuntu/stable) pour Ubuntu et ses dérivées dans le launchpad.
 
-As a next step, you should **install** Inkscape on your computer. The **current version** for **Windows** and **Mac OS** can freely be downloaded [from the Inkscape website](https://inkscape.org/download/). For **Linux distributions**, the website offers the [source code](https://inkscape.org/download/), and there is a [ppa](https://launchpad.net/~inkscape.dev/+archive/ubuntu/stable) for Ubuntu and its derivatives at launchpad.
+> Si vous rencontrez des problèmes lors de l'installation, vous devez d'abord lire à nouveau les instructions sur la page de téléchargement. Si cela ne vous aide pas, et une recherche sur Internet ne renvoie pas d'informations utiles, vous pouvez demander de l'aide dans un [forum Inkscape](https://inkscape.org/community/) , dans la section [Chat](https://inkscape.org/community/) ou dans la [section des réponses](https://answers.launchpad.net/inkscape) à la barre de lancement.
 
-> If you experience problems during installation, you should first read the instructions on the download page slowly again. If this doesn’t help, and a web search also doesn’t return any useful information, you can ask for help in an [Inkscape forum](https://inkscape.org/community/), in the [Chat](https://inkscape.org/community/) or in the [answers section](https://answers.launchpad.net/inkscape) at launchpad.
+------------------------------------------------------------------------
 
----
+Après avoir terminé l'installation, nous nous reverrons volontiers pour la **[Partie II - Pratique](noobs2_fr.md)**.
 
-After you have finished the installation, we will hopefully meet
-again for **[Part II - Practice](noobs2.md)**.
-
----
+------------------------------------------------------------------------
 
 ## Licence
 
-This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0](http://creativecommons.org/licenses/by-sa/4.0/) License. You may **share** and **adapt** the contents, as long as you publish the result **under the same license** and give **appropriate credit**.
+Ce travail est sous licence [Creative Commons Attribution-ShareAlike 4.0](http://creativecommons.org/licenses/by-sa/4.0/) License. Vous pouvez **partager** et **adapter** le contenu, pourvu que vous publiez le résultat **sous la même licence** et que vous obteniez **un crédit approprié** .
 
-<a href="https://inkscape.org/support-us/donate/"><img src="http://vektorrascheln.de/theme/images/icons/inkscape-donate-icon-64.png" style="margin-left:auto; margin-right:auto;" alt="Small heart with inkscape logo, CC-By-SA Golden Ribbon, Martin Owens and Andy Fitzsimon" ></a>
+[![Petit coeur avec le logo inkscape, ruban d'or CC-By-SA, Martin Owens et Andy Fitzsimon](http://vektorrascheln.de/theme/images/icons/inkscape-donate-icon-64.png)](https://inkscape.org/support-us/donate/)
 
-If you like to use **Inkscape** and want to support program development, consider [to become an active member](https://inkscape.org/contribute/) of the Inkscape community or [to make a donation](https://inkscape.org/support-us/). Your effort will help make Inkscape **even more awesome**!
+Si vous souhaitez utiliser **Inkscape** et que vous souhaitez prendre en charge le développement du programme, envisagez [de devenir un membre actif](https://inkscape.org/contribute/) de la communauté Inkscape ou [faire un don](https://inkscape.org/support-us/) . Votre effort aidera à rendre Inkscape **encore plus génial** !
+
+<span class="site-footer-owner">[hep-cad a](http://github.com/filipgoc/hep-cad) été créé et est géré par filipgoc. </span> <span class="site-footer-credits">Cette page a été générée par [GitHub Pages](https://pages.github.com) .</span>
