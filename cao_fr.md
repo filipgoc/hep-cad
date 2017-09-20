@@ -86,6 +86,8 @@ Regardez le modèle de clé dans le dossier &quot;Exercice&quot;. Utilisez le ca
 
 Modèlez une vis de deux manières différentes.
 
+D'abord, faites un dessin orthographique simple à la main. Devinez les mesures.
+
 Demandez à Filip et il vous donnera un boulon à tenir.
 
 Aidez-moi: 
