@@ -48,7 +48,9 @@ Dans votre navigateur, vous pouvez **lire les explications** et **regarder les a
 
 Ce didacticiel est assez long et contient une très grande quantité d'informations.
 
-> Nous prendrons une **pause de 15 minutes** à \*\* 14: 30 \*\*
+
+> Nous prendrons une **pause de 15 minutes** à \** 14: 00 \**
+> Nous prendrons une **pause de 15 minutes** à \** 15: 00 \**
 
 > **N'hésitez pas à vous lever et à vous étirer chaque fois que vous en avez besoin!** Le format de travail est individuel, vous gérez votre temps comme vous le souhaitez.
 
