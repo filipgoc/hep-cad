@@ -78,7 +78,7 @@ Voici une astuce à essayer:
 </tr>
 <tr class="even">
 <td><strong>retournez 5s en arrière</strong><br />
-(utilisez ceci lorsque vous ne pouvez pas suivre afin de revisionner la dernière étape!)</td>
+(utilisez ceci lorsque vous ne pouvez <br> pas suivre afin de revisionner la dernière étape!)</td>
 <td><code class="highlighter-rouge">left arrow</code></td>
 </tr>
 <tr class="odd">
@@ -104,7 +104,7 @@ Voici une astuce à essayer:
 </tr>
 <tr class="even">
 <td><strong>visionner en plein écran</strong><br />
-(utilisez ceci pour ouvrir ou fermer le mode plein écran rapidement)</td>
+(utilisez ceci pour ouvrir ou fermer le<br> mode plein écran rapidement)</td>
 <td><code class="highlighter-rouge">doubleclick</code></td>
 </tr>
 </tbody>
