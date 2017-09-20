@@ -30,3 +30,10 @@ C&#39;est là que vous trouverez
 - Informations sur la façon d&#39;utiliser les outils d&#39;inkscape essentiels
 
 Le ** travail réel d&#39;expérience physique ** se produit ici. 👊
+
+## [Inkscape pour Noobs Part III: EXERCISE](noobs3_fr.md)
+
+C'est là que vous allez
+
+- pratique de faire de vrais graphiques vectoriels. Logos pour la plupart.
+

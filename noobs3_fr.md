@@ -5,7 +5,7 @@ title: 'Inkscape for Noobs – Part III`
 viewport: 'width=device-width, initial-scale=1.0'
 ---
 
-# DAO - Inkscape for Noobs part III: DEEPER
+# DAO - Inkscape for Noobs part III: EXERCISE
   {:.no_toc}
   
 Étiez-vous à la recherche d' [Inkscape pour Noobs Part I: INTRO](noobs1_fr.md)?
@@ -21,18 +21,33 @@ viewport: 'width=device-width, initial-scale=1.0'
   {:toc}
 
   ---
+## Liens utiles
 
+- **Référence des raccourcis clavier d'Inkscape (FR)**
+  - C'est la Bible. Il s'agit de raccourcis.
+  - <https://inkscape.org/fr/doc/keys092.fr.html>
+- Inkscape: Guide (EN)
+  - un peu moche, mais complet et complet.
+  - utilisez la fonction de recherche pour obtenir ce que vous voulez
+  - <http://tavmjong.free.fr/INKSCAPE/MANUAL/html/ix01.html>
+- Inkscape gallery
+  - bon pour l'inspiration. Vous pouvez télécharger des fichiers et voir comment ils fonctionnent.
+  - <https://inkscape.org/en/gallery/>
+- Didacticiels officiels (FR)
+  - <https://inkscape.org/fr/apprendre/didacticiels/>
+- Manuel Utilisateur Inkscape (FR)
+  - dépassé, mais pourrait être utile pour commandes de recherche hors ligne
+  - <https://blogs.lyceecfadumene.fr/wp-content/blogs.dir/2/files/2012/02/inkscape2.pdf>
+    
 ## EXERCISES
 
-One thing is clear. HEP-Vaud has some great, consistent typography and design. Well, we can do that, too!
+### Recréer des logos
 
-### Re-create Logos
+Les logos sont une pièce classique d&#39;art vectoriel. Recréer le travail des maîtres est toujours un bon moyen d&#39;apprendre.
 
-Logos are a classic vector art piece. Re-creating the work of masters is always a good way to learn.
+Téléchargez le [fichier d&#39;exercice](/assets/noob-svg/part_III_logo.svg) et mettez-vous au travail.
 
-Download the [exercise file](/assets/noob-svg/part_III_logo.svg), and get to work.
-
-**Help:**
+**Aidez-moi:**
 
 Apple:
 
@@ -43,29 +58,31 @@ Apple:
 
 Beats: 
 
-- Draw shapes from center with shift
+- Dessinez les formes du centre avec le décalage
 
-### Re-create the HEP Vaud Logo
+### Recréer le logo HEP Vaud
 
-Download the [exercise file](/assets/noob-svg/part_III_hep_logo.svg), and get to work.
+_Une chose est claire. HEP-Vaud possède une typographie et un design géniaux et cohérents. Eh bien, nous pouvons le faire aussi!_
 
-**Help:**
+Téléchargez le [fichier d&#39;exercice](/assets/noob-svg/part_III_hep_logo.svg), et aller au travail.
 
-- All the information you need is here: 
+**Aidez-moi:**
+
+- Toutes les informations dont vous avez besoin sont ici:
 https://www.hepl.ch/files/live/sites/systemsite/files/unite-communication/documents/charte-logos-2010-hep-vaud.pdf
-- You will also need to find (google) and download the right typeface :-)
-- Use text tool and `object to path` if needed
+- Vous devrez également trouver (google) et télécharger le bon type :-)
+- USe Text Outil et `object to path` si nécessaire
 - ![](https://i.imgur.com/dV0rNBK.png)
 
-### Re-create the HEP Vaud color instructions page. 
+### Recréer la page d&#39;instructions de couleur HEP Vaud.
 
-Download the [exercise file](/assets/noob-svg/part_III_hep_logo_page.svg), and get to work.
+Téléchargez le [fichier d&#39;exercice](/assets/noob-svg/part_III_hep_logo_page.svg), et aller au travail.
 
-**Help:**
+**Aidez-moi:**
 
-- Use your HEP logo :-)
-  - You can copy and paste between inkscape files. 
-- You can copy and paste text from the pdf. No need to type. 
-- Use [guides](https://inkscape.org/en/doc/keys048.fr.html#d0e959) to help you get the proportions
+- Utilisez votre logo HEP :-)
+  - YVous pouvez copier et coller entre les fichiers inkscape.
+- Vous pouvez copier et coller du texte à partir du pdf. Pas besoin de taper.
+- Utiliser [guides](https://inkscape.org/en/doc/keys048.fr.html#d0e959) pour vous aider à obtenir les proportions
 - ![](https://i.imgur.com/tImHFs7.png)
 
