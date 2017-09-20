@@ -1,6 +1,7 @@
 .gitignore
 .folio
 
+testing_translation/
 _site/
 .sass-cache/
 .jekyll-metadata
@@ -15,3 +16,4 @@ vids.docx
 vids.md
 
 ~$vids.docx
+testing translation/gt_twolanguages.md
