@@ -19,7 +19,7 @@ viewport: 'width=device-width, initial-scale=1.0'
 
   ---
 
-## **[Download the workshop file](#)**
+## **[Download the workshop file](/assets/noob-svg/part_II_v2.svg)**
   
    and to open it with Inkscape. Keep your browser window open to be able to switch between the two applications.
 

@@ -8,7 +8,11 @@ viewport: 'width=device-width, initial-scale=1.0'
 # DAO - Inkscape pour Noobs partie II
 {:.no_toc}
 
-Étiez-vous à la recherche d' [Inkscape for Noobs Part I: INTRO](noobs1.md) place?`¯\_(ツ)_/¯`
+Étiez-vous à la recherche d' [Inkscape pour Noobs Part I: INTRO](noobs1_fr.md)?
+
+Étiez-vous à la recherche d' [Inkscape pour Noobs Part II: HANDS-ON](noobs2_fr.md)? `¯\_(ツ)_/¯`
+
+Étiez-vous à la recherche d' [Inkscape pour Noobs Part III: EXERCISE](noobs3_fr.md)?
 
 ## Table of Contents
   {:.no_toc}
