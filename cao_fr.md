@@ -14,7 +14,7 @@
 
 ## Liens utiles
 
-- [Raccourcis clavier. Graphique et agréable!](http://help.autodesk.com/view/fusion360/ENU/?guid=GUID-F0491540-0324-470A-B651-2238D0EFAC30 http://help.autodesk.com/view/fusion360/ENU/?guid=GUID-F0491540-0324-470A-B651-2238D0EFAC30)
+- [Raccourcis clavier. Graphique et agréable!](http://help.autodesk.com/view/fusion360/ENU/?guid=GUID-F0491540-0324-470A-B651-2238D0EFAC30)
 
 ## Sketcher & contraintes
 
