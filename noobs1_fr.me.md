@@ -22,6 +22,14 @@ viewport: 'width=device-width, initial-scale=1.0'
 
 ---
 
+## == PARLER intro
+
+Je n'aime pas quand les enseignants parlent au début de la classe. Je préfère que les étudiants commencent à travailler tout de suite. Vous n'êtes pas là pour m'écouter parler. Vous êtes là pour apprendre une compétence pratique. Et pour cela, vous devez utiliser vos mains autant que possible.
+
+Cependant, il est également étrange d'être dans une pièce avec des étrangers complets.
+
+Alors, je vais me présenter et la classe aussi brièvement que possible. Ensuite, nous allons travailler. Ensuite, il y aura une pause. Ensuite, je vais parler davantage de ce que nous allons faire dans les cours à venir et ainsi de suite. Et puis nous allons travailler à nouveau. Et puis nous irons à la maison.
+
 ### Fabrication numérique: nouvelle classe d'art
 
 La fabrication numérique est la nouvelle classe d'art. Les outils qui étaient autrefois chers et disponibles uniquement pour les ingénieurs et les professionnels du design sont maintenant à notre disposition. Les gens ordinaires.
@@ -42,6 +50,46 @@ Cette classe s'intéresse au logiciel. Nous allons faire de petits projets, mais
 
 L'année prochaine, dans l'ACPR 3.1, vous aurez une classe similaire à apprendre à créer un fichier numérique en 3D. Modèles 3D.
 
+### Qui suis-je et pourquoi vous devez me faire confiance?
+
+La conception 2D et 3D et «making» est ce que je fais pour vivre.
+
+Je suis éducateur, un peu comme vous. J'ai obtenu un diplôme en conception de cours avec des technologies innovantes et j'ai enseigné un large éventail de cours dans plusieurs pays.
+
+Il y a deux ans, aux États-Unis, j'ai cofondé une entreprise qui fabrique des imprimantes 3D pour l'éducation. J'ai co-conçu l'imprimante 3D JellyBOX. J'ai fait à la fois la conception 3D (pour l'impression en 3D) et la conception 2D (pour les compresses). Ma machine a remporté le prix "Best for Schools" par le magazine Make l'année dernière.
+
+Je viens de la République tchèque, mais j'ai vécu aux États-Unis depuis 8 ans. Je viens de déménager ici récemment.
+
+### Problèmes de langue
+
+Ce qui m'amène à la question de la langue.
+
+En tant qu'enseignants, vous savez que parfois, vous pouvez avoir un élève qui ne parle pas ou ne comprend pas très bien le français.
+
+Dans cette classe, la blague est sur vous. C'est le professeur qui lutte est en difficulté.
+
+J'ai appris un peu de français il y a longtemps quand j'étais adolescent, et je ne fais que réapprendre récemment.
+
+Bien, rien n'est parfait. Certaines fois, vous pouvez obtenir un enseignant qui parle bien, mais ne sait rien. D'autres fois, vous obtenez quelqu'un qui sait ce qu'ils font, mais ne peut pas bien parler. Je pense que nous allons bien. Demandez-moi simplement, ou mieux, montrez-moi ce dont vous avez besoin, et je vais répondre lentement, ou vous montrer la réponse.
+
+En outre, mon anglais est parfait, si, à tout moment, nous ne pouvons pas le faire fonctionner.
+
+### Logiciel d'apprentissage - le problème
+
+Le logiciel d'apprentissage dans un environnement de classe est une idée terrible. Tout le monde n'est pas à l'aise avec les ordinateurs de la même manière, et tout le monde apprend à une vitesse différente.
+
+De plus, travailler sur un ordinateur est solitaire et nous devons regarder nos écrans.
+
+Si nous essayons de travailler ensemble sur quelque chose - disons que je montrerais quelque chose sur un grand écran et que vous suivrez - alors, nécessairement, certaines personnes seront ennuyées jusqu'à la mort, tandis que pour d'autres, ce sera trop rapide pour comprendre.
+
+Pourtant, une démonstration en grand écran est agréable de montrer comment on interagit avec le programme en temps réel.
+
+Donc, je vais vous montrer les bases de l'interface et comment on se déplace. Ensuite, vous obtiendrez vos propres fichiers d'exercices, et vous travaillerez seul.
+
+Je vais me promener et vous observer. Votre travail consiste à me dire quand vous avez besoin d'aide. Je vous montrerai sur votre ordinateur.
+
+De cette façon, différentes personnes apprendront différentes choses à des vitesses différentes. À la fin de la classe, vous pouvez avoir des compétences différentes. Bienvenue dans le monde réel.
+
 ### Importance de l'autoapprentissage
 
 Cette classe est par NO signifie une formation complète. Cela ne peut pas être.
@@ -53,6 +101,39 @@ Vous avez probablement besoin d'au moins dix heures avant d'être raisonnablemen
 Si vous avez besoin d'une compétence, nous ne couvrons pas ou si vous voulez devenir bon, vous devrez faire de l'apprentissage par vous-même. Je vous enverrai une liste de bonnes ressources, mais il est souvent préférable de trouver la vôtre.
 
 À la fin de la journée, googler une vidéo ou un didacticiel sur la façon de faire une chose spécifique peut être la façon la plus authentique d'apprendre. Internet est plein de guides.
+
+## == CLASSE SPÉCIFIQUE
+
+Nous avons seulement 4 sessions ensemble.
+
+2 sessions en classe entière et 2 séances pour le travail en groupe.
+
+Voici le plan. Il est sujet à changement en fonction de ce qui se passe dans vos autres classes ACPR2.
+
+1.  Aujourd'hui, nous allons sauter dans Inkscape tout de suite et voir à quelle distance nous obtenons. Nous allons couvrir l'interface et les outils de base pour créer et manipuler des formes de base.
+2.  La semaine prochaine, nous allons aborder des astuces et astuces, et apprendre à travailler plus efficacement. Nous créerons également un petit projet utilisant Silhouette Cameo - qui est un coupeur à commande numérique.
+    -   Toutes ces compétences dont vous aurez besoin dans l'ACPR 2.2 avec Adrienne et Isa. Vous utiliserez cameo pour couper dès votre première classe avec eux.
+3.  Notre première session de groupe, je vais vous aider à travailler avec votre projet que vous apportez de la classe ACPR 2.2. Le thème de cette année est l'évolution ascendante.
+4.  Notre deuxième session de groupe, nous nous concentrerons sur la création de mises en page de texte, qui sera utile pour votre évaluation ACPR2. En outre, pour s'amuser, nous allons apprendre à utiliser le coupe-laser comme préparation pour votre classe ACT3D avec Dino. Nous allons travailler sur les modèles de génération.
+
+### Évaluation
+
+C'est une classe fondamentale. Les compétences que vous apprendrez ici nécessiteront dans la plupart de vos autres cours ACPR2 et même ACPR3.
+
+Il n'y a pas d'évaluation distincte pour cette classe.
+
+L'évaluation sera effectuée pour tous les modules ACPR2 ensemble. Sébastien Actis-Datta est celui qui fait l'évaluation, et il vous en informera tout au sujet de cela dans deux semaines lorsque vous aurez cours avec lui.
+
+### la communication
+
+-   Vous pouvez me joindre à fgoc@fablab-hepl.ch
+    -   N'hésitez pas à m'envoyer un courriel. Il y aura de longs écarts entre nos cours; Le courrier électronique sera la meilleure façon de me rejoindre.
+-   Je suis également au fablab les jeudis. Je vous invite à vous arrêter et à travailler sur vos affaires si vous le souhaitez.
+-   Les matériaux du cours seront répertoriés sur Moodle
+-   J'ai créé un site Web spécialement pour cette classe, un lien est sur Moodle.
+-   (c'est `https://filipgoc.github.io/hep-cad`)
+
+Alors, commençons.
 
 ## Qu'est-ce qu'Inkscape?
 
@@ -102,7 +183,7 @@ Le graphisme et les graphiques vectoriels sont utilisés à des fins différente
 
 <img src="/assets/media/noob-imgs/photo_raster_und_vektor-o.jpg" width="650" />
 
-**Les images raster** sont utilisées pour les images avec **une grande quantité de contenu irrégulier et de couleur différente** , principalement pour les **photos**. Si nous voulions les sauvegarder dans un format vectoriel, essayer de les rendre sur un moniteur prendrait très longtemps.** Selon la façon dont nous aurions alors besoin de simplifier l'image en raison d'un rendu lent, il y aurait aussi une moindre quantité de couleurs différentes et la qualité serait bien pire.** En plus de cela, au même niveau de qualité d'image, la taille du fichier serait énorme, comme pour chaque couleur qui apparaît dans l'image, il faudrait créer un objet distinct (cela pourrait atteindre jusqu'à 1,9 million d'objets pour une normale Photo de taille 1600x1200 pixels, si chaque pixel avait une couleur différente).
+**Les images raster** sont utilisées pour les images avec **une grande quantité de contenu irrégulier et de couleur différente** , principalement pour les **photos** . **Si nous voulions les sauvegarder dans un format vectoriel, essayer de les rendre sur un moniteur prendrait très longtemps.** **Selon la façon dont nous aurions alors besoin de simplifier l'image en raison d'un rendu lent, il y aurait aussi une moindre quantité de couleurs différentes et la qualité serait bien pire.** En plus de cela, au même niveau de qualité d'image, la taille du fichier serait énorme, comme pour chaque couleur qui apparaît dans l'image, il faudrait créer un objet distinct (cela pourrait atteindre jusqu'à 1,9 million d'objets pour une normale Photo de taille 1600x1200 pixels, si chaque pixel avait une couleur différente).
 
 C'est pourquoi les **images vectorielles** sont le plus souvent utilisées pour les **logos, les cliparts, les boutons, les icônes** et autres graphiques, qui sont constitués de **grandes zones cohérentes de couleur unique** ou peuvent facilement être divisés en **objets uniques** . Bien sûr, en fonction du sujet du dessin, il est également possible de créer des dessins de recherche très réalistes, qui créent l'impression de profondeur 3D par l'utilisation habile des gradients de couleurs.
 
@@ -148,7 +229,7 @@ Ou, dans un éditeur de texte, la même image ressemblera à ceci:
 
 *(Ne plaisante pas. Ce code ci-dessous rend effectivement ce rectangle. Notez que j'ai supprimé manuellement toutes sortes de métadonnées et d'informations utiles, mais cela fonctionne toujours. Simple.)*
 
-```
+``` highlight
 <svg
   xmlns="http://www.w3.org/2000/svg"
   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" >
@@ -162,6 +243,7 @@ Ou, dans un éditeur de texte, la même image ressemblera à ceci:
   y="45.766644"
   rx="0.20325899"
   ry="0.20325899" />
+  
 </svg>
 ```
 
