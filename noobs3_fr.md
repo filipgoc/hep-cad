@@ -45,7 +45,7 @@ viewport: 'width=device-width, initial-scale=1.0'
 
 Les logos sont une pièce classique d&#39;art vectoriel. Recréer le travail des maîtres est toujours un bon moyen d&#39;apprendre.
 
-Téléchargez le [fichier d&#39;exercice](/assets/noob-svg/part_III_logo.svg) et mettez-vous au travail.
+Téléchargez le [fichier d&#39;exercice](/assets/noob-svg/part_III_logo.svg){:target="_blank"} et mettez-vous au travail.
 
 **Aidez-moi:**
 
@@ -64,7 +64,7 @@ Beats:
 
 _Une chose est claire. HEP-Vaud possède une typographie et un design géniaux et cohérents. Eh bien, nous pouvons le faire aussi!_
 
-Téléchargez le [fichier d&#39;exercice](/assets/noob-svg/part_III_hep_logo.svg), et aller au travail.
+Téléchargez le [fichier d&#39;exercice](/assets/noob-svg/part_III_hep_logo.svg){:target="_blank"}, et aller au travail.
 
 **Aidez-moi:**
 
@@ -76,7 +76,7 @@ https://www.hepl.ch/files/live/sites/systemsite/files/unite-communication/docume
 
 ### Recréer la page d&#39;instructions de couleur HEP Vaud.
 
-Téléchargez le [fichier d&#39;exercice](/assets/noob-svg/part_III_hep_logo_page.svg), et aller au travail.
+Téléchargez le [fichier d&#39;exercice](/assets/noob-svg/part_III_hep_logo_page.svg){:target="_blank"}, et aller au travail.
 
 **Aidez-moi:**
 
