@@ -2,6 +2,8 @@
 
 _* Une déclaration, généralement à la fin d&#39;un livre, donnant des informations sur sa paternité et son impression._
 
+☝️ **Pour commencer, cliquez sur le bouton de menu DAO ou CAO ...** ☝️
+
 ## Bienvenue
 
 Bienvenue chez HEP-CAD, qui signifie Haute cole P Dagogique [du canton de Vaud] - Conception assistée par ordinateur.
@@ -9,8 +11,6 @@ Bienvenue chez HEP-CAD, qui signifie Haute cole P Dagogique [du canton de Vaud] 
 En français, il existe deux termes qui traduisent CAD: DAO pour dessin 2D et CAO pour la modélisation 3D. En anglais, c&#39;est tout CAD. Si vous avez vraiment l&#39;intention de distinguer les deux, dites CAD Drawing et CAD Modeling ou 2D et 3D ...
 
 Ce site contient les informations et les fichiers de soutien pour les cours ACPR 2.1 et ACPR 3.1 qui font partie du programme d&#39;éducation continue PIRACEF à HEP.
-
-** Pour commencer, cliquez sur le bouton de menu DAO ou CAO ... ** ☝️
 
 ## Licence
 
