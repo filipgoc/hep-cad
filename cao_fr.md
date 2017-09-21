@@ -48,7 +48,7 @@ Vous pouvez voir le fichier fini dans le dossier &quot;Screencasts&quot; dans no
 
 ## Outils de Modélisation Solides de Base
 
-![](https://i.imgur.com/Jrqonsg.png)
+![](http://cl.ly/1R0t272M0e3k/Image%202017-09-21%20at%209.28.43%20PM.png)
 
 Faisons un simple cylindre de **7 manières différentes** - explorant ainsi les **outils de base** du modelisation en 3D.
 
