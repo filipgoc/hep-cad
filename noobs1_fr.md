@@ -22,14 +22,6 @@ viewport: 'width=device-width, initial-scale=1.0'
 
 ---
 
-![](https://filipgoc.github.io/hep-cad/assets/media/noob-imgs/stars.jpg)
-
-<img src="/assets/media/noob-imgs/stars.jpg" width="650" />
-
-<img src="/assets/media/noob-imgs/stars.jpg" width="650" />
-
-![](/assets/media/noob-imgs/stars.jpg)
-
 ### Fabrication numérique: nouvelle classe d'art
 
 La fabrication numérique est la nouvelle classe d'art. Les outils qui étaient autrefois chers et disponibles uniquement pour les ingénieurs et les professionnels du design sont maintenant à notre disposition. Les gens ordinaires.
@@ -74,10 +66,6 @@ Tous ceux qui contribuent à ce projet fait partie intégrante du **monde entier
 
 Les graphiques vectoriels se composent d' **objets** distincts . Ceux-ci sont définis par leurs **propriétés géométriques** , par exemple un cercle par la position de son centre et la taille de son rayon. Pour les lignes courbes, des propriétés spécifiques sont sauvegardées, qui décrivent la position de certains points et la courbure des lignes qui relient ces points les unes aux autres.
 
-<img src="/assets/media/noob-imgs/stars.jpg" width="650" />
-
-<img src="/assets/media/noob-imgs/stars.jpg" width="650" />
-
 ![](/assets/media/noob-imgs/stars.jpg)
 
 Les objets dans un graphique vectoriel ont tous un ensemble bien défini **d'attributs** , dont chacun peut être facilement modifié. Cela vous permet de modifier la couleur du remplissage ou de la ligne de contour avec un seul clic sur une couleur complètement différente, pour l'enlever ou même le remplacer par un motif.
@@ -88,7 +76,7 @@ Les objets dans un graphique vectoriel ont tous un ensemble bien défini **d'att
 
 ### Always Crisp
 
-<img src="/assets/media/noob-imgs/crisp_vs_pixelated.jpg" width="650" />
+![](/assets/media/noob-imgs/crisp_vs_pixelated.jpg)
 
 Un graphique vectoriel se comporte de manière **très différente de, par exemple, une photo** , qui a été prise avec un appareil photo numérique. Les photos numériques sont **des graphiques raster** , et sont donc constitués d'un grand nombre de points colorés, disposés dans un ordre spécifique (le raster). Lorsque la distance est assez grande, tous ces petits points forment ensemble une image. Mais dès que la photo est agrandie un peu trop, tous ces points simples deviennent visibles - l'image apparaît 'pixelée'.
 
@@ -98,7 +86,7 @@ Lors de la visualisation d'une image vectorielle, peu importe combien vous agran
 
 ### Facile à changer
 
-<img src="/assets/media/noob-imgs/change.jpg" width="650" />
+![](/assets/media/noob-imgs/change.jpg)
 
 Par rapport aux graphiques raster, il est très facile de **modifier radicalement** l'apparence d'un graphique vectoriel en modifiant seulement très peu de propriétés (voir image). Dans un graphique raster, pour changer la couleur, vous devriez essentiellement trouver un moyen de peindre sur l'ancienne couleur - comme avec une brosse physique sur une peinture physique.
 
@@ -112,7 +100,7 @@ D'autre part, il peut prendre plus de temps pour **préparer** des images vector
 
 Le graphisme et les graphiques vectoriels sont utilisés à des fins différentes qui se **complètent** .
 
-<img src="/assets/media/noob-imgs/photo_raster_und_vektor-o.jpg" width="650" />
+![](/assets/media/noob-imgs/photo_raster_und_vektor-o.jpg)
 
 **Les images raster** sont utilisées pour les images avec **une grande quantité de contenu irrégulier et de couleur différente** , principalement pour les **photos**. Si nous voulions les sauvegarder dans un format vectoriel, essayer de les rendre sur un moniteur prendrait très longtemps.** Selon la façon dont nous aurions alors besoin de simplifier l'image en raison d'un rendu lent, il y aurait aussi une moindre quantité de couleurs différentes et la qualité serait bien pire.** En plus de cela, au même niveau de qualité d'image, la taille du fichier serait énorme, comme pour chaque couleur qui apparaît dans l'image, il faudrait créer un objet distinct (cela pourrait atteindre jusqu'à 1,9 million d'objets pour une normale Photo de taille 1600x1200 pixels, si chaque pixel avait une couleur différente).
 
@@ -132,7 +120,7 @@ L'un des développeurs Inkscape est membre du groupe de travail SVG du W3C. Là,
 
 ### Éléments basiques
 
-<img src="/assets/media/noob-imgs/elements.jpg" width="650" />
+![](/assets/media/noob-imgs/elements.jpg)
 
 Le format de fichier SVG prend en charge un certain nombre d' **éléments** de **base** , à partir desquels des images peuvent être construites. Il s'agit, entre autres , de **lignes droites** , de **polylignes** (constituées de plusieurs lignes droites reliées l'une à l'autre), des **chemins** (composés d'une ou plusieurs lignes courbes), des **cercles** , des **ellipses** , des **rectangles** , des **polygones** , des **textes** , **des graphiques raster** (oui, ceux-ci peuvent également être utilisés à l'intérieur d'un \[SVG\]!) et des **copies d'autres objets** (le même objet est utilisé plusieurs fois dans le dessin, mais seul l'original peut être modifié de manière substantielle).
 
@@ -154,7 +142,7 @@ Et à quoi ressemble une image SVG maintenant?
 
 Comme ça:
 
-<img src="/assets/media/noob-imgs/svgcode-rect.svg" width="650" />
+![](/assets/media/noob-imgs/svgcode-rect.svg)
 
 Ou, dans un éditeur de texte, la même image ressemblera à ceci:
 
@@ -193,15 +181,15 @@ Pour vous donner une petite impression de ce genre d'images possibles avec Inksc
 
 ### Objets simples
 
-<img src="/assets/media/noob-imgs/things.jpg" width="650" />
+![](/assets/media/noob-imgs/things.jpg)
 
 ### Boutons et icônes avec gradients de couleur
 
-<img src="/assets/media/noob-imgs/things2.jpg" width="650" />
+![](/assets/media/noob-imgs/things2.jpg)
 
 ### Dessins complexes avec l'ombrage principalement naturel
 
-<img src="/assets/media/noob-imgs/things4.jpg" width="650" />
+![](/assets/media/noob-imgs/things4.jpg)
 
 ### Animations
 
