@@ -54,31 +54,31 @@ Faisons un simple cylindre de **7 manières différentes** - explorant ainsi les
 
 Vous pouvez voir le fichier fini dans le dossier &quot;Screencasts&quot; dans notre hub Fusion360 partagé. (N&#39;oubliez pas que vous pouvez voir l&#39;historique de la façon dont les cylindres ont été fabriqués. Sans prix lorsque vous ne savez pas quoi faire.)
 
-### Solid
+### Insert a Solid - Insérez un solide
 
 <iframe width="960" height="820" src="https://screencast.autodesk.com/Embed/Timeline/701aaec4-e059-40e0-9739-72eded1af73d" frameborder="0" allowfullscreen webkitallowfullscreen></iframe>
 
-### Extrude
+### Extrude - Extruder
 
 <iframe width="960" height="820" src="https://screencast.autodesk.com/Embed/Timeline/67d86372-4d31-43d8-b1a6-05467fdb779e" frameborder="0" allowfullscreen webkitallowfullscreen></iframe>
 
-### Loft
+### Loft - ?
 
 <iframe width="960" height="820" src="https://screencast.autodesk.com/Embed/Timeline/a3973a02-7402-4772-8334-be0d829ac42b" frameborder="0" allowfullscreen webkitallowfullscreen></iframe>
 
-### Mirror
+### Mirror - Mirroiregrenier
 
 <iframe width="960" height="820" src="https://screencast.autodesk.com/Embed/Timeline/f1e0a71e-4e9a-4fe3-8005-efabbf2a9948" frameborder="0" allowfullscreen webkitallowfullscreen></iframe>
 
-### Sweep
+### Sweep - Balayage
 
 <iframe width="960" height="820" src="https://screencast.autodesk.com/Embed/Timeline/4b4cc6ae-93f0-47e1-b94f-d3a7c6bef5ea" frameborder="0" allowfullscreen webkitallowfullscreen></iframe>
 
-### Revolve
+### Revolve - Tourner
 
 <iframe width="960" height="820" src="https://screencast.autodesk.com/Embed/Timeline/ea29da31-bcd1-4bb7-a83d-8b252109da43" frameborder="0" allowfullscreen webkitallowfullscreen></iframe>
 
-### Circular pattern
+###  Pattern (Circular) - Modèle
 
 <iframe width="960" height="820" src="https://screencast.autodesk.com/Embed/Timeline/9f432ad1-3bdc-4aed-b01e-b08b07d08aa7" frameborder="0" allowfullscreen webkitallowfullscreen></iframe>
 
