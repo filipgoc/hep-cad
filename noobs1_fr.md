@@ -22,6 +22,14 @@ viewport: 'width=device-width, initial-scale=1.0'
 
 ---
 
+![](https://filipgoc.github.io/hep-cad/assets/media/noob-imgs/stars.jpg)
+
+<img src="/assets/media/noob-imgs/stars.jpg" width="650" />
+
+<img src="/assets/media/noob-imgs/stars.jpg" width="650" />
+
+![](/assets/media/noob-imgs/stars.jpg)
+
 ### Fabrication numérique: nouvelle classe d'art
 
 La fabrication numérique est la nouvelle classe d'art. Les outils qui étaient autrefois chers et disponibles uniquement pour les ingénieurs et les professionnels du design sont maintenant à notre disposition. Les gens ordinaires.
