@@ -56,7 +56,7 @@ Si vous avez besoin d'une compétence, nous ne couvrons pas ou si vous voulez de
 
 ## Qu'est-ce qu'Inkscape?
 
-[Inkscape](https://inkscape.org/) est un programme graphique qui peut être utilisé pour créer **des graphiques vectoriels** . C'est **une source ouverte** (c'est-à-dire que tout le monde peut se pencher sur [le code du programme](http://bazaar.launchpad.net/~inkscape.dev/inkscape/trunk/files) ), il est sous **licence gratuite** , ce qui permet à tous de modifier le code du programme, d'utiliser le programme à des fins spécifiques et de le partager avec d'autres, et il est constamment amélioré par une **communauté de développeurs bénévoles engagés** . [Beaucoup d'utilisateurs supportent également Inkscape, par exemple en aidant d'autres utilisateurs.](https://inkscape.org/)
+[Inkscape](https://inkscape.org/) est un programme graphique qui peut être utilisé pour créer **des graphiques vectoriels** . C'est **une source ouverte** (c'est-à-dire que tout le monde peut se pencher sur [le code du programme](http://bazaar.launchpad.net/~inkscape.dev/inkscape/trunk/files) ), il est sous **licence gratuite** , ce qui permet à tous de modifier le code du programme, d'utiliser le programme à des fins spécifiques et de le partager avec d'autres, et il est constamment amélioré par une **communauté de développeurs bénévoles engagés**. Beaucoup d'utilisateurs supportent également Inkscape, par exemple en aidant d'autres utilisateurs.
 
 Cela signifie que, contrairement à de nombreux autres programmes informatiques, il n'y a **pas d'entreprise** derrière Inkscape, mais une communauté de bénévoles du monde entier, avec un comité de conseil élu et une organisation parapluie ( [Software Freedom Conservancy](http://sfconservancy.org/) ), qui crée une [loi](http://sfconservancy.org/) judiciaire sécuritaire contexte pour les activités des contributeurs (par exemple, afin de permettre que le projet puisse accepter des dons).
 
@@ -67,6 +67,10 @@ Tous ceux qui contribuent à ce projet fait partie intégrante du **monde entier
 Les graphiques vectoriels se composent d' **objets** distincts . Ceux-ci sont définis par leurs **propriétés géométriques** , par exemple un cercle par la position de son centre et la taille de son rayon. Pour les lignes courbes, des propriétés spécifiques sont sauvegardées, qui décrivent la position de certains points et la courbure des lignes qui relient ces points les unes aux autres.
 
 <img src="/assets/media/noob-imgs/stars.jpg" width="650" />
+
+<img src="/assets/media/noob-imgs/stars.jpg" width="650" />
+
+![](/assets/media/noob-imgs/stars.jpg)
 
 Les objets dans un graphique vectoriel ont tous un ensemble bien défini **d'attributs** , dont chacun peut être facilement modifié. Cela vous permet de modifier la couleur du remplissage ou de la ligne de contour avec un seul clic sur une couleur complètement différente, pour l'enlever ou même le remplacer par un motif.
 
