@@ -40,7 +40,7 @@ viewport: 'width=device-width, initial-scale=1.0'
   - dépassé, mais pourrait être utile pour commandes de recherche hors ligne
   - <https://blogs.lyceecfadumene.fr/wp-content/blogs.dir/2/files/2012/02/inkscape2.pdf>
 
-## **[Téléchargez le dossier de l'atelier](/assets/noob-svg/Part_II_v2_fr.svg){:target="_blank"}**
+<h2><b><a href="https://filipgoc.github.io/hep-cad/assets/noob-svg/Part_II_v2_fr.svg" download>Téléchargez le dossier de l'atelier</a></b></h2>
 
 et l'ouvrir avec Inkscape. Gardez la fenêtre de votre navigateur ouverte pour pouvoir basculer entre les deux applications.
 
