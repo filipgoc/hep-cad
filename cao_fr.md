@@ -9,13 +9,9 @@
 
 ---
 
-## Outils Essentiel d&#39;interface et de modélisation 3D.
-
----
-
 ## Utilizer les Fichiers et Videos
 
-<iframe width="500" height="700" src="https://www.youtube.com/embed/gyIphPyLjp4?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="960" height="600" src="https://www.youtube.com/embed/gyIphPyLjp4?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Liens utiles
 
