@@ -122,4 +122,4 @@ Aidez-moi:
 
 Regardez le modèle du robot Android dans le dossier &quot;Exercice&quot;.
 
-Faites-en comme ça :-)
+Faites-en comme ça :-) 
