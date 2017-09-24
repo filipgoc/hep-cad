@@ -1,18 +1,12 @@
-# CAO - Conception Assisté par Ordinateur
+# CAO - Conception Assisté par Ordinateur I
 {:.no_toc}
 
-## [Session 01](cao_fr.md)
-{:.no_toc}
+- [Session 01](cao_fr.md) `¯\_(ツ)_/¯`
+- [Session 02](cao_2_fr.md)
+- Session 03
+- Session 04
 
-## [Session 02](cao_2_fr.md)
-{:.no_toc}
-
-## Session 03
-{:.no_toc}
-
-## Session 04
-{:.no_toc}
-
+---
 
 ## Table des matières
 {:.no_toc}

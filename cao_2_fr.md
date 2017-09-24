@@ -1,18 +1,12 @@
-# CAO - Conception Assisté par Ordinateur
+# CAO - Conception Assisté par Ordinateur II
 {:.no_toc}
 
-## [Session 01](cao_fr.md)
-{:.no_toc}
+- [Session 01](cao_fr.md)
+- [Session 02](cao_2_fr.md) `¯\_(ツ)_/¯`
+- Session 03
+- Session 04
 
-## [Session 02](cao_2_fr.md)
-{:.no_toc}
-
-## Session 03
-{:.no_toc}
-
-## Session 04
-{:.no_toc}
-
+---
 
 ## Table des matières
 {:.no_toc}
@@ -24,4 +18,4 @@
 
 ## Fusion360 sur Mac: bouton de milieu
 
-<iframe width="960" height="600" src="https://www.youtube.com/embedQrUhj4vo3Q8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QrUhj4vo3Q8?rel=0" frameborder="0" allowfullscreen></iframe>
