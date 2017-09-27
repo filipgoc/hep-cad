@@ -2,6 +2,11 @@
 # DAO - Dessin Assisté par Ordinateur
 {:.no_toc}
 
+- [Session 01](dao_fr.md) `¯\_(ツ)_/¯`
+- [Session 02](dao_2_fr.md) 
+- Session 03
+- Session 04
+
 ## Table des matières
 {:.no_toc}
 
