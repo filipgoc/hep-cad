@@ -78,6 +78,6 @@ Alors, entrainez-vous!
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTDcY77LSj6bqTpfm-2zPbSWn6skrIdztRlekua_ENM17jJnMHEteE4-cnUju74YZVvP30M9sSsPdPP/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## 3. Android/ Clé
+## 3. Android/ Clé/ Lego/ Autre/  Discuter avec Filip pour recommendation personnel. 
 
 ---
