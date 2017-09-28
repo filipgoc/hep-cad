@@ -20,6 +20,12 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrUhj4vo3Q8?rel=0" frameborder="0" allowfullscreen></iframe>
 
+Si vous configurez votre souris Mac (HEP) comme celle-ci, toute la navigation dans Fusion360, y compris le deplacement et la rotation, fonctionnera!
+
+![](https://i.imgur.com/U8RXCYa.png)
+
+![](https://i.imgur.com/um02OV5.png)
+
 ## 1. Conseils sur l'organisation
 
 ### Composants vs Corps (Composants vs Corps)
