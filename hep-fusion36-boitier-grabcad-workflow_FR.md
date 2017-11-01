@@ -38,7 +38,7 @@
     ![](https://i.imgur.com/RbVCVmb.png)
 - Nouveau composant
     ![](https://i.imgur.com/SFO1IRZ.png)
-Nomme le
+- Nomme le
     ![](https://i.imgur.com/BH6nj0N.png)
 - Assurez-vous qu'il est activé
     ![](https://i.imgur.com/1X2DJGw.png)
@@ -49,11 +49,11 @@ Nomme le
 - Créez une nouvelle esquisse et sélectionnez le plan que vous venez de créer
 - Utilisez l'outil de projet pour projeter la géométrie arduino sur votre croquis
     ![](https://i.imgur.com/eTlz8mN.png)
-    - Vous pouvez cliquer sur des entités individuelles comme des cercles ou des arêtes, ou cliquer sur le face d'arduino pour projeter toutes les fonctionnalités.
-        ![](https://i.imgur.com/yC7CKZ2.png)
+- Vous pouvez cliquer sur des entités individuelles comme des cercles ou des arêtes, ou cliquer sur le face d'arduino pour projeter toutes les fonctionnalités.
+    ![](https://i.imgur.com/yC7CKZ2.png)
     ![](https://i.imgur.com/EoZMjiE.png)
 - Masquer le composant arduino
-    ![](https://i.imgur.com/VXuK11T.png)
+  ![](https://i.imgur.com/VXuK11T.png)
 - Utilisez l'outil de décalage pour décaler le bord extérieur 4 mm
     ![](https://i.imgur.com/JpowA2q.png)
     ![](https://i.imgur.com/pb8I6v1.png)
@@ -88,7 +88,7 @@ Nomme le
 - Cacher le haut du corps
     ![](https://i.imgur.com/y7oxX9D.png)
 - Utilisez la commande shell pour faire un mur de 3,5 mm
-    - cliquez sur la face supérieure de notre boîte
+    - cliquez sur la face supérieure de notre boîte
     ![](https://i.imgur.com/26G3DRV.png)
     ![](https://i.imgur.com/cxMeVrr.png)
 - Répétez pour la moitié supérieure
