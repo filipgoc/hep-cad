@@ -26,6 +26,32 @@ h1 {
   text-transform: uppercase;
 }
 
+// TRY AWESOME LI
+ul,
+li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+ul {
+  margin: 2em 0;
+}
+
+li {
+  margin: 1em;
+  margin-left: 3em;
+}
+
+li:before {
+  content: '\f006';
+  font-family: 'FontAwesome';
+  float: left;
+  margin-left: -1.5em;
+  color: #0074D9;
+}
+// TRY AWESOME LI END
+
 img {
   max-width: 100%;
   padding-top: .8em;
