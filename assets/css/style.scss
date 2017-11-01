@@ -44,11 +44,12 @@ li {
 }
 
 li:before {
-  content: '\f006';
+  content: '\25C9';
   font-family: 'FontAwesome';
   float: left;
   margin-left: -1.5em;
   color: #0074D9;
+  font-size: 200%;
 }
 // TRY AWESOME LI END
 
