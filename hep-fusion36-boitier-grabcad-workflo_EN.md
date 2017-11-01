@@ -1,0 +1,198 @@
+
+# Design an Arduino Uno Enclosure (GrabCAD Workflow)
+
+## Part One: 
+
+- Get a GrabCAD.com account. 
+- Log in. 
+- [Search for 'Arduino Uno'](https://grabcad.com/library)
+    - ![](https://i.imgur.com/QxJQQlo.png)
+- Click on a few models, and see which one you like. 
+- You want a model that has STEP, IGES, SAT, F3D, or SolidWorks format available in the Downloads. 
+    - ![](https://i.imgur.com/lIGqgwX.png)
+    - (The most common files that you can get and use in Fusion360 are STEP Files (_.ste, _.step, _.stp), IGES (_ige, _.iges, _igs),  SAT/SMT Files ( _.sat, _.smt), and SolidWorks Files ( _.prt, _.asm, _.sldprt, _.sldasm).
+    - See this page in Fusion docs for a [full list of supported files](https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/How-to-import-or-open-a-file-in-Autodesk-Fusion-360.html). )
+- Download the 3D model model only by clicking directly on the file, or download All. 
+    - ![](https://i.imgur.com/iZfyIvq.png)
+    - ![](https://i.imgur.com/r3TANHS.png)
+- Open Fusion360
+- Optionally, create a new project
+    - ![](https://i.imgur.com/Fvxv7h6.png)
+- Click upload
+    - ![](https://i.imgur.com/hTYahQa.png)
+- Select the file you just downloaded and click upload
+    - ![](https://i.imgur.com/6F46kh7.png)
+- Wait for the process to finish
+- Start a new design
+    - ![](https://i.imgur.com/8AHRr2E.png)
+- Save the design
+    - To select the folder in which to save the design, you can click on the 'see more' button
+    - ![](https://i.imgur.com/Ex6mhRF.png)
+- Insert the Arduino into our new design
+    - ![](https://i.imgur.com/OdYVUMI.png)
+    - You may need to use the rotation handles to position the model properly
+      ![](https://i.imgur.com/nE3j9dw.png)g...
+- Hide the data panel
+    - ![](https://i.imgur.com/FumkrJ5.png)
+- Make sure you are in 'Model' workspace
+    - ![](https://i.imgur.com/RbVCVmb.png)
+- New component
+    - ![](https://i.imgur.com/SFO1IRZ.png)
+Name it
+    - ![](https://i.imgur.com/BH6nj0N.png)
+- Make sure it's 'activated'
+    - ![](https://i.imgur.com/1X2DJGw.png)
+- New offset plane
+    - ![](https://i.imgur.com/X1zO0Q7.png)
+- Offset from the BOTTOM of the arduino 3mm
+    - ![](https://i.imgur.com/jCXIs7H.png)
+- Create new sketch and select the plane that you just created
+- Use the Project Tool to project the arduino geometry onto your sketch
+    - ![](https://i.imgur.com/eTlz8mN.png)
+    - You can click on individual features like circles or edges, or click on the arduino face to project all the features.  arduino face to project all the features. 
+        - ![](https://i.imgur.com/yC7CKZ2.png)
+    - ![](https://i.imgur.com/EoZMjiE.png)
+- Hide the arduino component
+    - ![](https://i.imgur.com/VXuK11T.png)
+- Use the offset tool to offset the outside edge 4 mm
+    - ![](https://i.imgur.com/JpowA2q.png)
+    - ![](https://i.imgur.com/pb8I6v1.png)
+- Select and delete anything other than the outline and the holes
+    - ![](https://i.imgur.com/LN2htvl.png)
+- Stop sketch
+    - ![](https://i.imgur.com/aGQ19W7.png)
+- Select all the sketch profiles
+    - ![](https://i.imgur.com/Mq8mAec.png)
+- Unhide arduino
+    - ![](https://i.imgur.com/F3zmO62.png)
+- Start an extrude command upwards
+- Click and drag on the arrow up a little
+    - ![](https://i.imgur.com/nNBX5lY.png)
+- Now, click on the top part of the arduino (the connector), and the extrude distance will snap to this point. 
+    - ![](https://i.imgur.com/1b9pOe6.png)
+- Go to the dialog box, and add '+4' to the extrude distance
+    - (Or `-4` - this depends on the direction of your first extrude. Important is you are ADDING a distance.)
+  - ![](https://i.imgur.com/N5zhWCq.png)
+- We have a new body!
+    - ![](https://i.imgur.com/ozjz8IO.png)
+- Save :-) 
+    - ![](https://i.imgur.com/A5Ujrug.png)
+- Construct a midplane between the top and the bottom
+    - ![](https://i.imgur.com/SD8Ozsa.png)
+    - ![](https://i.imgur.com/dkjWnSx.png)
+- Use the Split Body command to split the body with this plane
+    - ![](https://i.imgur.com/lvL1UvK.png)
+    - ![](https://i.imgur.com/5l7TdOO.png)
+- Hide Construction, hide sketches, and expand Bodies view
+    - ![](https://i.imgur.com/Igy1KUF.png)
+- Hide the upper body
+    - ![](https://i.imgur.com/y7oxX9D.png)
+- Use the shell command to make 3.5mm wall
+    - click on the top face of our box
+    - ![](https://i.imgur.com/26G3DRV.png)
+    -  ![](https://i.imgur.com/cxMeVrr.png)
+- Repeat fot the top half
+    - ![](https://i.imgur.com/46qfsUR.png)
+- Create a new sketch by clicking on the top part of our box BOTTOM part
+    - This automatically 'projects' the face onto the new sketch
+    - ![](https://i.imgur.com/8DL5PBx.png) 
+- Offset the outline like before, 1.8mm into the model. 
+    - ![](https://i.imgur.com/grq4Mun.png)
+- Stop the sketch, make sure this new sketch is visible and hide the old sketch. 
+    - ![](https://i.imgur.com/Edlumq6.png)
+- Here I switch to colors to see the different components better
+    - ![](https://i.imgur.com/QIMpuoj.png)
+- Extrude the inside part of the sketch 4 mm up
+    - ![](https://i.imgur.com/tCI5E5R.png)
+- Make the sketch visible again (it hides automatically when you extrude for the first time) and make the 2nd half visible
+    - ![](https://i.imgur.com/a6GxaVd.png)
+- Extrude the inner sketch INTO the model, cutting it. 
+    - ![](https://i.imgur.com/YC4rzoN.png)
+- Use the section analysis tool to see the insides. 
+    - ![](https://i.imgur.com/96HNNvB.png)
+    - ![](https://i.imgur.com/fnsc8vE.png)
+- Realize you made a mistake. 
+    - ![](https://i.imgur.com/vTzB9Eb.png)
+- Edit the 2nd shell command from 4mm to 3.5mm
+    - ![](https://i.imgur.com/vbmDhFz.png)
+    - ![](https://i.imgur.com/GMDp0Yv.png)
+- Now we **have a simple Arduino Box!**
+    - ![](https://i.imgur.com/r8Iyg5a.png)
+
+## However! Part Two:
+
+- We are not finished. When we look closely, there's a few things we need to do to make the box actually working. We need to make a few adjustments. 
+- There are **THREE** more things we need to do to make this box work. Can you figure out what they are and how to do them? (Read on for a solution.)
+
+### Add more space on the bottom and top.
+- We forgot to compensate for the thickness of the wall. There's a a clear overlap on the bottom between the arduino (and its pins) and the box. 
+    - ![](https://i.imgur.com/ONWdwYv.png)
+-  To fix this issue, right click on the the first command, offset plane, and go in to editing mode. 
+    - Change it to 6.5mm (3+3.5 (thickness of the box))
+    - ![](https://i.imgur.com/T2DwFq4.png)
+    - ![](https://i.imgur.com/JsgWZwS.png)
+- That's clearly better. 
+    - ![](https://i.imgur.com/bwhYe6i.png)
+- Now, on the top, simply edit the first extrusion. Add another 3.5mm to the extruded length, totalling now 23 mm.
+    - ![](https://i.imgur.com/QUHsMaZ.png)
+    - ![](https://i.imgur.com/6tioVwh.png)
+- Now the arduino has space both above and below. 
+    - ![](https://i.imgur.com/foGi82z.png)
+ 
+ ### Add 'tolerance' between the upper and the lower half. 
+ 
+- We're going to 3D print our box, and 3D printing adds a bit of imprecision into the mix. We need to design a small space (about 0.2mm) between the  walls so that the two halves actually fit together. 
+    - ![](https://i.imgur.com/8pxJym3.png)
+- Hide the top part. 
+- Go back and edit the sketch on in the middle.
+    - Make a new offset, this time 1.6mm
+    - ![](https://i.imgur.com/irZZasU.png)
+    - Now we have two lines, 0.2 mm apart
+    - ![](https://i.imgur.com/lLBUVj2.png)
+- Go back and edit the last extrusion. 
+    - Click on this 0.2 mm strip we just created to add it to the extrusion. 
+    - ![](https://i.imgur.com/jFCHAYf.png)
+- Unhide the top and see, there is now 0.2mm gap between the parts!
+    - ![](https://i.imgur.com/G3UeoKd.png)
+
+### Cutout holes for connectors
+- Lastly, we need to cutout space for the connectors. 
+    - ![](https://i.imgur.com/Gm9RaRd.png)
+- Hide the 'section analysis'
+    - ![](https://i.imgur.com/2CGCEBd.png)
+- Make a new sketch on the boxe's side face where the connectors are
+    - ![](https://i.imgur.com/y7G6UEO.png)
+- Since we started a sketch on a face and not on a plane, 'new sketch' automatically also makes a projection of the face onto the sketch. We don't want that now. Select everything and press delete. Now we have an empty sketch. 
+    - ![](https://i.imgur.com/yvezdYh.png)
+- Select the Project tool and project the USB connector. Simply click on its face.
+    - ![](https://i.imgur.com/DWalkst.png)
+    - ![](https://i.imgur.com/jahg3OQ.png)
+- Hide the bodies
+- Continue using the Project tool to project the power connector. 
+    - ![](https://i.imgur.com/8aWZt5x.png)
+- Let's add some tolerance to both projections with the offset tool. Maybe 0.4 mm ?
+    - ![](https://i.imgur.com/llKCrcs.png)
+    - ![](https://i.imgur.com/kr9Ptgk.png)
+- Double click on the inside project rectangle to select it. Then, right click, and select 'Construction geometry'. This makes the shape visible - dotted line -  but it will be hidden to commands like extrude, which will make it easier to work with. 
+    - You can hide the arduino to see the sketch easier. 
+    - ![](https://i.imgur.com/PlKfVhV.png)
+    - ![](https://i.imgur.com/gdUYPCS.png)
+- Do the same for the other connector. 
+    - ![](https://i.imgur.com/0KfgSv9.png)
+- Delete other superfluous inside geometry. 
+    - ![](https://i.imgur.com/FSB18kS.png)
+    - ![](https://i.imgur.com/CJyMRD3.png)
+- Stop the sketch and Unhide the bodies. 
+    - ![](https://i.imgur.com/XP2FVeJ.png)
+- Extrude both sketch profiles into the bodies to 'cut' the holes. 
+    - ![](https://i.imgur.com/b4Pa7Cn.png)
+- Tadaaaa! We got a probably functional arduino case!
+
+- Bonus: You can select the outside edges, and add a 0.8 mm 'chamfer' to make the box look cooler and smoother. 
+    - ![](https://i.imgur.com/R4cBTdj.png)
+    - ![](https://i.imgur.com/uecw8Yz.png)
+    - ![](https://i.imgur.com/sDwGJqG.png)
+- PS: Now would be the time to make another sketch on the top face, and add some custom super cool cutouts! That's up to you. PS: you can import dxf or svg files from Inkscape or Illustrator...
+- What would a design be without some cool? 
+- Icon 'Gentleman' created by iconsmind.com for the Noun Project. (Creative Commons)
+- ![](https://i.imgur.com/tSRTGnF.png)

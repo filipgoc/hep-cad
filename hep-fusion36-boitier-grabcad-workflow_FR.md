@@ -31,7 +31,7 @@
 - Insérez l'Arduino dans notre nouveau design
     ![](https://i.imgur.com/OdYVUMI.png)
     - Vous devrez peut-être utiliser les poignées de rotation pour positionner le modèle correctement
-      ! [](https://i.imgur.com/nE3j9dw.png)
+   ![](https://i.imgur.com/nE3j9dw.png)
 - Masquer le panneau de données
     ![](https://i.imgur.com/FumkrJ5.png)
 - Assurez-vous que vous êtes dans l'espace de travail 'Modèle'
