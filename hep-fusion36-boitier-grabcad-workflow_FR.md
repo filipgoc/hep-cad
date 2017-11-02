@@ -1,5 +1,11 @@
 # Concevoir un boîtier Arduino Uno (GrabCAD Workflow)
 
+Ce tuto vous montre un **flux de travail** très utile
+
+1.  télécharger un modèle 3D depuis Internet, 
+2. l'importer dans Fusion360, 
+3. puis créer plus de géométrie à partir de ce modèle.
+
 ## Partie 1:
 
 - Obtenez un compte GrabCAD.com.
