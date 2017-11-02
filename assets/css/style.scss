@@ -27,7 +27,7 @@ h1 {
 }
 
 // TRY AWESOME LI
-ul, li {
+ul li {
   padding: 0;
   margin: 0;
   list-style: none;
@@ -46,7 +46,7 @@ ul li:before {
     content: '\25C9';
     float: left;
     margin-left: -1.5em;
-    color: #f87b0f;
+    color: #1e6bb8;
     font-size: 100%;
 }
 
