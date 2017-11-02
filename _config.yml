@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: HEP DAO
 description: Ateliers 2D Dessin et de Modélisation 3D Assiste par Ordinateur pour Noobs
+gems:
+  - jekyll-last-modified-at
