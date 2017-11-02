@@ -46,6 +46,11 @@ ul li:before {
     content: '\25C9';
     float: left;
     margin-left: -1.5em;
+    color: red;
+    font-size: 100%;
+}
+
+ol li:before {
     color: #0074D9;
     font-size: 100%;
 }
