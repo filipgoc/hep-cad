@@ -6,6 +6,8 @@ Ce tuto vous montre un **flux de travail** très utile
 2. l'importer dans Fusion360, 
 3. puis créer plus de géométrie à partir de ce modèle.
 
+![](https://i.imgur.com/tSRTGnF.png)
+
 ## Partie 1:
 
 - Obtenez un compte GrabCAD.com.
