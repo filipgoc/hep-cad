@@ -197,3 +197,11 @@
 - Que serait un design sans cool?
 - Icône 'Gentleman' créé par iconsmind.com pour le projet Noun. (Creative Commons)
  ![](https://i.imgur.com/tSRTGnF.png)
+ 
+ - PSS:
+ 
+**Pourquoi ai-je laissé les erreurs** (comme une mauvaise distance d'extrusion) dans ce tutoriel au lieu de le rendre parfait dès le début?
+
+Parce que c'est comme ça que vous travaillez dans le monde réel. **Vous faites quelque chose assez rapidement sans trop réfléchir, puis revenez et changez les choses jusqu'à ce que ça marche.**
+
+Profitez du processus!
