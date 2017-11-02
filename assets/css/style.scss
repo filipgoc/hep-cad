@@ -27,8 +27,7 @@ h1 {
 }
 
 // TRY AWESOME LI
-ul,
-li {
+ul, li {
   padding: 0;
   margin: 0;
   list-style: none;
@@ -43,7 +42,7 @@ li {
   margin-left: 3em;
 }
 
-li:before {
+ul li:before {
     content: '\25C9';
     float: left;
     margin-left: -1.5em;
